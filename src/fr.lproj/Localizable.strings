@@ -1,0 +1,69 @@
+/* 
+   Localizable.strings
+   Ile sans fil
+
+   Created by Oli Kenobi on 09-10-19.
+   Copyright 2009 Kenobi Studios. All rights reserved.
+ */
+
+"Map" = "Carte";
+"Hotspots" = "Points d'accès";
+"News" = "Nouvelles";
+"Informations" = "Informations";
+"Favorites" = "Favoris";
+
+// Connection View
+"Cannot connect to the Internet" = "Aucune connexion à Internet";
+"You must connect to a Wi-Fi or cellular data network to view the map." = "Vous devez être connecté à un réseau Wi-Fi ou cellulaire pour voir la carte ";
+"To take advantage of offline mode, you need to connect once to Internet to create the database of hotspots." = "Pour profiter du MODE HORS-LIGNE, vous devez vous connecter une première fois à Internet afin de créer la base de données des points d'accès";
+"To take advantage of offline mode, you need to connect once to Internet to create the database of news." = "Pour profiter du MODE HORS-LIGNE, vous devez vous connecter une première fois à Internet afin de créer la base de données actualité";
+
+"Loading..." = "Chargement...";
+"Release to refresh..." = "Relachez pour rafraichir...";
+"Pull down to refresh..." = "Abaissez pour rafraichir...";
+"Last Updated: %@" = "Dernière mise à jour: %@";
+"Locating..." = "Localisation...";
+"You are here" = "Vous êtes ici";
+"There are no location in the area" = "Aucun point d'accès dans cette zone";
+"Could not find the address" = "Impossible de trouver l'adresse";
+
+"btn-back-map" = "btn-back-map-fr.png";
+"btn-retour" = "btn-retour-fr.png";
+"btn-back-favorites" = "btn-back-favorites-fr.png";
+"btn-back-list" = "btn-back-list-fr.png"; 
+"Address" = "Addresse";
+"Phone" = "Téléphone";
+"Email" = "Courriel";
+"Directions To Here" = "Itinéraire vers ce lieu";
+"Show it on the map" = "Montrer sur la carte";
+"Add to Favorites" = "Ajouter aux favoris";
+"Remove to Favorites" = "Enlever des favoris";
+"Open in Google Maps?" = "Ouvrir dans Google Maps ?";
+"Call the phone number?" = "Appeler le numéro ?";
+"Send an email?" = "Envoyer un courriel ?";
+"This hotspot has been removed!" = "Ce point d'accés a été supprimé !";
+
+"site apache"= "http://www.ilesansfil.org/a-propos/documents-officiels/licence-app/";
+
+"ISF News" = "Nouvelles ZAP Québec";
+
+"Yes" = "Oui";
+"No" = "Non";
+"Visit the ZAP Quebec website?" = "Voulez vous Visiter le site de ZAP Quebec ?";
+"Visit the Île sans fil website?" = "Voulez vous Visiter le site d'Île sans fil ?";
+"Visit the Thomas Dobranowski website?" = "Voulez vous visiter le site web de Thomas Dobranowski ?";
+"Visit the Laurent Maisonnave website?" = "Voulez vous visiter le site web de Laurent Maisonnave ?";
+"Visit the Patrick Boucher website?" = "Voulez vous visiter le site de web Patrick Boucher ?";
+"Visit the ZAP Quebec website Apache 2.0 license?" = "Voulez vous visiter le site de la license Apache 2.0 de ZAP Quebec ?";
+"Call ZAP Quebec?" = "Appeler ZAP Quebec?";
+"Send an email to ZAP Quebec?" = "Écrire un courriel à ZAP Quebec?";
+
+"infosImage" = "infos_fr.png";
+"isfButton" = "btn_isf_fr.png";
+"backButton" = "btn_isf_infos_back_fr.png";
+"isfInfosImage" = "isf_infos_fr.png";
+"isfInfosNotice" = "isfInfosNotice_fr.png";
+"isfCreditsImage" ="btn_credits_fr.png";
+"btn_notice" = "btn_notice_fr.png";
+
+"textinfo" = "Cette application vous permet de trouver des points d'accès sans fil gratuits du réseau ZAP Québec, un organisme à but non-lucratif oeuvrant sur tout le territoire de la Capitale-Nationale, Lévis de même que la Côte-de-Beaupré.";
