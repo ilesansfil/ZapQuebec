@@ -49,14 +49,14 @@
 
 "Yes" = "Oui";
 "No" = "Non";
-"Visit the ZAP Quebec website?" = "Voulez vous Visiter le site de ZAP Quebec ?";
+"Visit the ZAP Quebec website?" = "Voulez vous Visiter le site de ZAP Québec ?";
 "Visit the Île sans fil website?" = "Voulez vous Visiter le site d'Île sans fil ?";
 "Visit the Thomas Dobranowski website?" = "Voulez vous visiter le site web de Thomas Dobranowski ?";
 "Visit the Laurent Maisonnave website?" = "Voulez vous visiter le site web de Laurent Maisonnave ?";
 "Visit the Patrick Boucher website?" = "Voulez vous visiter le site de web Patrick Boucher ?";
-"Visit the ZAP Quebec website Apache 2.0 license?" = "Voulez vous visiter le site de la license Apache 2.0 de ZAP Quebec ?";
-"Call ZAP Quebec?" = "Appeler ZAP Quebec?";
-"Send an email to ZAP Quebec?" = "Écrire un courriel à ZAP Quebec?";
+"Visit the ZAP Quebec website Apache 2.0 license?" = "Voulez vous visiter le site de la license Apache 2.0 de ZAP Québec ?";
+"Call ZAP Quebec?" = "Appeler ZAP Québec?";
+"Send an email to ZAP Quebec?" = "Écrire un courriel à ZAP Québec?";
 
 "infosImage" = "infos_fr.png";
 "isfButton" = "btn_isf_fr.png";
@@ -65,5 +65,18 @@
 "isfInfosNotice" = "isfInfosNotice_fr.png";
 "isfCreditsImage" ="btn_credits_fr.png";
 "btn_notice" = "btn_notice_fr.png";
+"bt_settings" = "settings_fr.png";
+
+"New Twitter Account"="Ajouter compte Twitter";
+"Delete Twitter Account"="Retirer compte Twitter";
+"New Facebook Account"="Ajouter compte Facebook";
+"Delete Facebook Account"="Retirer compte Facebook";
+
+"#ISF i'm actually to  " = "#ZAPQuebec je suis actuellement au  ";
+
+"Connected @ " = "Connecté @ ";
+" • An ZAP Quebec's hotspot" = " • Un point d'accès ZAP Québec";
+"My wireless community in Montreal" = "Ma communauté sans fil à Québec";
+
 
 "textinfo" = "Cette application vous permet de trouver des points d'accès sans fil gratuits du réseau ZAP Québec, un organisme à but non-lucratif oeuvrant sur tout le territoire de la Capitale-Nationale, Lévis de même que la Côte-de-Beaupré.";

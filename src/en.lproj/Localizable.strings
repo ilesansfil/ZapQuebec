@@ -64,6 +64,19 @@
 "isfInfosNotice" = "isfInfosNotice_en.png";
 "isfCreditsImage" ="btn_credits_en.png";
 "btn_notice" = "btn_notice_en.png";
+"bt_settings" = "settings_en.png";
 
+"New Twitter Account"="Add Twitter Account";
+"Delete Twitter Account"="Unlink Twitter Account";
+"New Facebook Account"="Add Facebook Account";
+"Delete Facebook Account"="Unlink Facebook Account";
+
+"#ISF i'm actually to  " = "#ISF i'm actually to  ";
+
+"Connected @ " = "Connected @ ";
+" • An ZAP Quebec's hotspot" = " • An ZAP Quebec's hotspot";
+"My wireless community in Montreal" = "My wireless community in Quebec";
+
+"#ISF i'm actually to  " = "#ZAPQuebec i'm actually to  ";
 
 "textinfo" = "This application allows you to find hotspots free wireless network ZAP Québec, a body nonprofit working on the whole territory of the Capitale-Nationale, Levis along the Côte-de-Beaupre.";

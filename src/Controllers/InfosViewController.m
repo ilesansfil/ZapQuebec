@@ -7,7 +7,7 @@
 //
 
 #import "InfosViewController.h"
-
+#import "SA_OAuthTwitterEngine.h"
 
 #define kActionSheetVisitIleSansFil			2
 #define kActionSheetCallIleSansFil			3
@@ -18,8 +18,13 @@
 #define kActionSheetVisitLaurent			8
 #define kActionSheetVisitApache				9
 #define kActionSheetZAPQuebec				10
-@implementation InfosViewController
 
+#define kOAuthConsumerKey				@"nfUkJewstaRw4n7mkhe1tg"		//REPLACE ME
+#define kOAuthConsumerSecret			@"kgUSlTS0VEV2DKETFiwkHbJ3BqwJlNJgC7TmZ20HzE"		//REPLACE ME
+
+
+@implementation InfosViewController
+@synthesize mainView;
 
 - (void)viewDidLoad {
 	[super viewDidLoad];
@@ -33,6 +38,10 @@
 	[backButton setImage:[UIImage imageNamed:NSLocalizedString(@"backButton", @"")] forState:UIControlStateNormal];
 	[backButton2 setImage:[UIImage imageNamed:NSLocalizedString(@"backButton", @"")] forState:UIControlStateNormal];
 	[backButton3 setImage:[UIImage imageNamed:NSLocalizedString(@"backButton", @"")] forState:UIControlStateNormal];
+	[bt_settings setImage:[UIImage imageNamed:NSLocalizedString(@"bt_settings",@"")] forState:UIControlStateNormal];
+	
+	lasettingsviewcontroller = [[SettingsViewController alloc] initWithNibName:@"SettingsViewController" bundle:[NSBundle mainBundle]];
+	
 	
 	NSString *versionString = [[NSBundle mainBundle] objectForInfoDictionaryKey:(NSString*)kCFBundleVersionKey];
 	NSLog(@"version : %@",versionString);
@@ -44,10 +53,14 @@
 	
 	
 	infos.text=NSLocalizedString(@"textinfo",@"");
-	
+	scroll.contentSize = CGSizeMake(320, 241);
 	
 }
-
+- (void)viewWillAppear:(BOOL)animated {
+	[super viewWillAppear:animated];
+	[lasettingsviewcontroller viewWillAppear:YES];
+	
+}
 - (void)didReceiveMemoryWarning {
 	// Releases the view if it doesn't have a superview.
 	[super didReceiveMemoryWarning];
@@ -137,6 +150,20 @@
 		isMainView = YES;
 	}
 	
+}
+- (IBAction)flipViews4 {
+	if (isMainView == YES) {
+		
+		
+		[UIView beginAnimations:nil context:nil];
+		[UIView setAnimationDuration:1.0];
+		[UIView setAnimationBeginsFromCurrentState:NO];
+		[UIView setAnimationTransition:UIViewAnimationTransitionFlipFromRight forView:self.view cache:YES];
+		[mainView removeFromSuperview];
+		[self.view addSubview:lasettingsviewcontroller.view];
+		[UIView commitAnimations];
+		isMainView = NO;
+	}
 }
 - (IBAction)visitIleSansFil {
 	UIActionSheet *actionSheet = [[UIActionSheet alloc] initWithTitle:NSLocalizedString(@"Visit the Île sans fil website?", @"")
@@ -284,5 +311,18 @@
 			break;
 	}
 }
-
+-(IBAction)deleteCacheTwitter {
+	
+	if (!_engine){
+		_engine = [[SA_OAuthTwitterEngine alloc] initOAuthWithDelegate: self];
+		_engine.consumerKey = kOAuthConsumerKey;
+		_engine.consumerSecret = kOAuthConsumerSecret;
+	}
+	[_engine clearAccessToken];
+	
+	
+}
+-(void)setisMainView:(BOOL)ismainview {
+	isMainView=ismainview;
+}
 @end

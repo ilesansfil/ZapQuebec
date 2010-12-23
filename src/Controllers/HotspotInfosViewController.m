@@ -11,6 +11,8 @@
 #import "Model.h"
 #import "MapViewController.h"
 #import "ISFAppDelegate.h"
+#import "FBConnect.h"
+#import "UserRequestResult.h"
 
 #define kSectionInfos			0
 #define kSectionDirections		1
@@ -24,14 +26,19 @@
 #define kActionSheetCallPhone	2
 #define kActionSheetSendEmail	3
 
+// Your Facebook APP Id must be set before running this example
+// See http://www.facebook.com/developers/createapp.php
+static NSString* kAppId = @"147253168659531";
+
+
 @implementation HotspotInfosViewController
 
 @synthesize hotspot, currentCoords, exist;
-
+@synthesize label = _label;
 
 - (void)viewDidLoad {
 	
-	
+	twitterviewcontroller = [[TwitterViewController alloc] initWithNibName:@"TwitterViewController" bundle:[NSBundle mainBundle]];
 	NSString *identifier=hotspot.hotspotId;
 	NSPredicate *predicate = identifier
 	? [NSPredicate predicateWithFormat:@"identifier == %@", identifier]
@@ -67,8 +74,21 @@
 	
 	
 	
-	//self.navigationController.topViewController.navigationController.navigationBar.topItem.rightBarButtonItem=addfavoriteButton;
+	
 	infos = [[NSMutableArray alloc] init];
+	
+	_facebook = [[self restore] retain];
+	if (_facebook == nil) {
+		_facebook = [[Facebook alloc] init];
+		_fbButton.isLoggedIn = NO;
+		NSLog(@"PAS LOGUER");
+	} else {
+		_fbButton.isLoggedIn = YES;
+		//[self fbDidLogin];
+		NSLog(@"restore LOGUé");
+	}
+
+	
 	[super viewDidLoad];
 }
 
@@ -155,7 +175,20 @@
 	nameLabel.numberOfLines = 3;
 	[headerView addSubview:nameLabel];
 	
-	//UIImageView *imageView=[[UIImageView alloc] initWithImage:[UIImage imageNamed:@"pin-down.png"]];
+	UIButton *bt_share = [[UIButton alloc] initWithFrame:CGRectMake(235, 5, 50, size.height+40.0f)];
+	[bt_share setImage:[UIImage imageNamed:@"logo_twitter.png"] forState:UIControlStateNormal];
+	[bt_share addTarget:self action:@selector(buttonPressed:) forControlEvents:UIControlEventTouchUpInside];
+	[headerView addSubview:bt_share];
+
+	
+	_fbButton = [[FBLoginButton alloc] initWithFrame:CGRectMake(275, 5, 50, size.height+40.0f)];
+	[_fbButton setImage:[UIImage imageNamed:@"logo_facebook.png"] forState:UIControlStateNormal];
+	[_fbButton addTarget:self action:@selector(fbButtonClick:) forControlEvents:UIControlEventTouchUpInside];
+	[headerView addSubview:_fbButton];
+	
+	
+	
+	
 	UIImageView *imageView=[[[UIImageView alloc] initWithFrame:CGRectMake(20, 20, 20,/* size.height+10*/34)] autorelease];
 
 	if ([hotspot status] == kHotspotStatusUnknow) imageView.image = [UIImage imageNamed:@"pin-unknown.png"];
@@ -166,6 +199,21 @@
 	[headerView addSubview:imageView];
 
 	return headerView;
+}
+
+//twitter button
+- (void)buttonPressed:(UIButton *)sender {
+	
+	[self.navigationController pushViewController:twitterviewcontroller animated:YES];
+	
+	
+	NSString *texte=[[NSString alloc] init];
+	
+	
+	texte=[[NSLocalizedString(@"@ ",@"") stringByAppendingString:hotspot.name] stringByAppendingString:@" #ZAPqc"];
+	  
+	[twitterviewcontroller setmessage:texte];
+	
 }
 
 - (UITableViewCell *)tableView:(UITableView *)tableView cellForRowAtIndexPath:(NSIndexPath *)indexPath {
@@ -193,31 +241,6 @@
 	if(indexPath.section == kSectionFavorite)	 {
 		
 		
-	/*	NSString *identifier=hotspot.hotspotId;
-		NSPredicate *predicate = identifier
-		? [NSPredicate predicateWithFormat:@"identifier == %@", identifier]
-		: nil;
-		
-		id entity = [[Model shared] findFirstObjectForEntityForName:@"Favorite" 
-														  predicate:predicate 
-														   sortedBy:nil];
-		
-		if(entity==nil)
-		{
-			cell.textLabel.text				= NSLocalizedString(@"Add to Favorites", @"");
-			cell.textLabel.textAlignment	= UITextAlignmentCenter;
-			UIImage *img= [UIImage imageNamed:@"favorite-grey.png"];
-			cell.imageView.image = img;
-			self.exist=0;
-			
-		} else {
-			
-			cell.textLabel.text				= NSLocalizedString(@"Remove to Favorites", @"");
-			cell.textLabel.textAlignment	= UITextAlignmentCenter;
-			UIImage *img= [UIImage imageNamed:@"favorite-color.png"];
-			cell.imageView.image = img;
-			self.exist=1;
-		}*/
 		cell.textLabel.text				= NSLocalizedString(@"Show it on the map", @"");
 		cell.textLabel.textAlignment	= UITextAlignmentCenter;
 		UIImage *img= [UIImage imageNamed:@"showmap.png"];
@@ -298,6 +321,14 @@
 
 - (void)dealloc {
 	[infos release];
+	[_label release];
+	[_fbButton release];
+	[_getUserInfoButton release];
+	[_getPublicInfoButton release];
+	[_publishButton release];
+	[_uploadPhotoButton release];
+	[_facebook release];
+	[_permissions release];
 	[super dealloc];
 }
 
@@ -454,10 +485,7 @@
 	[laMapViewController refreshAnnotations:hotspot];
 	
 }
-/*
-- (IBAction)closeView {
-	[self dismissModalViewControllerAnimated:YES];
-}*/
+
 
 
 #pragma mark -
@@ -485,6 +513,297 @@
 	}
 }
 
+
+
+
+//FACEBOOK 
+
+/**
+ * initialization 
+ */
+- (id)initWithNibName:(NSString *)nibNameOrNil bundle:(NSBundle *)nibBundleOrNil {
+	if ((self = [super initWithNibName:nibNameOrNil bundle:nibBundleOrNil])) {
+		_permissions =  [[NSArray arrayWithObjects: 
+						  @"read_stream", @"offline_access",nil] retain];
+	}
+	
+	return self;
+}
+
+
+/**
+ * Example of facebook login and permission request
+ */
+- (void) login {
+	[_facebook authorize:kAppId permissions:_permissions delegate:self];
+	
+}
+
+/**
+ * Example of facebook logout
+ */
+- (void) logout {
+	[_facebook logout:self]; 
+}
+
+///////////////////////////////////////////////////////////////////////////////////////////////////
+// IBAction
+
+/**
+ * Login/out button click
+ */
+- (IBAction) fbButtonClick: (id) sender {
+	
+	if (_fbButton.isLoggedIn) {
+		
+		SBJSON *jsonWriter = [[SBJSON new] autorelease];
+		
+		NSDictionary* actionLinks = [NSArray arrayWithObjects:[NSDictionary dictionaryWithObjectsAndKeys: 
+															   @"Always Running",@"text",@"http://zapquebec.org/",@"href", nil], nil];
+		
+
+		NSString *actionLinksStr = [jsonWriter stringWithObject:actionLinks];
+		NSDictionary* attachment = [NSDictionary dictionaryWithObjectsAndKeys:
+									[[NSLocalizedString(@"Connected @ ",@"") stringByAppendingString:hotspot.name] stringByAppendingString:NSLocalizedString(@" • An ZAP Quebec's hotspot",@"")], @"name",
+									[[[[[@"" stringByAppendingString:hotspot.civicNumber] stringByAppendingString:@" "] stringByAppendingString:hotspot.streetAddress] stringByAppendingString:@", "] stringByAppendingString:hotspot.postalCode], @"caption",
+									NSLocalizedString(@"My wireless community in Montreal",@""), @"description",
+									@"http://zapquebec.org/", @"href", nil];
+		
+		
+		NSString *attachmentStr = [jsonWriter stringWithObject:attachment];
+		NSMutableDictionary* params = [NSMutableDictionary dictionaryWithObjectsAndKeys:
+									   kAppId, @"api_key",
+									   @"Share on Facebook",  @"user_message_prompt",
+									   actionLinksStr, @"action_links",
+									   attachmentStr, @"attachment",
+									   nil];
+		
+
+		[_facebook dialog: @"stream.publish"
+				andParams: params
+			  andDelegate:self];
+		//[self logout];
+	} else {
+		[self login];
+		
+	}
+	
+}
+
+/**
+ * Example of graph API CAll
+ *
+ * This lets you make a Graph API Call to get the information of current logged in user.
+ */
+- (void) getUsername {
+	[_facebook requestWithGraphPath:@"me" andDelegate:self];
+}
+
+
+/**
+ * Example of REST API CAll
+ *
+ * This lets you make a REST API Call to get a user's public information with FQL.
+ */
+- (IBAction) getPublicInfo: (id)sender {
+	NSMutableDictionary * params = [NSMutableDictionary dictionaryWithObjectsAndKeys:
+									@"SELECT uid,name FROM user WHERE uid=4", @"query",
+									nil];
+	[_facebook requestWithMethodName: @"fql.query" 
+						   andParams: params
+					   andHttpMethod: @"POST" 
+						 andDelegate: self]; 
+}
+
+// Override to allow orientations other than the default portrait orientation.
+- (BOOL)shouldAutorotateToInterfaceOrientation:(UIInterfaceOrientation)interfaceOrientation {
+	return YES;
+}
+
+
+/**
+ * Callback for facebook login
+ */ 
+- (void)userRequestCompleteWithUid:(NSString *)uid {
+	_uid = uid;
+	[self setSessionWithFacebook:_facebook andUid:_uid];
+	//set user id
+	[self save];
+	//save of user id, token
+	[self getUsername];
+	NSLog(@"uid SETTER %@",uid);
+}
+-(void)userRequestFailed {
+	NSLog(@"user request failed !!");	
+}
+-(void) fbDidLogin {
+	[self.label setText:@"logged in"];
+	_getUserInfoButton.hidden    = NO;
+	_getPublicInfoButton.hidden   = NO;
+	_publishButton.hidden        = NO;
+	_uploadPhotoButton.hidden    = NO;
+	_fbButton.isLoggedIn         = YES;
+	
+	UserRequestResult *userRequestResult = [[[[UserRequestResult alloc] initializeWithDelegate:self] autorelease] retain];
+	[_facebook requestWithGraphPath:@"me" andDelegate:userRequestResult];
+	
+	
+	SBJSON *jsonWriter = [[SBJSON new] autorelease];
+	
+	NSDictionary* actionLinks = [NSArray arrayWithObjects:[NSDictionary dictionaryWithObjectsAndKeys: 
+														   @"Always Running",@"text",@"http://zapquebec.org/",@"href", nil], nil];
+
+	NSString *actionLinksStr = [jsonWriter stringWithObject:actionLinks];
+	NSDictionary* attachment = [NSDictionary dictionaryWithObjectsAndKeys:
+								[[NSLocalizedString(@"Connected @ ",@"") stringByAppendingString:hotspot.name] stringByAppendingString:NSLocalizedString(@" • An ZAP Quebec's hotspot",@"")], @"name",
+								[[[[[@"" stringByAppendingString:hotspot.civicNumber] stringByAppendingString:@" "] stringByAppendingString:hotspot.streetAddress] stringByAppendingString:@", "] stringByAppendingString:hotspot.postalCode], @"caption",
+								NSLocalizedString(@"My wireless community in Montreal",@""), @"description",
+								@"http://zapquebec.org/", @"href", nil];
+	
+	
+	NSString *attachmentStr = [jsonWriter stringWithObject:attachment];
+	NSMutableDictionary* params = [NSMutableDictionary dictionaryWithObjectsAndKeys:
+								   kAppId, @"api_key",
+								   @"Share on Facebook",  @"user_message_prompt",
+								   actionLinksStr, @"action_links",
+								   attachmentStr, @"attachment",
+								   nil];
+	
+	
+	
+	[_facebook dialog: @"stream.publish"
+			andParams: params
+		  andDelegate:self];
+	
+	//[_fbButton updateImage];
+}
+
+/**
+ * Callback for facebook did not login
+ */
+- (void)fbDidNotLogin:(BOOL)cancelled {
+	NSLog(@"did not login");
+}
+
+/**
+ * Callback for facebook logout
+ */ 
+-(void) fbDidLogout {
+	[self.label setText:@"Please log in"];
+	_getUserInfoButton.hidden    = YES;
+	_getPublicInfoButton.hidden   = YES;
+	_publishButton.hidden        = YES;
+	_uploadPhotoButton.hidden = YES;
+	_fbButton.isLoggedIn         = NO;
+	[_fbButton updateImage];
+}
+
+
+///////////////////////////////////////////////////////////////////////////////////////////////////
+// FBRequestDelegate
+
+/**
+ * Callback when a request receives Response
+ */ 
+- (void)request:(FBRequest*)request didReceiveResponse:(NSURLResponse*)response{
+	NSLog(@"received response");
+};
+
+/**
+ * Called when an error prevents the request from completing successfully.
+ */
+- (void)request:(FBRequest*)request didFailWithError:(NSError*)error{
+	[self.label setText:[error localizedDescription]];
+};
+
+/**
+ * Called when a request returns and its response has been parsed into an object.
+ * The resulting object may be a dictionary, an array, a string, or a number, depending
+ * on thee format of the API response.
+ */
+- (void)request:(FBRequest*)request didLoad:(id)result {
+	if ([result isKindOfClass:[NSArray class]]) {
+		result = [result objectAtIndex:0]; 
+	}
+	if ([result objectForKey:@"owner"]) {
+		[self.label setText:@"Photo upload Success"];
+	} else {
+		[self.label setText:[result objectForKey:@"name"]];
+		NSLog(@"name %@",[result objectForKey:@"name"]);
+	}
+};
+
+///////////////////////////////////////////////////////////////////////////////////////////////////
+// FBDialogDelegate
+
+/** 
+ * Called when a UIServer Dialog successfully return
+ */
+- (void)dialogDidComplete:(FBDialog*)dialog{
+	[self.label setText:@"publish successfully"];
+}
+
+
+
+- (void) save {
+	NSUserDefaults *defaults = [NSUserDefaults standardUserDefaults];
+	if ((_uid != (NSString *) [NSNull null]) && (_uid.length > 0)) {
+		[defaults setObject:_uid forKey:@"FBUserId"];
+		NSLog(@"UIDsauvé");
+	} else {
+		[defaults removeObjectForKey:@"FBUserId"];
+	}
+	
+	NSString *access_token = _facebook.accessToken;
+	if ((access_token != (NSString *) [NSNull null]) && (access_token.length > 0)) {
+		[defaults setObject:access_token forKey:@"FBAccessToken"];
+		NSLog(@"TOKENsauvé");
+	} else {
+		[defaults removeObjectForKey:@"FBAccessToken"];
+	}
+	
+	NSDate *expirationDate = _facebook.expirationDate;  
+	if (expirationDate) {
+		[defaults setObject:expirationDate forKey:@"FBSessionExpires"];
+		NSLog(@"EXPIRATIONsauvé");
+	} else {
+		[defaults removeObjectForKey:@"FBSessionExpires"];
+	}
+	
+	[defaults synchronize];
+	
+}
+
+- (void) unsave {
+	NSUserDefaults *defaults = [NSUserDefaults standardUserDefaults];
+	[defaults removeObjectForKey:@"FBUserId"];
+	[defaults removeObjectForKey:@"FBAccessToken"];
+	[defaults removeObjectForKey:@"FBSessionExpires"];
+	[defaults synchronize]; 
+	
+}
+
+- (id) restore {
+	NSUserDefaults *defaults = [NSUserDefaults standardUserDefaults];
+	NSString *uid = [defaults objectForKey:@"FBUserId"];
+	if (uid) {
+		NSDate* expirationDate = [defaults objectForKey:@"FBSessionExpires"];
+		if (!expirationDate || [expirationDate timeIntervalSinceNow] > 0) {
+			_uid = [uid copy];
+			_facebook = [[Facebook alloc] init];
+			_facebook.accessToken = [[defaults stringForKey:@"FBAccessToken"] copy];
+			_facebook.expirationDate = [expirationDate retain];
+			NSLog(@"restauré success");
+			return _facebook;
+		}
+	}
+	return nil;  
+}
+- (void) setSessionWithFacebook:(Facebook *)facebook andUid:(NSString *)uid {
+	_facebook = [facebook retain];
+	_uid = [uid retain];
+	NSLog(@"set fb");
+}
 
 @end
 

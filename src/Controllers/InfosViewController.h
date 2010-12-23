@@ -7,7 +7,8 @@
 //
 
 #import <UIKit/UIKit.h>
-
+#import "SA_OAuthTwitterController.h"
+#import "settingsViewController.h"
 
 @interface InfosViewController : UIViewController  <UIActionSheetDelegate> {
 	IBOutlet UIView			*mainView;
@@ -16,6 +17,7 @@
 	IBOutlet UIButton			*CreditsButton;
 	IBOutlet UIButton			*GuideButton;
 	IBOutlet UITextView			*infos;
+	IBOutlet UIScrollView		*scroll;
 	
 	IBOutlet UIView			*GuideView;
 	IBOutlet UIView			*ISFView;
@@ -27,12 +29,17 @@
 	IBOutlet UIButton			*backButton3;
 	IBOutlet UILabel			*versionLabel;
 	IBOutlet UINavigationItem	*NavigationBar;
+	IBOutlet UIButton			*bt_settings;
+	SA_OAuthTwitterEngine				*_engine;
+	SettingsViewController				*lasettingsviewcontroller;
 	BOOL	isMainView;
 }
+@property (nonatomic, retain) UIView *mainView;
 
 - (IBAction)flipViews;
 - (IBAction)flipViews2;
 - (IBAction)flipViews3;
+- (IBAction)flipViews4;
 - (IBAction)visitIleSansFil;
 - (IBAction)visitTdo;
 - (IBAction)visitPatrick;
@@ -41,5 +48,6 @@
 - (IBAction)visitZAPQuebec;
 - (IBAction)callIleSansFil;
 - (IBAction)emailIleSansFil;
+-(void)setisMainView:(BOOL)ismainview;
 
 @end

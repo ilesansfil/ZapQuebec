@@ -1,0 +1,1478 @@
+TZAP Québec
+v7
+r1
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.1.2.sdk
+c000000004B47D7B70000000000000110
+t1262999479
+s272
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.1.2.sdk/ResourceRules.plist
+c000000004ABDB88400000000000001E5
+t1253947524
+s485
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.1.2.sdk/System/Library/Frameworks/CoreData.framework/CoreData
+c000000004ABDBE6E0000000000296690
+t1253949038
+s2713232
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.1.2.sdk/System/Library/Frameworks/CoreData.framework/Headers/CoreData.h
+c000000004ABDBE5C000000000000046B
+t1253949020
+s1131
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.1.2.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c000000004ABDBA1300000000005F4900
+t1253947923
+s6244608
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.1.2.sdk/System/Library/Frameworks/CoreLocation.framework/Headers/CoreLocation.h
+c000000004ABDD17900000000000001AF
+t1253953913
+s431
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.1.2.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004ABDBDCF0000000000501370
+t1253948879
+s5247856
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.1.2.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004ABDBDA40000000000001355
+t1253948836
+s4949
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.1.2.sdk/System/Library/Frameworks/MapKit.framework/Headers/MapKit.h
+c000000004ABDD364000000000000017D
+t1253954404
+s381
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.1.2.sdk/System/Library/Frameworks/MapKit.framework/MapKit
+c000000004ABDD38100000000001CD6E0
+t1253954433
+s1890016
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.1.2.sdk/System/Library/Frameworks/QuartzCore.framework/Headers/QuartzCore.h
+c000000004ABDC796000000000000007D
+t1253951382
+s125
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.1.2.sdk/System/Library/Frameworks/QuartzCore.framework/QuartzCore
+c000000004ABDC85900000000001C27F0
+t1253951577
+s1845232
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.1.2.sdk/System/Library/Frameworks/SystemConfiguration.framework/Headers/SystemConfiguration.h
+c000000004ABDBB690000000000001A78
+t1253948265
+s6776
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.1.2.sdk/System/Library/Frameworks/SystemConfiguration.framework/SystemConfiguration
+c000000004ABDBB7700000000000D7460
+t1253948279
+s881760
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.1.2.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
+c000000004ABDD0D10000000000000788
+t1253953745
+s1928
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.1.2.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c000000004ABDD2250000000001B3F450
+t1253954085
+s28570704
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.1.2.sdk/usr/include/Availability.h
+c000000004ABDC79900000000000019F9
+t1253951385
+s6649
+
+N/System/Library/Frameworks/CoreLocation.framework/CoreLocation
+c000000004B85D364000000000003C8C0
+t1267061604
+s248000
+
+N/Users/thomasdobranowski/Documents/Developpement iphone/tdo1-zap.iPhone EN DEV  vers MAJ ISF/src/Controllers/../FavoritesViewController.m
+c000000004C18ECFF000000000000152C
+t1276701951
+s5420
+i"FavoritesViewController.h"
+i"Favorite.h"
+i"Model.h"
+i"Hotspot.h"
+i"HotspotInfosViewController.h"
+i"MapViewController.h"
+i"ISFAppDelegate.h"
+
+N/Users/thomasdobranowski/Documents/Developpement iphone/tdo1-zap.iPhone EN DEV  vers MAJ ISF/src/Controllers/ConnectionViewController.h
+c000000004BEC0B690000000000000131
+t1273760617
+s305
+i<UIKit/UIKit.h>
+
+N/Users/thomasdobranowski/Documents/Developpement iphone/tdo1-zap.iPhone EN DEV  vers MAJ ISF/src/Controllers/ConnectionViewController.m
+c000000004BEC231800000000000006E7
+t1273766680
+s1767
+i"ConnectionViewController.h"
+
+N/Users/thomasdobranowski/Documents/Developpement iphone/tdo1-zap.iPhone EN DEV  vers MAJ ISF/src/Controllers/HotspotInfosViewController.h
+c000000004C0E9B3600000000000003FC
+t1276025654
+s1020
+i<UIKit/UIKit.h>
+i<CoreLocation/CoreLocation.h>
+i"Hotspot.h"
+i"MapViewController.h"
+
+N/Users/thomasdobranowski/Documents/Developpement iphone/tdo1-zap.iPhone EN DEV  vers MAJ ISF/src/Controllers/HotspotInfosViewController.m
+c000000004C0FC9200000000000003BF5
+t1276102944
+s15349
+i"HotspotInfosViewController.h"
+i"Favorite.h"
+i"Model.h"
+i"MapViewController.h"
+i"ISFAppDelegate.h"
+
+N/Users/thomasdobranowski/Documents/Developpement iphone/tdo1-zap.iPhone EN DEV  vers MAJ ISF/src/Controllers/InfosViewController.h
+c000000004C2262200000000000000460
+t1277321760
+s1120
+i<UIKit/UIKit.h>
+
+N/Users/thomasdobranowski/Documents/Developpement iphone/tdo1-zap.iPhone EN DEV  vers MAJ ISF/src/Controllers/InfosViewController.m
+c000000004C2262C50000000000002A3D
+t1277321925
+s10813
+i"InfosViewController.h"
+
+N/Users/thomasdobranowski/Documents/Developpement iphone/tdo1-zap.iPhone EN DEV  vers MAJ ISF/src/Controllers/MapViewController.h
+c000000004C1288D50000000000000A27
+t1276283093
+s2599
+i<UIKit/UIKit.h>
+i<MapKit/MapKit.h>
+i"googleMapsAPI.h"
+i"XMLReader.h"
+
+N/Users/thomasdobranowski/Documents/Developpement iphone/tdo1-zap.iPhone EN DEV  vers MAJ ISF/src/Controllers/MapViewController.m
+c000000004C28E7A900000000000077C9
+t1277749161
+s30665
+i<SystemConfiguration/SystemConfiguration.h>
+i"MapViewController.h"
+i"LocationAnnotation.h"
+i"googleMapsAPI.h"
+i"Hotspot.h"
+i"HotspotInfosViewController.h"
+i"ISFAppDelegate.h"
+i"LoadingOverlay.h"
+i"ConnectionViewController.h"
+i"Favorite.h"
+i"EGORefreshTableHeaderView.h"
+
+N/Users/thomasdobranowski/Documents/Developpement iphone/tdo1-zap.iPhone EN DEV  vers MAJ ISF/src/Controllers/NewsViewController.h
+c000000004C4DF7B30000000000000783
+t1280178099
+s1923
+i<UIKit/UIKit.h>
+i"RootViewController.h"
+
+N/Users/thomasdobranowski/Documents/Developpement iphone/tdo1-zap.iPhone EN DEV  vers MAJ ISF/src/Controllers/NewsViewController.m
+c000000004CE2D2060000000000008376
+t1289933318
+s33654
+i<SystemConfiguration/SystemConfiguration.h>
+i"NewsViewController.h"
+i"NewsWebViewController.h"
+i"ISFAppDelegate.h"
+i"News.h"
+i"Model.h"
+i"EGORefreshTableHeaderView.h"
+i"RootViewController.h"
+
+N/Users/thomasdobranowski/Documents/Developpement iphone/tdo1-zap.iPhone EN DEV  vers MAJ ISF/src/Controllers/NewsWebViewController.h
+c000000004BF7024900000000000001E7
+t1274479177
+s487
+i<UIKit/UIKit.h>
+
+N/Users/thomasdobranowski/Documents/Developpement iphone/tdo1-zap.iPhone EN DEV  vers MAJ ISF/src/Controllers/NewsWebViewController.m
+c000000004C03C4D20000000000000987
+t1275315410
+s2439
+i"NewsWebViewController.h"
+i"ISFAppDelegate.h"
+
+N/Users/thomasdobranowski/Documents/Developpement iphone/tdo1-zap.iPhone EN DEV  vers MAJ ISF/src/Controllers/RootViewController.h
+c000000004BEC57B00000000000000183
+t1273780144
+s387
+
+N/Users/thomasdobranowski/Documents/Developpement iphone/tdo1-zap.iPhone EN DEV  vers MAJ ISF/src/Controllers/RootViewController.m
+c000000004C20FE6D0000000000000795
+t1277230701
+s1941
+i"RootViewController.h"
+i"MapViewController.h"
+i"XMLReader.h"
+i"Hotspot.h"
+
+N/Users/thomasdobranowski/Documents/Developpement iphone/tdo1-zap.iPhone EN DEV  vers MAJ ISF/src/Controllers/googleMapsAPI.h
+c000000004BEC0AF000000000000002E4
+t1273760496
+s740
+i<Foundation/Foundation.h>
+i<CoreLocation/CoreLocation.h>
+
+N/Users/thomasdobranowski/Documents/Developpement iphone/tdo1-zap.iPhone EN DEV  vers MAJ ISF/src/Controllers/googleMapsAPI.m
+c000000004BEC0AF80000000000000606
+t1273760504
+s1542
+i"googleMapsAPI.h"
+i"ISFAppDelegate.h"
+
+N/Users/thomasdobranowski/Documents/Developpement iphone/tdo1-zap.iPhone EN DEV  vers MAJ ISF/src/FavoritesViewController.h
+c000000004BEC0ABF000000000000022B
+t1273760447
+s555
+i<UIKit/UIKit.h>
+i<Foundation/Foundation.h>
+i"MapViewController.h"
+
+N/Users/thomasdobranowski/Documents/Developpement iphone/tdo1-zap.iPhone EN DEV  vers MAJ ISF/src/Librairies/FlurryAPI.h
+c000000004C1A0E920000000000000BD0
+t1276776082
+s3024
+i<UIKit/UIKit.h>
+
+N/Users/thomasdobranowski/Documents/Developpement iphone/tdo1-zap.iPhone EN DEV  vers MAJ ISF/src/Librairies/libFlurryWithLocation.a
+c000000004C1A0E9200000000001F0698
+t1276776082
+s2033304
+
+N/Users/thomasdobranowski/Documents/Developpement iphone/tdo1-zap.iPhone EN DEV  vers MAJ ISF/src/Main/ISFAppDelegate.h
+c000000004BEC0B730000000000000252
+t1273760627
+s594
+
+N/Users/thomasdobranowski/Documents/Developpement iphone/tdo1-zap.iPhone EN DEV  vers MAJ ISF/src/Main/ISFAppDelegate.m
+c000000004C2222E000000000000005F8
+t1277305568
+s1528
+i"ISFAppDelegate.h"
+i"RootViewController.h"
+i"FlurryAPI.h"
+
+N/Users/thomasdobranowski/Documents/Developpement iphone/tdo1-zap.iPhone EN DEV  vers MAJ ISF/src/Main/main.m
+c000000004BEC0B7D000000000000016A
+t1273760637
+s362
+i<UIKit/UIKit.h>
+
+N/Users/thomasdobranowski/Documents/Developpement iphone/tdo1-zap.iPhone EN DEV  vers MAJ ISF/src/Models/../Resources/Favorite.h
+c000000004BEC0A4300000000000001D5
+t1273760323
+s469
+i<CoreData/CoreData.h>
+
+N/Users/thomasdobranowski/Documents/Developpement iphone/tdo1-zap.iPhone EN DEV  vers MAJ ISF/src/Models/../Resources/Favorite.m
+c000000004BFECB1F000000000000028A
+t1274989343
+s650
+i"Favorite.h"
+i"Model.h"
+
+N/Users/thomasdobranowski/Documents/Developpement iphone/tdo1-zap.iPhone EN DEV  vers MAJ ISF/src/Models/../Resources/News.h
+c000000004BEC0A25000000000000028B
+t1273760293
+s651
+i<CoreData/CoreData.h>
+
+N/Users/thomasdobranowski/Documents/Developpement iphone/tdo1-zap.iPhone EN DEV  vers MAJ ISF/src/Models/../Resources/News.m
+c000000004BFECB1D00000000000002B4
+t1274989341
+s692
+i"News.h"
+i"Model.h"
+
+N/Users/thomasdobranowski/Documents/Developpement iphone/tdo1-zap.iPhone EN DEV  vers MAJ ISF/src/Models/Hotspot.h
+c000000004BEC0A970000000000000673
+t1273760407
+s1651
+i<CoreData/CoreData.h>
+
+N/Users/thomasdobranowski/Documents/Developpement iphone/tdo1-zap.iPhone EN DEV  vers MAJ ISF/src/Models/Hotspot.m
+c000000004BFECB1F0000000000000925
+t1274989343
+s2341
+i"Hotspot.h"
+i"Model.h"
+i"Node.h"
+
+N/Users/thomasdobranowski/Documents/Developpement iphone/tdo1-zap.iPhone EN DEV  vers MAJ ISF/src/Models/LocationAnnotation.h
+c000000004C0D47FC0000000000000289
+t1275938812
+s649
+i<Foundation/Foundation.h>
+i<MapKit/MapKit.h>
+
+N/Users/thomasdobranowski/Documents/Developpement iphone/tdo1-zap.iPhone EN DEV  vers MAJ ISF/src/Models/LocationAnnotation.m
+c000000004C0D4803000000000000017E
+t1275938819
+s382
+i"LocationAnnotation.h"
+
+N/Users/thomasdobranowski/Documents/Developpement iphone/tdo1-zap.iPhone EN DEV  vers MAJ ISF/src/Models/Model.h
+c000000004C17CA580000000000000609
+t1276627544
+s1545
+i<Foundation/Foundation.h>
+i<CoreData/CoreData.h>
+
+N/Users/thomasdobranowski/Documents/Developpement iphone/tdo1-zap.iPhone EN DEV  vers MAJ ISF/src/Models/Model.m
+c000000004C17CA5F0000000000001D94
+t1276627551
+s7572
+i"Model.h"
+i"Hotspot.h"
+i"Node.h"
+i"Favorite.h"
+i"News.h"
+
+N/Users/thomasdobranowski/Documents/Developpement iphone/tdo1-zap.iPhone EN DEV  vers MAJ ISF/src/Models/Node.h
+c000000004BEC0A7D0000000000000303
+t1273760381
+s771
+i<CoreData/CoreData.h>
+
+N/Users/thomasdobranowski/Documents/Developpement iphone/tdo1-zap.iPhone EN DEV  vers MAJ ISF/src/Models/Node.m
+c000000004BFECB1F00000000000002FE
+t1274989343
+s766
+i"Node.h"
+i"Hotspot.h"
+i"Model.h"
+
+N/Users/thomasdobranowski/Documents/Developpement iphone/tdo1-zap.iPhone EN DEV  vers MAJ ISF/src/Models/XMLReader.h
+c000000004BEC0A95000000000000030D
+t1273760405
+s781
+i<Foundation/Foundation.h>
+
+N/Users/thomasdobranowski/Documents/Developpement iphone/tdo1-zap.iPhone EN DEV  vers MAJ ISF/src/Models/XMLReader.m
+c000000004C1FBD9F0000000000002D81
+t1277148575
+s11649
+i"XMLReader.h"
+i"Model.h"
+i"Hotspot.h"
+i"Node.h"
+i"ISFAppDelegate.h"
+
+N/Users/thomasdobranowski/Documents/Developpement iphone/tdo1-zap.iPhone EN DEV  vers MAJ ISF/src/Resources/Default.png
+c000000004C1FCF550000000000008E63
+t1277153109
+s36451
+
+N/Users/thomasdobranowski/Documents/Developpement iphone/tdo1-zap.iPhone EN DEV  vers MAJ ISF/src/Resources/Favorite.h
+c000000004BEC0A4300000000000001D5
+t1273760323
+s469
+i<CoreData/CoreData.h>
+
+N/Users/thomasdobranowski/Documents/Developpement iphone/tdo1-zap.iPhone EN DEV  vers MAJ ISF/src/Resources/Hotspots.xcdatamodeld
+c000000004C3F1A8300000000000000CC
+t1279203971
+s204
+
+N/Users/thomasdobranowski/Documents/Developpement iphone/tdo1-zap.iPhone EN DEV  vers MAJ ISF/src/Resources/Images/UITabBar2.png
+c000000004C2100270000000000001AF1
+t1277231143
+s6897
+
+N/Users/thomasdobranowski/Documents/Developpement iphone/tdo1-zap.iPhone EN DEV  vers MAJ ISF/src/Resources/Images/alert_back-red.png
+c000000004BCEFFCC0000000000000268
+t1271857100
+s616
+
+N/Users/thomasdobranowski/Documents/Developpement iphone/tdo1-zap.iPhone EN DEV  vers MAJ ISF/src/Resources/Images/alert_back-yellow.png
+c000000004BCEFFCC0000000000000256
+t1271857100
+s598
+
+N/Users/thomasdobranowski/Documents/Developpement iphone/tdo1-zap.iPhone EN DEV  vers MAJ ISF/src/Resources/Images/blackArrow.png
+c000000004BD9957800000000000010DC
+t1272550776
+s4316
+
+N/Users/thomasdobranowski/Documents/Developpement iphone/tdo1-zap.iPhone EN DEV  vers MAJ ISF/src/Resources/Images/blueArrow.png
+c000000004BD99578000000000000118C
+t1272550776
+s4492
+
+N/Users/thomasdobranowski/Documents/Developpement iphone/tdo1-zap.iPhone EN DEV  vers MAJ ISF/src/Resources/Images/btliste.jpg
+c000000004C21434400000000000033FE
+t1277248324
+s13310
+
+N/Users/thomasdobranowski/Documents/Developpement iphone/tdo1-zap.iPhone EN DEV  vers MAJ ISF/src/Resources/Images/btlisteR.jpg
+c000000004BEC4B9F00000000000030F8
+t1273777055
+s12536
+
+N/Users/thomasdobranowski/Documents/Developpement iphone/tdo1-zap.iPhone EN DEV  vers MAJ ISF/src/Resources/Images/btmap.jpg
+c000000004C2264780000000000003AAC
+t1277322360
+s15020
+
+N/Users/thomasdobranowski/Documents/Developpement iphone/tdo1-zap.iPhone EN DEV  vers MAJ ISF/src/Resources/Images/btmapR.jpg
+c000000004BEC4B63000000000000342C
+t1273776995
+s13356
+
+N/Users/thomasdobranowski/Documents/Developpement iphone/tdo1-zap.iPhone EN DEV  vers MAJ ISF/src/Resources/Images/btn-loc.png
+c000000004BCEFFCC0000000000000515
+t1271857100
+s1301
+
+N/Users/thomasdobranowski/Documents/Developpement iphone/tdo1-zap.iPhone EN DEV  vers MAJ ISF/src/Resources/Images/btn-refresh.png
+c000000004C3F1D5E0000000000000F27
+t1279204702
+s3879
+
+N/Users/thomasdobranowski/Documents/Developpement iphone/tdo1-zap.iPhone EN DEV  vers MAJ ISF/src/Resources/Images/btn_credits_en.png
+c000000004C222E610000000000001C0E
+t1277308513
+s7182
+
+N/Users/thomasdobranowski/Documents/Developpement iphone/tdo1-zap.iPhone EN DEV  vers MAJ ISF/src/Resources/Images/btn_credits_fr.png
+c000000004C222E350000000000001EA1
+t1277308469
+s7841
+
+N/Users/thomasdobranowski/Documents/Developpement iphone/tdo1-zap.iPhone EN DEV  vers MAJ ISF/src/Resources/Images/btn_isf_en.png
+c000000004C222E0B0000000000001EAD
+t1277308427
+s7853
+
+N/Users/thomasdobranowski/Documents/Developpement iphone/tdo1-zap.iPhone EN DEV  vers MAJ ISF/src/Resources/Images/btn_isf_fr.png
+c000000004C222E2400000000000020AC
+t1277308452
+s8364
+
+N/Users/thomasdobranowski/Documents/Developpement iphone/tdo1-zap.iPhone EN DEV  vers MAJ ISF/src/Resources/Images/btn_isf_infos_back_en.png
+c000000004C222D10000000000000106C
+t1277308176
+s4204
+
+N/Users/thomasdobranowski/Documents/Developpement iphone/tdo1-zap.iPhone EN DEV  vers MAJ ISF/src/Resources/Images/btn_isf_infos_back_fr.png
+c000000004C222D2800000000000010FF
+t1277308200
+s4351
+
+N/Users/thomasdobranowski/Documents/Developpement iphone/tdo1-zap.iPhone EN DEV  vers MAJ ISF/src/Resources/Images/btn_notice_en.png
+c000000004C222E800000000000001E44
+t1277308544
+s7748
+
+N/Users/thomasdobranowski/Documents/Developpement iphone/tdo1-zap.iPhone EN DEV  vers MAJ ISF/src/Resources/Images/btn_notice_fr.png
+c000000004C222EA10000000000001FB3
+t1277308577
+s8115
+
+N/Users/thomasdobranowski/Documents/Developpement iphone/tdo1-zap.iPhone EN DEV  vers MAJ ISF/src/Resources/Images/coeur.png
+c000000004C2126A700000000000017CA
+t1277240999
+s6090
+
+N/Users/thomasdobranowski/Documents/Developpement iphone/tdo1-zap.iPhone EN DEV  vers MAJ ISF/src/Resources/Images/direction.png
+c000000004BD068F1000000000000139B
+t1271949553
+s5019
+
+N/Users/thomasdobranowski/Documents/Developpement iphone/tdo1-zap.iPhone EN DEV  vers MAJ ISF/src/Resources/Images/favorite-color.png
+c000000004BCEFFCC000000000000183D
+t1271857100
+s6205
+
+N/Users/thomasdobranowski/Documents/Developpement iphone/tdo1-zap.iPhone EN DEV  vers MAJ ISF/src/Resources/Images/favorite-color2.png
+c000000004C2231620000000000000EBE
+t1277309282
+s3774
+
+N/Users/thomasdobranowski/Documents/Developpement iphone/tdo1-zap.iPhone EN DEV  vers MAJ ISF/src/Resources/Images/favorite-grey.png
+c000000004BCEFFCC000000000000172C
+t1271857100
+s5932
+
+N/Users/thomasdobranowski/Documents/Developpement iphone/tdo1-zap.iPhone EN DEV  vers MAJ ISF/src/Resources/Images/favorite-grey2.png
+c000000004C0FB1BE0000000000000C8D
+t1276096958
+s3213
+
+N/Users/thomasdobranowski/Documents/Developpement iphone/tdo1-zap.iPhone EN DEV  vers MAJ ISF/src/Resources/Images/iconehotspot.png
+c000000004BEC62EC0000000000000F7C
+t1273783020
+s3964
+
+N/Users/thomasdobranowski/Documents/Developpement iphone/tdo1-zap.iPhone EN DEV  vers MAJ ISF/src/Resources/Images/infos_en.png
+c000000004C21078C0000000000004490
+t1277233036
+s17552
+
+N/Users/thomasdobranowski/Documents/Developpement iphone/tdo1-zap.iPhone EN DEV  vers MAJ ISF/src/Resources/Images/infos_fr.png
+c000000004C20D4B70000000000002B2D
+t1277220023
+s11053
+
+N/Users/thomasdobranowski/Documents/Developpement iphone/tdo1-zap.iPhone EN DEV  vers MAJ ISF/src/Resources/Images/isfInfosNotice_en.png
+c000000004C3F1F4E00000000000057F5
+t1279205198
+s22517
+
+N/Users/thomasdobranowski/Documents/Developpement iphone/tdo1-zap.iPhone EN DEV  vers MAJ ISF/src/Resources/Images/isfInfosNotice_fr.png
+c000000004C3F1F280000000000006293
+t1279205160
+s25235
+
+N/Users/thomasdobranowski/Documents/Developpement iphone/tdo1-zap.iPhone EN DEV  vers MAJ ISF/src/Resources/Images/isf_infos_en.png
+c000000004C213F460000000000004783
+t1277247302
+s18307
+
+N/Users/thomasdobranowski/Documents/Developpement iphone/tdo1-zap.iPhone EN DEV  vers MAJ ISF/src/Resources/Images/isf_infos_fr.png
+c000000004C213EED00000000000048A4
+t1277247213
+s18596
+
+N/Users/thomasdobranowski/Documents/Developpement iphone/tdo1-zap.iPhone EN DEV  vers MAJ ISF/src/Resources/Images/map.png
+c000000004BD8A9570000000000000F69
+t1272490327
+s3945
+
+N/Users/thomasdobranowski/Documents/Developpement iphone/tdo1-zap.iPhone EN DEV  vers MAJ ISF/src/Resources/Images/no-connection.png
+c000000004C21451D0000000000004A01
+t1277248797
+s18945
+
+N/Users/thomasdobranowski/Documents/Developpement iphone/tdo1-zap.iPhone EN DEV  vers MAJ ISF/src/Resources/Images/pin-down-fav.png
+c000000004C0670D70000000000000EB0
+t1275490519
+s3760
+
+N/Users/thomasdobranowski/Documents/Developpement iphone/tdo1-zap.iPhone EN DEV  vers MAJ ISF/src/Resources/Images/pin-down.png
+c000000004BCEFFCC0000000000000446
+t1271857100
+s1094
+
+N/Users/thomasdobranowski/Documents/Developpement iphone/tdo1-zap.iPhone EN DEV  vers MAJ ISF/src/Resources/Images/pin-search.png
+c000000004BCEFFCC0000000000000846
+t1271857100
+s2118
+
+N/Users/thomasdobranowski/Documents/Developpement iphone/tdo1-zap.iPhone EN DEV  vers MAJ ISF/src/Resources/Images/pin-unknown.png
+c000000004BCEFFCC0000000000000377
+t1271857100
+s887
+
+N/Users/thomasdobranowski/Documents/Developpement iphone/tdo1-zap.iPhone EN DEV  vers MAJ ISF/src/Resources/Images/pin-up-fav.png
+c000000004C0670E50000000000000F5D
+t1275490533
+s3933
+
+N/Users/thomasdobranowski/Documents/Developpement iphone/tdo1-zap.iPhone EN DEV  vers MAJ ISF/src/Resources/Images/pin-up.png
+c000000004BCEFFCC000000000000054B
+t1271857100
+s1355
+
+N/Users/thomasdobranowski/Documents/Developpement iphone/tdo1-zap.iPhone EN DEV  vers MAJ ISF/src/Resources/Images/searching-back.png
+c000000004BCEFFCC000000000000A2CA
+t1271857100
+s41674
+
+N/Users/thomasdobranowski/Documents/Developpement iphone/tdo1-zap.iPhone EN DEV  vers MAJ ISF/src/Resources/Images/showmap.png
+c000000004C0FC5FC00000000000004F5
+t1276102140
+s1269
+
+N/Users/thomasdobranowski/Documents/Developpement iphone/tdo1-zap.iPhone EN DEV  vers MAJ ISF/src/Resources/Images/tab-info.png
+c000000004BCEFFCC00000000000001FA
+t1271857100
+s506
+
+N/Users/thomasdobranowski/Documents/Developpement iphone/tdo1-zap.iPhone EN DEV  vers MAJ ISF/src/Resources/Images/tab-list.png
+c000000004BCEFFCC00000000000000A9
+t1271857100
+s169
+
+N/Users/thomasdobranowski/Documents/Developpement iphone/tdo1-zap.iPhone EN DEV  vers MAJ ISF/src/Resources/Images/tab-list2.png
+c000000004BD7093D0000000000000B89
+t1272383805
+s2953
+
+N/Users/thomasdobranowski/Documents/Developpement iphone/tdo1-zap.iPhone EN DEV  vers MAJ ISF/src/Resources/Images/tab-map.png
+c000000004BCEFFCC000000000000016B
+t1271857100
+s363
+
+N/Users/thomasdobranowski/Documents/Developpement iphone/tdo1-zap.iPhone EN DEV  vers MAJ ISF/src/Resources/Images/tab-rss.png
+c000000004BCEFFCC000000000000025D
+t1271857100
+s605
+
+N/Users/thomasdobranowski/Documents/Developpement iphone/tdo1-zap.iPhone EN DEV  vers MAJ ISF/src/Resources/Images/whiteArrow.png
+c000000004BD995780000000000001054
+t1272550776
+s4180
+
+N/Users/thomasdobranowski/Documents/Developpement iphone/tdo1-zap.iPhone EN DEV  vers MAJ ISF/src/Resources/NIBs/../../en.lproj/InfosViewController.xib
+c000000004C22624D0000000000011BCA
+t1277321805
+s72650
+
+N/Users/thomasdobranowski/Documents/Developpement iphone/tdo1-zap.iPhone EN DEV  vers MAJ ISF/src/Resources/NIBs/../../fr.lproj/InfosViewController.xib
+c000000004C22623E0000000000011DBF
+t1277321790
+s73151
+
+N/Users/thomasdobranowski/Documents/Developpement iphone/tdo1-zap.iPhone EN DEV  vers MAJ ISF/src/Resources/NIBs/ConnectionViewController.xib
+c000000004BCEFFCC000000000000560B
+t1271857100
+s22027
+
+N/Users/thomasdobranowski/Documents/Developpement iphone/tdo1-zap.iPhone EN DEV  vers MAJ ISF/src/Resources/NIBs/HotspotInfosViewController.xib
+c000000004C226AFF0000000000005555
+t1277324031
+s21845
+
+N/Users/thomasdobranowski/Documents/Developpement iphone/tdo1-zap.iPhone EN DEV  vers MAJ ISF/src/Resources/NIBs/MainWindow.xib
+c000000004CE2B6DA000000000000FC70
+t1289926362
+s64624
+
+N/Users/thomasdobranowski/Documents/Developpement iphone/tdo1-zap.iPhone EN DEV  vers MAJ ISF/src/Resources/NIBs/MapViewController.xib
+c000000004C3F1D9E000000000000CB55
+t1279204766
+s52053
+
+N/Users/thomasdobranowski/Documents/Developpement iphone/tdo1-zap.iPhone EN DEV  vers MAJ ISF/src/Resources/NIBs/NewsWebViewController.xib
+c000000004BCEFFCC000000000000452D
+t1271857100
+s17709
+
+N/Users/thomasdobranowski/Documents/Developpement iphone/tdo1-zap.iPhone EN DEV  vers MAJ ISF/src/Resources/News.h
+c000000004BEC0A25000000000000028B
+t1273760293
+s651
+i<CoreData/CoreData.h>
+
+N/Users/thomasdobranowski/Documents/Developpement iphone/tdo1-zap.iPhone EN DEV  vers MAJ ISF/src/Resources/dist.plist
+c000000004BCEFFCC00000000000000E1
+t1271857100
+s225
+
+N/Users/thomasdobranowski/Documents/Developpement iphone/tdo1-zap.iPhone EN DEV  vers MAJ ISF/src/Resources/hotspot.xml
+c000000004C28E6840000000000042BA3
+t1277748868
+s273315
+
+N/Users/thomasdobranowski/Documents/Developpement iphone/tdo1-zap.iPhone EN DEV  vers MAJ ISF/src/Resources/icon.png
+c000000004C1FD3BC000000000000158E
+t1277154236
+s5518
+
+N/Users/thomasdobranowski/Documents/Developpement iphone/tdo1-zap.iPhone EN DEV  vers MAJ ISF/src/Resources/news_files/Default1.png
+c000000004BFC1C6E00000000000003BB
+t1274813550
+s955
+
+N/Users/thomasdobranowski/Documents/Developpement iphone/tdo1-zap.iPhone EN DEV  vers MAJ ISF/src/Resources/news_files/habs-home.png
+c000000004BFC1C6E0000000000006CC8
+t1274813550
+s27848
+
+N/Users/thomasdobranowski/Documents/Developpement iphone/tdo1-zap.iPhone EN DEV  vers MAJ ISF/src/Resources/news_files/head-fade-bk.png
+c000000004BDEFAE20000000000000062
+t1272904418
+s98
+
+N/Users/thomasdobranowski/Documents/Developpement iphone/tdo1-zap.iPhone EN DEV  vers MAJ ISF/src/Resources/news_files/html1.html
+c000000004C2114B30000000000000677
+t1277236403
+s1655
+
+N/Users/thomasdobranowski/Documents/Developpement iphone/tdo1-zap.iPhone EN DEV  vers MAJ ISF/src/Resources/news_files/html2.html
+c000000004BFC2784000000000000002C
+t1274816388
+s44
+
+N/Users/thomasdobranowski/Documents/Developpement iphone/tdo1-zap.iPhone EN DEV  vers MAJ ISF/src/Resources/news_files/html3.html
+c000000004BFC27D9000000000000008F
+t1274816473
+s143
+
+N/Users/thomasdobranowski/Documents/Developpement iphone/tdo1-zap.iPhone EN DEV  vers MAJ ISF/src/Resources/news_files/html4.html
+c000000004BFC27EB000000000000002A
+t1274816491
+s42
+
+N/Users/thomasdobranowski/Documents/Developpement iphone/tdo1-zap.iPhone EN DEV  vers MAJ ISF/src/Resources/news_files/pinstripes-classic.gif
+c000000004BDEFAE0000000000000003F
+t1272904416
+s63
+
+N/Users/thomasdobranowski/Documents/Developpement iphone/tdo1-zap.iPhone EN DEV  vers MAJ ISF/src/Resources/news_files/style-compressed.css
+c000000004BFC1C6E0000000000008299
+t1274813550
+s33433
+
+N/Users/thomasdobranowski/Documents/Developpement iphone/tdo1-zap.iPhone EN DEV  vers MAJ ISF/src/Resources/news_files/style.css
+c000000004BFC1C6E000000000000005B
+t1274813550
+s91
+
+N/Users/thomasdobranowski/Documents/Developpement iphone/tdo1-zap.iPhone EN DEV  vers MAJ ISF/src/Views/EGORefreshTableHeaderView.h
+c000000004BD9957800000000000006D2
+t1272550776
+s1746
+i<UIKit/UIKit.h>
+i<QuartzCore/QuartzCore.h>
+
+N/Users/thomasdobranowski/Documents/Developpement iphone/tdo1-zap.iPhone EN DEV  vers MAJ ISF/src/Views/EGORefreshTableHeaderView.m
+c000000004C17EE170000000000001904
+t1276636695
+s6404
+i"EGORefreshTableHeaderView.h"
+
+N/Users/thomasdobranowski/Documents/Developpement iphone/tdo1-zap.iPhone EN DEV  vers MAJ ISF/src/Views/LoadingOverlay.h
+c000000004C17CA40000000000000018D
+t1276627520
+s397
+i<UIKit/UIKit.h>
+
+N/Users/thomasdobranowski/Documents/Developpement iphone/tdo1-zap.iPhone EN DEV  vers MAJ ISF/src/Views/LoadingOverlay.m
+c000000004C17CA46000000000000070C
+t1276627526
+s1804
+i"LoadingOverlay.h"
+
+N/Users/thomasdobranowski/Documents/Developpement iphone/tdo1-zap.iPhone EN DEV  vers MAJ ISF/src/build/Debug-iphoneos/ZAP Québec.app
+t2
+s0
+
+N/Users/thomasdobranowski/Documents/Developpement iphone/tdo1-zap.iPhone EN DEV  vers MAJ ISF/src/build/Debug-iphoneos/ZAP Québec.app.dSYM
+t2
+s0
+
+N/Users/thomasdobranowski/Documents/Developpement iphone/tdo1-zap.iPhone EN DEV  vers MAJ ISF/src/build/Debug-iphoneos/ZAP Québec.app/ConnectionViewController.nib
+t2
+s0
+
+N/Users/thomasdobranowski/Documents/Developpement iphone/tdo1-zap.iPhone EN DEV  vers MAJ ISF/src/build/Debug-iphoneos/ZAP Québec.app/Default.png
+t2
+s0
+
+N/Users/thomasdobranowski/Documents/Developpement iphone/tdo1-zap.iPhone EN DEV  vers MAJ ISF/src/build/Debug-iphoneos/ZAP Québec.app/Default1.png
+t2
+s0
+
+N/Users/thomasdobranowski/Documents/Developpement iphone/tdo1-zap.iPhone EN DEV  vers MAJ ISF/src/build/Debug-iphoneos/ZAP Québec.app/HotspotInfosViewController.nib
+t2
+s0
+
+N/Users/thomasdobranowski/Documents/Developpement iphone/tdo1-zap.iPhone EN DEV  vers MAJ ISF/src/build/Debug-iphoneos/ZAP Québec.app/Hotspots.momd
+t2
+s0
+
+N/Users/thomasdobranowski/Documents/Developpement iphone/tdo1-zap.iPhone EN DEV  vers MAJ ISF/src/build/Debug-iphoneos/ZAP Québec.app/Info.plist
+t2
+s0
+
+N/Users/thomasdobranowski/Documents/Developpement iphone/tdo1-zap.iPhone EN DEV  vers MAJ ISF/src/build/Debug-iphoneos/ZAP Québec.app/MainWindow.nib
+t2
+s0
+
+N/Users/thomasdobranowski/Documents/Developpement iphone/tdo1-zap.iPhone EN DEV  vers MAJ ISF/src/build/Debug-iphoneos/ZAP Québec.app/MapViewController.nib
+t2
+s0
+
+N/Users/thomasdobranowski/Documents/Developpement iphone/tdo1-zap.iPhone EN DEV  vers MAJ ISF/src/build/Debug-iphoneos/ZAP Québec.app/NewsWebViewController.nib
+t2
+s0
+
+N/Users/thomasdobranowski/Documents/Developpement iphone/tdo1-zap.iPhone EN DEV  vers MAJ ISF/src/build/Debug-iphoneos/ZAP Québec.app/PkgInfo
+t2
+s0
+
+N/Users/thomasdobranowski/Documents/Developpement iphone/tdo1-zap.iPhone EN DEV  vers MAJ ISF/src/build/Debug-iphoneos/ZAP Québec.app/ResourceRules.plist
+t2
+s0
+
+N/Users/thomasdobranowski/Documents/Developpement iphone/tdo1-zap.iPhone EN DEV  vers MAJ ISF/src/build/Debug-iphoneos/ZAP Québec.app/UITabBar2.png
+t2
+s0
+
+N/Users/thomasdobranowski/Documents/Developpement iphone/tdo1-zap.iPhone EN DEV  vers MAJ ISF/src/build/Debug-iphoneos/ZAP Québec.app/ZAP Québec
+t2
+s0
+
+N/Users/thomasdobranowski/Documents/Developpement iphone/tdo1-zap.iPhone EN DEV  vers MAJ ISF/src/build/Debug-iphoneos/ZAP Québec.app/alert_back-red.png
+t2
+s0
+
+N/Users/thomasdobranowski/Documents/Developpement iphone/tdo1-zap.iPhone EN DEV  vers MAJ ISF/src/build/Debug-iphoneos/ZAP Québec.app/alert_back-yellow.png
+t2
+s0
+
+N/Users/thomasdobranowski/Documents/Developpement iphone/tdo1-zap.iPhone EN DEV  vers MAJ ISF/src/build/Debug-iphoneos/ZAP Québec.app/blackArrow.png
+t2
+s0
+
+N/Users/thomasdobranowski/Documents/Developpement iphone/tdo1-zap.iPhone EN DEV  vers MAJ ISF/src/build/Debug-iphoneos/ZAP Québec.app/blueArrow.png
+t2
+s0
+
+N/Users/thomasdobranowski/Documents/Developpement iphone/tdo1-zap.iPhone EN DEV  vers MAJ ISF/src/build/Debug-iphoneos/ZAP Québec.app/btliste.jpg
+t2
+s0
+
+N/Users/thomasdobranowski/Documents/Developpement iphone/tdo1-zap.iPhone EN DEV  vers MAJ ISF/src/build/Debug-iphoneos/ZAP Québec.app/btlisteR.jpg
+t2
+s0
+
+N/Users/thomasdobranowski/Documents/Developpement iphone/tdo1-zap.iPhone EN DEV  vers MAJ ISF/src/build/Debug-iphoneos/ZAP Québec.app/btmap.jpg
+t2
+s0
+
+N/Users/thomasdobranowski/Documents/Developpement iphone/tdo1-zap.iPhone EN DEV  vers MAJ ISF/src/build/Debug-iphoneos/ZAP Québec.app/btmapR.jpg
+t2
+s0
+
+N/Users/thomasdobranowski/Documents/Developpement iphone/tdo1-zap.iPhone EN DEV  vers MAJ ISF/src/build/Debug-iphoneos/ZAP Québec.app/btn-loc.png
+t2
+s0
+
+N/Users/thomasdobranowski/Documents/Developpement iphone/tdo1-zap.iPhone EN DEV  vers MAJ ISF/src/build/Debug-iphoneos/ZAP Québec.app/btn-refresh.png
+t2
+s0
+
+N/Users/thomasdobranowski/Documents/Developpement iphone/tdo1-zap.iPhone EN DEV  vers MAJ ISF/src/build/Debug-iphoneos/ZAP Québec.app/btn_credits_en.png
+t2
+s0
+
+N/Users/thomasdobranowski/Documents/Developpement iphone/tdo1-zap.iPhone EN DEV  vers MAJ ISF/src/build/Debug-iphoneos/ZAP Québec.app/btn_credits_fr.png
+t2
+s0
+
+N/Users/thomasdobranowski/Documents/Developpement iphone/tdo1-zap.iPhone EN DEV  vers MAJ ISF/src/build/Debug-iphoneos/ZAP Québec.app/btn_isf_en.png
+t2
+s0
+
+N/Users/thomasdobranowski/Documents/Developpement iphone/tdo1-zap.iPhone EN DEV  vers MAJ ISF/src/build/Debug-iphoneos/ZAP Québec.app/btn_isf_fr.png
+t2
+s0
+
+N/Users/thomasdobranowski/Documents/Developpement iphone/tdo1-zap.iPhone EN DEV  vers MAJ ISF/src/build/Debug-iphoneos/ZAP Québec.app/btn_isf_infos_back_en.png
+t2
+s0
+
+N/Users/thomasdobranowski/Documents/Developpement iphone/tdo1-zap.iPhone EN DEV  vers MAJ ISF/src/build/Debug-iphoneos/ZAP Québec.app/btn_isf_infos_back_fr.png
+t2
+s0
+
+N/Users/thomasdobranowski/Documents/Developpement iphone/tdo1-zap.iPhone EN DEV  vers MAJ ISF/src/build/Debug-iphoneos/ZAP Québec.app/btn_notice_en.png
+t2
+s0
+
+N/Users/thomasdobranowski/Documents/Developpement iphone/tdo1-zap.iPhone EN DEV  vers MAJ ISF/src/build/Debug-iphoneos/ZAP Québec.app/btn_notice_fr.png
+t2
+s0
+
+N/Users/thomasdobranowski/Documents/Developpement iphone/tdo1-zap.iPhone EN DEV  vers MAJ ISF/src/build/Debug-iphoneos/ZAP Québec.app/coeur.png
+t2
+s0
+
+N/Users/thomasdobranowski/Documents/Developpement iphone/tdo1-zap.iPhone EN DEV  vers MAJ ISF/src/build/Debug-iphoneos/ZAP Québec.app/direction.png
+t2
+s0
+
+N/Users/thomasdobranowski/Documents/Developpement iphone/tdo1-zap.iPhone EN DEV  vers MAJ ISF/src/build/Debug-iphoneos/ZAP Québec.app/dist.plist
+t2
+s0
+
+N/Users/thomasdobranowski/Documents/Developpement iphone/tdo1-zap.iPhone EN DEV  vers MAJ ISF/src/build/Debug-iphoneos/ZAP Québec.app/en.lproj/InfosViewController.nib
+t2
+s0
+
+N/Users/thomasdobranowski/Documents/Developpement iphone/tdo1-zap.iPhone EN DEV  vers MAJ ISF/src/build/Debug-iphoneos/ZAP Québec.app/en.lproj/Localizable.strings
+t2
+s0
+
+N/Users/thomasdobranowski/Documents/Developpement iphone/tdo1-zap.iPhone EN DEV  vers MAJ ISF/src/build/Debug-iphoneos/ZAP Québec.app/favorite-color.png
+t2
+s0
+
+N/Users/thomasdobranowski/Documents/Developpement iphone/tdo1-zap.iPhone EN DEV  vers MAJ ISF/src/build/Debug-iphoneos/ZAP Québec.app/favorite-color2.png
+t2
+s0
+
+N/Users/thomasdobranowski/Documents/Developpement iphone/tdo1-zap.iPhone EN DEV  vers MAJ ISF/src/build/Debug-iphoneos/ZAP Québec.app/favorite-grey.png
+t2
+s0
+
+N/Users/thomasdobranowski/Documents/Developpement iphone/tdo1-zap.iPhone EN DEV  vers MAJ ISF/src/build/Debug-iphoneos/ZAP Québec.app/favorite-grey2.png
+t2
+s0
+
+N/Users/thomasdobranowski/Documents/Developpement iphone/tdo1-zap.iPhone EN DEV  vers MAJ ISF/src/build/Debug-iphoneos/ZAP Québec.app/fr.lproj/InfosViewController.nib
+t2
+s0
+
+N/Users/thomasdobranowski/Documents/Developpement iphone/tdo1-zap.iPhone EN DEV  vers MAJ ISF/src/build/Debug-iphoneos/ZAP Québec.app/fr.lproj/Localizable.strings
+t2
+s0
+
+N/Users/thomasdobranowski/Documents/Developpement iphone/tdo1-zap.iPhone EN DEV  vers MAJ ISF/src/build/Debug-iphoneos/ZAP Québec.app/habs-home.png
+t2
+s0
+
+N/Users/thomasdobranowski/Documents/Developpement iphone/tdo1-zap.iPhone EN DEV  vers MAJ ISF/src/build/Debug-iphoneos/ZAP Québec.app/head-fade-bk.png
+t2
+s0
+
+N/Users/thomasdobranowski/Documents/Developpement iphone/tdo1-zap.iPhone EN DEV  vers MAJ ISF/src/build/Debug-iphoneos/ZAP Québec.app/hotspot.xml
+t2
+s0
+
+N/Users/thomasdobranowski/Documents/Developpement iphone/tdo1-zap.iPhone EN DEV  vers MAJ ISF/src/build/Debug-iphoneos/ZAP Québec.app/html1.html
+t2
+s0
+
+N/Users/thomasdobranowski/Documents/Developpement iphone/tdo1-zap.iPhone EN DEV  vers MAJ ISF/src/build/Debug-iphoneos/ZAP Québec.app/html2.html
+t2
+s0
+
+N/Users/thomasdobranowski/Documents/Developpement iphone/tdo1-zap.iPhone EN DEV  vers MAJ ISF/src/build/Debug-iphoneos/ZAP Québec.app/html3.html
+t2
+s0
+
+N/Users/thomasdobranowski/Documents/Developpement iphone/tdo1-zap.iPhone EN DEV  vers MAJ ISF/src/build/Debug-iphoneos/ZAP Québec.app/html4.html
+t2
+s0
+
+N/Users/thomasdobranowski/Documents/Developpement iphone/tdo1-zap.iPhone EN DEV  vers MAJ ISF/src/build/Debug-iphoneos/ZAP Québec.app/icon.png
+t2
+s0
+
+N/Users/thomasdobranowski/Documents/Developpement iphone/tdo1-zap.iPhone EN DEV  vers MAJ ISF/src/build/Debug-iphoneos/ZAP Québec.app/iconehotspot.png
+t2
+s0
+
+N/Users/thomasdobranowski/Documents/Developpement iphone/tdo1-zap.iPhone EN DEV  vers MAJ ISF/src/build/Debug-iphoneos/ZAP Québec.app/infos_en.png
+t2
+s0
+
+N/Users/thomasdobranowski/Documents/Developpement iphone/tdo1-zap.iPhone EN DEV  vers MAJ ISF/src/build/Debug-iphoneos/ZAP Québec.app/infos_fr.png
+t2
+s0
+
+N/Users/thomasdobranowski/Documents/Developpement iphone/tdo1-zap.iPhone EN DEV  vers MAJ ISF/src/build/Debug-iphoneos/ZAP Québec.app/isfInfosNotice_en.png
+t2
+s0
+
+N/Users/thomasdobranowski/Documents/Developpement iphone/tdo1-zap.iPhone EN DEV  vers MAJ ISF/src/build/Debug-iphoneos/ZAP Québec.app/isfInfosNotice_fr.png
+t2
+s0
+
+N/Users/thomasdobranowski/Documents/Developpement iphone/tdo1-zap.iPhone EN DEV  vers MAJ ISF/src/build/Debug-iphoneos/ZAP Québec.app/isf_infos_en.png
+t2
+s0
+
+N/Users/thomasdobranowski/Documents/Developpement iphone/tdo1-zap.iPhone EN DEV  vers MAJ ISF/src/build/Debug-iphoneos/ZAP Québec.app/isf_infos_fr.png
+t2
+s0
+
+N/Users/thomasdobranowski/Documents/Developpement iphone/tdo1-zap.iPhone EN DEV  vers MAJ ISF/src/build/Debug-iphoneos/ZAP Québec.app/map.png
+t2
+s0
+
+N/Users/thomasdobranowski/Documents/Developpement iphone/tdo1-zap.iPhone EN DEV  vers MAJ ISF/src/build/Debug-iphoneos/ZAP Québec.app/no-connection.png
+t2
+s0
+
+N/Users/thomasdobranowski/Documents/Developpement iphone/tdo1-zap.iPhone EN DEV  vers MAJ ISF/src/build/Debug-iphoneos/ZAP Québec.app/pin-down-fav.png
+t2
+s0
+
+N/Users/thomasdobranowski/Documents/Developpement iphone/tdo1-zap.iPhone EN DEV  vers MAJ ISF/src/build/Debug-iphoneos/ZAP Québec.app/pin-down.png
+t2
+s0
+
+N/Users/thomasdobranowski/Documents/Developpement iphone/tdo1-zap.iPhone EN DEV  vers MAJ ISF/src/build/Debug-iphoneos/ZAP Québec.app/pin-search.png
+t2
+s0
+
+N/Users/thomasdobranowski/Documents/Developpement iphone/tdo1-zap.iPhone EN DEV  vers MAJ ISF/src/build/Debug-iphoneos/ZAP Québec.app/pin-unknown.png
+t2
+s0
+
+N/Users/thomasdobranowski/Documents/Developpement iphone/tdo1-zap.iPhone EN DEV  vers MAJ ISF/src/build/Debug-iphoneos/ZAP Québec.app/pin-up-fav.png
+t2
+s0
+
+N/Users/thomasdobranowski/Documents/Developpement iphone/tdo1-zap.iPhone EN DEV  vers MAJ ISF/src/build/Debug-iphoneos/ZAP Québec.app/pin-up.png
+t2
+s0
+
+N/Users/thomasdobranowski/Documents/Developpement iphone/tdo1-zap.iPhone EN DEV  vers MAJ ISF/src/build/Debug-iphoneos/ZAP Québec.app/pinstripes-classic.gif
+t2
+s0
+
+N/Users/thomasdobranowski/Documents/Developpement iphone/tdo1-zap.iPhone EN DEV  vers MAJ ISF/src/build/Debug-iphoneos/ZAP Québec.app/searching-back.png
+t2
+s0
+
+N/Users/thomasdobranowski/Documents/Developpement iphone/tdo1-zap.iPhone EN DEV  vers MAJ ISF/src/build/Debug-iphoneos/ZAP Québec.app/showmap.png
+t2
+s0
+
+N/Users/thomasdobranowski/Documents/Developpement iphone/tdo1-zap.iPhone EN DEV  vers MAJ ISF/src/build/Debug-iphoneos/ZAP Québec.app/style-compressed.css
+t2
+s0
+
+N/Users/thomasdobranowski/Documents/Developpement iphone/tdo1-zap.iPhone EN DEV  vers MAJ ISF/src/build/Debug-iphoneos/ZAP Québec.app/style.css
+t2
+s0
+
+N/Users/thomasdobranowski/Documents/Developpement iphone/tdo1-zap.iPhone EN DEV  vers MAJ ISF/src/build/Debug-iphoneos/ZAP Québec.app/tab-info.png
+t2
+s0
+
+N/Users/thomasdobranowski/Documents/Developpement iphone/tdo1-zap.iPhone EN DEV  vers MAJ ISF/src/build/Debug-iphoneos/ZAP Québec.app/tab-list.png
+t2
+s0
+
+N/Users/thomasdobranowski/Documents/Developpement iphone/tdo1-zap.iPhone EN DEV  vers MAJ ISF/src/build/Debug-iphoneos/ZAP Québec.app/tab-list2.png
+t2
+s0
+
+N/Users/thomasdobranowski/Documents/Developpement iphone/tdo1-zap.iPhone EN DEV  vers MAJ ISF/src/build/Debug-iphoneos/ZAP Québec.app/tab-map.png
+t2
+s0
+
+N/Users/thomasdobranowski/Documents/Developpement iphone/tdo1-zap.iPhone EN DEV  vers MAJ ISF/src/build/Debug-iphoneos/ZAP Québec.app/tab-rss.png
+t2
+s0
+
+N/Users/thomasdobranowski/Documents/Developpement iphone/tdo1-zap.iPhone EN DEV  vers MAJ ISF/src/build/Debug-iphoneos/ZAP Québec.app/whiteArrow.png
+t2
+s0
+
+N/Users/thomasdobranowski/Documents/Developpement iphone/tdo1-zap.iPhone EN DEV  vers MAJ ISF/src/build/ZAP Québec.build/Debug-iphoneos/ZAP Québec.build/Objects-normal/armv6/ConnectionViewController.o
+t2
+s0
+
+N/Users/thomasdobranowski/Documents/Developpement iphone/tdo1-zap.iPhone EN DEV  vers MAJ ISF/src/build/ZAP Québec.build/Debug-iphoneos/ZAP Québec.build/Objects-normal/armv6/EGORefreshTableHeaderView.o
+t2
+s0
+
+N/Users/thomasdobranowski/Documents/Developpement iphone/tdo1-zap.iPhone EN DEV  vers MAJ ISF/src/build/ZAP Québec.build/Debug-iphoneos/ZAP Québec.build/Objects-normal/armv6/Favorite.o
+t2
+s0
+
+N/Users/thomasdobranowski/Documents/Developpement iphone/tdo1-zap.iPhone EN DEV  vers MAJ ISF/src/build/ZAP Québec.build/Debug-iphoneos/ZAP Québec.build/Objects-normal/armv6/FavoritesViewController.o
+t2
+s0
+
+N/Users/thomasdobranowski/Documents/Developpement iphone/tdo1-zap.iPhone EN DEV  vers MAJ ISF/src/build/ZAP Québec.build/Debug-iphoneos/ZAP Québec.build/Objects-normal/armv6/Hotspot.o
+t2
+s0
+
+N/Users/thomasdobranowski/Documents/Developpement iphone/tdo1-zap.iPhone EN DEV  vers MAJ ISF/src/build/ZAP Québec.build/Debug-iphoneos/ZAP Québec.build/Objects-normal/armv6/HotspotInfosViewController.o
+t2
+s0
+
+N/Users/thomasdobranowski/Documents/Developpement iphone/tdo1-zap.iPhone EN DEV  vers MAJ ISF/src/build/ZAP Québec.build/Debug-iphoneos/ZAP Québec.build/Objects-normal/armv6/ISFAppDelegate.o
+t2
+s0
+
+N/Users/thomasdobranowski/Documents/Developpement iphone/tdo1-zap.iPhone EN DEV  vers MAJ ISF/src/build/ZAP Québec.build/Debug-iphoneos/ZAP Québec.build/Objects-normal/armv6/InfosViewController.o
+t2
+s0
+
+N/Users/thomasdobranowski/Documents/Developpement iphone/tdo1-zap.iPhone EN DEV  vers MAJ ISF/src/build/ZAP Québec.build/Debug-iphoneos/ZAP Québec.build/Objects-normal/armv6/LoadingOverlay.o
+t2
+s0
+
+N/Users/thomasdobranowski/Documents/Developpement iphone/tdo1-zap.iPhone EN DEV  vers MAJ ISF/src/build/ZAP Québec.build/Debug-iphoneos/ZAP Québec.build/Objects-normal/armv6/LocationAnnotation.o
+t2
+s0
+
+N/Users/thomasdobranowski/Documents/Developpement iphone/tdo1-zap.iPhone EN DEV  vers MAJ ISF/src/build/ZAP Québec.build/Debug-iphoneos/ZAP Québec.build/Objects-normal/armv6/MapViewController.o
+t2
+s0
+
+N/Users/thomasdobranowski/Documents/Developpement iphone/tdo1-zap.iPhone EN DEV  vers MAJ ISF/src/build/ZAP Québec.build/Debug-iphoneos/ZAP Québec.build/Objects-normal/armv6/Model.o
+t2
+s0
+
+N/Users/thomasdobranowski/Documents/Developpement iphone/tdo1-zap.iPhone EN DEV  vers MAJ ISF/src/build/ZAP Québec.build/Debug-iphoneos/ZAP Québec.build/Objects-normal/armv6/News.o
+t2
+s0
+
+N/Users/thomasdobranowski/Documents/Developpement iphone/tdo1-zap.iPhone EN DEV  vers MAJ ISF/src/build/ZAP Québec.build/Debug-iphoneos/ZAP Québec.build/Objects-normal/armv6/NewsViewController.o
+t2
+s0
+
+N/Users/thomasdobranowski/Documents/Developpement iphone/tdo1-zap.iPhone EN DEV  vers MAJ ISF/src/build/ZAP Québec.build/Debug-iphoneos/ZAP Québec.build/Objects-normal/armv6/NewsWebViewController.o
+t2
+s0
+
+N/Users/thomasdobranowski/Documents/Developpement iphone/tdo1-zap.iPhone EN DEV  vers MAJ ISF/src/build/ZAP Québec.build/Debug-iphoneos/ZAP Québec.build/Objects-normal/armv6/Node.o
+t2
+s0
+
+N/Users/thomasdobranowski/Documents/Developpement iphone/tdo1-zap.iPhone EN DEV  vers MAJ ISF/src/build/ZAP Québec.build/Debug-iphoneos/ZAP Québec.build/Objects-normal/armv6/RootViewController.o
+t2
+s0
+
+N/Users/thomasdobranowski/Documents/Developpement iphone/tdo1-zap.iPhone EN DEV  vers MAJ ISF/src/build/ZAP Québec.build/Debug-iphoneos/ZAP Québec.build/Objects-normal/armv6/XMLReader.o
+t2
+s0
+
+N/Users/thomasdobranowski/Documents/Developpement iphone/tdo1-zap.iPhone EN DEV  vers MAJ ISF/src/build/ZAP Québec.build/Debug-iphoneos/ZAP Québec.build/Objects-normal/armv6/ZAP Québec.LinkFileList
+c00000000000000000000000000000000
+t2
+s0
+
+N/Users/thomasdobranowski/Documents/Developpement iphone/tdo1-zap.iPhone EN DEV  vers MAJ ISF/src/build/ZAP Québec.build/Debug-iphoneos/ZAP Québec.build/Objects-normal/armv6/googleMapsAPI.o
+t2
+s0
+
+N/Users/thomasdobranowski/Documents/Developpement iphone/tdo1-zap.iPhone EN DEV  vers MAJ ISF/src/build/ZAP Québec.build/Debug-iphoneos/ZAP Québec.build/Objects-normal/armv6/main.o
+t2
+s0
+
+N/Users/thomasdobranowski/Documents/Developpement iphone/tdo1-zap.iPhone EN DEV  vers MAJ ISF/src/en.lproj/Localizable.strings
+c000000004C2263EA0000000000000C6E
+t1277322218
+s3182
+
+N/Users/thomasdobranowski/Documents/Developpement iphone/tdo1-zap.iPhone EN DEV  vers MAJ ISF/src/fr.lproj/Localizable.strings
+c000000004C2263EE0000000000000D93
+t1277322222
+s3475
+
+N/Users/thomasdobranowski/Documents/Developpement iphone/tdo1-zap.iPhone EN DEV  vers MAJ ISF/src/zap_quebec.pch
+c000000004BCEFFCC000000000000014A
+t1271857100
+s330
+i<Availability.h>
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+
+N/var/folders/lG/lGp9CENoHl0N9X6yJTcE4k+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/zap_quebec-gngsunwbovtzddgzyeuztixkjfhx/zap_quebec.pch.gch
+t2
+s0
+
+NIle_sans_fil-Info.plist
+c000000004C1F9E5500000000000003ED
+t1277140565
+s1005
+
+CCompileC "build/ZAP Québec.build/Debug-iphoneos/ZAP Québec.build/Objects-normal/armv6/ConnectionViewController.o" "/Users/thomasdobranowski/Documents/Developpement iphone/tdo1-zap.iPhone EN DEV  vers MAJ ISF/src/Controllers/ConnectionViewController.m" normal armv6 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC "build/ZAP Québec.build/Debug-iphoneos/ZAP Québec.build/Objects-normal/armv6/EGORefreshTableHeaderView.o" "/Users/thomasdobranowski/Documents/Developpement iphone/tdo1-zap.iPhone EN DEV  vers MAJ ISF/src/Views/EGORefreshTableHeaderView.m" normal armv6 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC "build/ZAP Québec.build/Debug-iphoneos/ZAP Québec.build/Objects-normal/armv6/Favorite.o" "/Users/thomasdobranowski/Documents/Developpement iphone/tdo1-zap.iPhone EN DEV  vers MAJ ISF/src/Models/../Resources/Favorite.m" normal armv6 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC "build/ZAP Québec.build/Debug-iphoneos/ZAP Québec.build/Objects-normal/armv6/FavoritesViewController.o" "/Users/thomasdobranowski/Documents/Developpement iphone/tdo1-zap.iPhone EN DEV  vers MAJ ISF/src/Controllers/../FavoritesViewController.m" normal armv6 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC "build/ZAP Québec.build/Debug-iphoneos/ZAP Québec.build/Objects-normal/armv6/Hotspot.o" "/Users/thomasdobranowski/Documents/Developpement iphone/tdo1-zap.iPhone EN DEV  vers MAJ ISF/src/Models/Hotspot.m" normal armv6 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC "build/ZAP Québec.build/Debug-iphoneos/ZAP Québec.build/Objects-normal/armv6/HotspotInfosViewController.o" "/Users/thomasdobranowski/Documents/Developpement iphone/tdo1-zap.iPhone EN DEV  vers MAJ ISF/src/Controllers/HotspotInfosViewController.m" normal armv6 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC "build/ZAP Québec.build/Debug-iphoneos/ZAP Québec.build/Objects-normal/armv6/ISFAppDelegate.o" "/Users/thomasdobranowski/Documents/Developpement iphone/tdo1-zap.iPhone EN DEV  vers MAJ ISF/src/Main/ISFAppDelegate.m" normal armv6 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC "build/ZAP Québec.build/Debug-iphoneos/ZAP Québec.build/Objects-normal/armv6/InfosViewController.o" "/Users/thomasdobranowski/Documents/Developpement iphone/tdo1-zap.iPhone EN DEV  vers MAJ ISF/src/Controllers/InfosViewController.m" normal armv6 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC "build/ZAP Québec.build/Debug-iphoneos/ZAP Québec.build/Objects-normal/armv6/LoadingOverlay.o" "/Users/thomasdobranowski/Documents/Developpement iphone/tdo1-zap.iPhone EN DEV  vers MAJ ISF/src/Views/LoadingOverlay.m" normal armv6 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC "build/ZAP Québec.build/Debug-iphoneos/ZAP Québec.build/Objects-normal/armv6/LocationAnnotation.o" "/Users/thomasdobranowski/Documents/Developpement iphone/tdo1-zap.iPhone EN DEV  vers MAJ ISF/src/Models/LocationAnnotation.m" normal armv6 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC "build/ZAP Québec.build/Debug-iphoneos/ZAP Québec.build/Objects-normal/armv6/MapViewController.o" "/Users/thomasdobranowski/Documents/Developpement iphone/tdo1-zap.iPhone EN DEV  vers MAJ ISF/src/Controllers/MapViewController.m" normal armv6 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC "build/ZAP Québec.build/Debug-iphoneos/ZAP Québec.build/Objects-normal/armv6/Model.o" "/Users/thomasdobranowski/Documents/Developpement iphone/tdo1-zap.iPhone EN DEV  vers MAJ ISF/src/Models/Model.m" normal armv6 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC "build/ZAP Québec.build/Debug-iphoneos/ZAP Québec.build/Objects-normal/armv6/News.o" "/Users/thomasdobranowski/Documents/Developpement iphone/tdo1-zap.iPhone EN DEV  vers MAJ ISF/src/Models/../Resources/News.m" normal armv6 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC "build/ZAP Québec.build/Debug-iphoneos/ZAP Québec.build/Objects-normal/armv6/NewsViewController.o" "/Users/thomasdobranowski/Documents/Developpement iphone/tdo1-zap.iPhone EN DEV  vers MAJ ISF/src/Controllers/NewsViewController.m" normal armv6 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC "build/ZAP Québec.build/Debug-iphoneos/ZAP Québec.build/Objects-normal/armv6/NewsWebViewController.o" "/Users/thomasdobranowski/Documents/Developpement iphone/tdo1-zap.iPhone EN DEV  vers MAJ ISF/src/Controllers/NewsWebViewController.m" normal armv6 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC "build/ZAP Québec.build/Debug-iphoneos/ZAP Québec.build/Objects-normal/armv6/Node.o" "/Users/thomasdobranowski/Documents/Developpement iphone/tdo1-zap.iPhone EN DEV  vers MAJ ISF/src/Models/Node.m" normal armv6 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC "build/ZAP Québec.build/Debug-iphoneos/ZAP Québec.build/Objects-normal/armv6/RootViewController.o" "/Users/thomasdobranowski/Documents/Developpement iphone/tdo1-zap.iPhone EN DEV  vers MAJ ISF/src/Controllers/RootViewController.m" normal armv6 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC "build/ZAP Québec.build/Debug-iphoneos/ZAP Québec.build/Objects-normal/armv6/XMLReader.o" "/Users/thomasdobranowski/Documents/Developpement iphone/tdo1-zap.iPhone EN DEV  vers MAJ ISF/src/Models/XMLReader.m" normal armv6 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC "build/ZAP Québec.build/Debug-iphoneos/ZAP Québec.build/Objects-normal/armv6/googleMapsAPI.o" "/Users/thomasdobranowski/Documents/Developpement iphone/tdo1-zap.iPhone EN DEV  vers MAJ ISF/src/Controllers/googleMapsAPI.m" normal armv6 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC "build/ZAP Québec.build/Debug-iphoneos/ZAP Québec.build/Objects-normal/armv6/main.o" "/Users/thomasdobranowski/Documents/Developpement iphone/tdo1-zap.iPhone EN DEV  vers MAJ ISF/src/Main/main.m" normal armv6 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileXIB "/Users/thomasdobranowski/Documents/Developpement iphone/tdo1-zap.iPhone EN DEV  vers MAJ ISF/src/Resources/NIBs/../../en.lproj/InfosViewController.xib"
+r0
+
+CCompileXIB "/Users/thomasdobranowski/Documents/Developpement iphone/tdo1-zap.iPhone EN DEV  vers MAJ ISF/src/Resources/NIBs/../../fr.lproj/InfosViewController.xib"
+r0
+
+CCompileXIB "/Users/thomasdobranowski/Documents/Developpement iphone/tdo1-zap.iPhone EN DEV  vers MAJ ISF/src/Resources/NIBs/ConnectionViewController.xib"
+r0
+
+CCompileXIB "/Users/thomasdobranowski/Documents/Developpement iphone/tdo1-zap.iPhone EN DEV  vers MAJ ISF/src/Resources/NIBs/HotspotInfosViewController.xib"
+r0
+
+CCompileXIB "/Users/thomasdobranowski/Documents/Developpement iphone/tdo1-zap.iPhone EN DEV  vers MAJ ISF/src/Resources/NIBs/MainWindow.xib"
+r0
+
+CCompileXIB "/Users/thomasdobranowski/Documents/Developpement iphone/tdo1-zap.iPhone EN DEV  vers MAJ ISF/src/Resources/NIBs/MapViewController.xib"
+r0
+
+CCompileXIB "/Users/thomasdobranowski/Documents/Developpement iphone/tdo1-zap.iPhone EN DEV  vers MAJ ISF/src/Resources/NIBs/NewsWebViewController.xib"
+r0
+
+CCopyPNGFile "/Users/thomasdobranowski/Documents/Developpement iphone/tdo1-zap.iPhone EN DEV  vers MAJ ISF/src/build/Debug-iphoneos/ZAP Québec.app/Default.png" Resources/Default.png
+r0
+
+CCopyPNGFile "/Users/thomasdobranowski/Documents/Developpement iphone/tdo1-zap.iPhone EN DEV  vers MAJ ISF/src/build/Debug-iphoneos/ZAP Québec.app/Default1.png" Resources/news_files/Default1.png
+r0
+
+CCopyPNGFile "/Users/thomasdobranowski/Documents/Developpement iphone/tdo1-zap.iPhone EN DEV  vers MAJ ISF/src/build/Debug-iphoneos/ZAP Québec.app/UITabBar2.png" Resources/Images/UITabBar2.png
+r0
+
+CCopyPNGFile "/Users/thomasdobranowski/Documents/Developpement iphone/tdo1-zap.iPhone EN DEV  vers MAJ ISF/src/build/Debug-iphoneos/ZAP Québec.app/alert_back-red.png" Resources/Images/alert_back-red.png
+r0
+
+CCopyPNGFile "/Users/thomasdobranowski/Documents/Developpement iphone/tdo1-zap.iPhone EN DEV  vers MAJ ISF/src/build/Debug-iphoneos/ZAP Québec.app/alert_back-yellow.png" Resources/Images/alert_back-yellow.png
+r0
+
+CCopyPNGFile "/Users/thomasdobranowski/Documents/Developpement iphone/tdo1-zap.iPhone EN DEV  vers MAJ ISF/src/build/Debug-iphoneos/ZAP Québec.app/blackArrow.png" Resources/Images/blackArrow.png
+r0
+
+CCopyPNGFile "/Users/thomasdobranowski/Documents/Developpement iphone/tdo1-zap.iPhone EN DEV  vers MAJ ISF/src/build/Debug-iphoneos/ZAP Québec.app/blueArrow.png" Resources/Images/blueArrow.png
+r0
+
+CCopyPNGFile "/Users/thomasdobranowski/Documents/Developpement iphone/tdo1-zap.iPhone EN DEV  vers MAJ ISF/src/build/Debug-iphoneos/ZAP Québec.app/btn-loc.png" Resources/Images/btn-loc.png
+r0
+
+CCopyPNGFile "/Users/thomasdobranowski/Documents/Developpement iphone/tdo1-zap.iPhone EN DEV  vers MAJ ISF/src/build/Debug-iphoneos/ZAP Québec.app/btn-refresh.png" Resources/Images/btn-refresh.png
+r0
+
+CCopyPNGFile "/Users/thomasdobranowski/Documents/Developpement iphone/tdo1-zap.iPhone EN DEV  vers MAJ ISF/src/build/Debug-iphoneos/ZAP Québec.app/btn_credits_en.png" Resources/Images/btn_credits_en.png
+r0
+
+CCopyPNGFile "/Users/thomasdobranowski/Documents/Developpement iphone/tdo1-zap.iPhone EN DEV  vers MAJ ISF/src/build/Debug-iphoneos/ZAP Québec.app/btn_credits_fr.png" Resources/Images/btn_credits_fr.png
+r0
+
+CCopyPNGFile "/Users/thomasdobranowski/Documents/Developpement iphone/tdo1-zap.iPhone EN DEV  vers MAJ ISF/src/build/Debug-iphoneos/ZAP Québec.app/btn_isf_en.png" Resources/Images/btn_isf_en.png
+r0
+
+CCopyPNGFile "/Users/thomasdobranowski/Documents/Developpement iphone/tdo1-zap.iPhone EN DEV  vers MAJ ISF/src/build/Debug-iphoneos/ZAP Québec.app/btn_isf_fr.png" Resources/Images/btn_isf_fr.png
+r0
+
+CCopyPNGFile "/Users/thomasdobranowski/Documents/Developpement iphone/tdo1-zap.iPhone EN DEV  vers MAJ ISF/src/build/Debug-iphoneos/ZAP Québec.app/btn_isf_infos_back_en.png" Resources/Images/btn_isf_infos_back_en.png
+r0
+
+CCopyPNGFile "/Users/thomasdobranowski/Documents/Developpement iphone/tdo1-zap.iPhone EN DEV  vers MAJ ISF/src/build/Debug-iphoneos/ZAP Québec.app/btn_isf_infos_back_fr.png" Resources/Images/btn_isf_infos_back_fr.png
+r0
+
+CCopyPNGFile "/Users/thomasdobranowski/Documents/Developpement iphone/tdo1-zap.iPhone EN DEV  vers MAJ ISF/src/build/Debug-iphoneos/ZAP Québec.app/btn_notice_en.png" Resources/Images/btn_notice_en.png
+r0
+
+CCopyPNGFile "/Users/thomasdobranowski/Documents/Developpement iphone/tdo1-zap.iPhone EN DEV  vers MAJ ISF/src/build/Debug-iphoneos/ZAP Québec.app/btn_notice_fr.png" Resources/Images/btn_notice_fr.png
+r0
+
+CCopyPNGFile "/Users/thomasdobranowski/Documents/Developpement iphone/tdo1-zap.iPhone EN DEV  vers MAJ ISF/src/build/Debug-iphoneos/ZAP Québec.app/coeur.png" Resources/Images/coeur.png
+r0
+
+CCopyPNGFile "/Users/thomasdobranowski/Documents/Developpement iphone/tdo1-zap.iPhone EN DEV  vers MAJ ISF/src/build/Debug-iphoneos/ZAP Québec.app/direction.png" Resources/Images/direction.png
+r0
+
+CCopyPNGFile "/Users/thomasdobranowski/Documents/Developpement iphone/tdo1-zap.iPhone EN DEV  vers MAJ ISF/src/build/Debug-iphoneos/ZAP Québec.app/favorite-color.png" Resources/Images/favorite-color.png
+r0
+
+CCopyPNGFile "/Users/thomasdobranowski/Documents/Developpement iphone/tdo1-zap.iPhone EN DEV  vers MAJ ISF/src/build/Debug-iphoneos/ZAP Québec.app/favorite-color2.png" Resources/Images/favorite-color2.png
+r0
+
+CCopyPNGFile "/Users/thomasdobranowski/Documents/Developpement iphone/tdo1-zap.iPhone EN DEV  vers MAJ ISF/src/build/Debug-iphoneos/ZAP Québec.app/favorite-grey.png" Resources/Images/favorite-grey.png
+r0
+
+CCopyPNGFile "/Users/thomasdobranowski/Documents/Developpement iphone/tdo1-zap.iPhone EN DEV  vers MAJ ISF/src/build/Debug-iphoneos/ZAP Québec.app/favorite-grey2.png" Resources/Images/favorite-grey2.png
+r0
+
+CCopyPNGFile "/Users/thomasdobranowski/Documents/Developpement iphone/tdo1-zap.iPhone EN DEV  vers MAJ ISF/src/build/Debug-iphoneos/ZAP Québec.app/habs-home.png" Resources/news_files/habs-home.png
+r0
+
+CCopyPNGFile "/Users/thomasdobranowski/Documents/Developpement iphone/tdo1-zap.iPhone EN DEV  vers MAJ ISF/src/build/Debug-iphoneos/ZAP Québec.app/head-fade-bk.png" Resources/news_files/head-fade-bk.png
+r0
+
+CCopyPNGFile "/Users/thomasdobranowski/Documents/Developpement iphone/tdo1-zap.iPhone EN DEV  vers MAJ ISF/src/build/Debug-iphoneos/ZAP Québec.app/icon.png" Resources/icon.png
+r0
+
+CCopyPNGFile "/Users/thomasdobranowski/Documents/Developpement iphone/tdo1-zap.iPhone EN DEV  vers MAJ ISF/src/build/Debug-iphoneos/ZAP Québec.app/iconehotspot.png" Resources/Images/iconehotspot.png
+r0
+
+CCopyPNGFile "/Users/thomasdobranowski/Documents/Developpement iphone/tdo1-zap.iPhone EN DEV  vers MAJ ISF/src/build/Debug-iphoneos/ZAP Québec.app/infos_en.png" Resources/Images/infos_en.png
+r0
+
+CCopyPNGFile "/Users/thomasdobranowski/Documents/Developpement iphone/tdo1-zap.iPhone EN DEV  vers MAJ ISF/src/build/Debug-iphoneos/ZAP Québec.app/infos_fr.png" Resources/Images/infos_fr.png
+r0
+
+CCopyPNGFile "/Users/thomasdobranowski/Documents/Developpement iphone/tdo1-zap.iPhone EN DEV  vers MAJ ISF/src/build/Debug-iphoneos/ZAP Québec.app/isfInfosNotice_en.png" Resources/Images/isfInfosNotice_en.png
+r0
+
+CCopyPNGFile "/Users/thomasdobranowski/Documents/Developpement iphone/tdo1-zap.iPhone EN DEV  vers MAJ ISF/src/build/Debug-iphoneos/ZAP Québec.app/isfInfosNotice_fr.png" Resources/Images/isfInfosNotice_fr.png
+r0
+
+CCopyPNGFile "/Users/thomasdobranowski/Documents/Developpement iphone/tdo1-zap.iPhone EN DEV  vers MAJ ISF/src/build/Debug-iphoneos/ZAP Québec.app/isf_infos_en.png" Resources/Images/isf_infos_en.png
+r0
+
+CCopyPNGFile "/Users/thomasdobranowski/Documents/Developpement iphone/tdo1-zap.iPhone EN DEV  vers MAJ ISF/src/build/Debug-iphoneos/ZAP Québec.app/isf_infos_fr.png" Resources/Images/isf_infos_fr.png
+r0
+
+CCopyPNGFile "/Users/thomasdobranowski/Documents/Developpement iphone/tdo1-zap.iPhone EN DEV  vers MAJ ISF/src/build/Debug-iphoneos/ZAP Québec.app/map.png" Resources/Images/map.png
+r0
+
+CCopyPNGFile "/Users/thomasdobranowski/Documents/Developpement iphone/tdo1-zap.iPhone EN DEV  vers MAJ ISF/src/build/Debug-iphoneos/ZAP Québec.app/no-connection.png" Resources/Images/no-connection.png
+r0
+
+CCopyPNGFile "/Users/thomasdobranowski/Documents/Developpement iphone/tdo1-zap.iPhone EN DEV  vers MAJ ISF/src/build/Debug-iphoneos/ZAP Québec.app/pin-down-fav.png" Resources/Images/pin-down-fav.png
+r0
+
+CCopyPNGFile "/Users/thomasdobranowski/Documents/Developpement iphone/tdo1-zap.iPhone EN DEV  vers MAJ ISF/src/build/Debug-iphoneos/ZAP Québec.app/pin-down.png" Resources/Images/pin-down.png
+r0
+
+CCopyPNGFile "/Users/thomasdobranowski/Documents/Developpement iphone/tdo1-zap.iPhone EN DEV  vers MAJ ISF/src/build/Debug-iphoneos/ZAP Québec.app/pin-search.png" Resources/Images/pin-search.png
+r0
+
+CCopyPNGFile "/Users/thomasdobranowski/Documents/Developpement iphone/tdo1-zap.iPhone EN DEV  vers MAJ ISF/src/build/Debug-iphoneos/ZAP Québec.app/pin-unknown.png" Resources/Images/pin-unknown.png
+r0
+
+CCopyPNGFile "/Users/thomasdobranowski/Documents/Developpement iphone/tdo1-zap.iPhone EN DEV  vers MAJ ISF/src/build/Debug-iphoneos/ZAP Québec.app/pin-up-fav.png" Resources/Images/pin-up-fav.png
+r0
+
+CCopyPNGFile "/Users/thomasdobranowski/Documents/Developpement iphone/tdo1-zap.iPhone EN DEV  vers MAJ ISF/src/build/Debug-iphoneos/ZAP Québec.app/pin-up.png" Resources/Images/pin-up.png
+r0
+
+CCopyPNGFile "/Users/thomasdobranowski/Documents/Developpement iphone/tdo1-zap.iPhone EN DEV  vers MAJ ISF/src/build/Debug-iphoneos/ZAP Québec.app/searching-back.png" Resources/Images/searching-back.png
+r0
+
+CCopyPNGFile "/Users/thomasdobranowski/Documents/Developpement iphone/tdo1-zap.iPhone EN DEV  vers MAJ ISF/src/build/Debug-iphoneos/ZAP Québec.app/showmap.png" Resources/Images/showmap.png
+r0
+
+CCopyPNGFile "/Users/thomasdobranowski/Documents/Developpement iphone/tdo1-zap.iPhone EN DEV  vers MAJ ISF/src/build/Debug-iphoneos/ZAP Québec.app/tab-info.png" Resources/Images/tab-info.png
+r0
+
+CCopyPNGFile "/Users/thomasdobranowski/Documents/Developpement iphone/tdo1-zap.iPhone EN DEV  vers MAJ ISF/src/build/Debug-iphoneos/ZAP Québec.app/tab-list.png" Resources/Images/tab-list.png
+r0
+
+CCopyPNGFile "/Users/thomasdobranowski/Documents/Developpement iphone/tdo1-zap.iPhone EN DEV  vers MAJ ISF/src/build/Debug-iphoneos/ZAP Québec.app/tab-list2.png" Resources/Images/tab-list2.png
+r0
+
+CCopyPNGFile "/Users/thomasdobranowski/Documents/Developpement iphone/tdo1-zap.iPhone EN DEV  vers MAJ ISF/src/build/Debug-iphoneos/ZAP Québec.app/tab-map.png" Resources/Images/tab-map.png
+r0
+
+CCopyPNGFile "/Users/thomasdobranowski/Documents/Developpement iphone/tdo1-zap.iPhone EN DEV  vers MAJ ISF/src/build/Debug-iphoneos/ZAP Québec.app/tab-rss.png" Resources/Images/tab-rss.png
+r0
+
+CCopyPNGFile "/Users/thomasdobranowski/Documents/Developpement iphone/tdo1-zap.iPhone EN DEV  vers MAJ ISF/src/build/Debug-iphoneos/ZAP Québec.app/whiteArrow.png" Resources/Images/whiteArrow.png
+r0
+
+CCopyPlistFile "/Users/thomasdobranowski/Documents/Developpement iphone/tdo1-zap.iPhone EN DEV  vers MAJ ISF/src/build/Debug-iphoneos/ZAP Québec.app/dist.plist" Resources/dist.plist
+r0
+
+CCopyStringsFile "/Users/thomasdobranowski/Documents/Developpement iphone/tdo1-zap.iPhone EN DEV  vers MAJ ISF/src/build/Debug-iphoneos/ZAP Québec.app/en.lproj/Localizable.strings" en.lproj/Localizable.strings
+r0
+
+CCopyStringsFile "/Users/thomasdobranowski/Documents/Developpement iphone/tdo1-zap.iPhone EN DEV  vers MAJ ISF/src/build/Debug-iphoneos/ZAP Québec.app/fr.lproj/Localizable.strings" fr.lproj/Localizable.strings
+r0
+
+CCpResource "build/Debug-iphoneos/ZAP Québec.app/ResourceRules.plist" /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.1.2.sdk/ResourceRules.plist
+r0
+
+CCpResource "build/Debug-iphoneos/ZAP Québec.app/btliste.jpg" Resources/Images/btliste.jpg
+r0
+
+CCpResource "build/Debug-iphoneos/ZAP Québec.app/btlisteR.jpg" Resources/Images/btlisteR.jpg
+r0
+
+CCpResource "build/Debug-iphoneos/ZAP Québec.app/btmap.jpg" Resources/Images/btmap.jpg
+r0
+
+CCpResource "build/Debug-iphoneos/ZAP Québec.app/btmapR.jpg" Resources/Images/btmapR.jpg
+r0
+
+CCpResource "build/Debug-iphoneos/ZAP Québec.app/hotspot.xml" Resources/hotspot.xml
+r0
+
+CCpResource "build/Debug-iphoneos/ZAP Québec.app/html1.html" Resources/news_files/html1.html
+r0
+
+CCpResource "build/Debug-iphoneos/ZAP Québec.app/html2.html" Resources/news_files/html2.html
+r0
+
+CCpResource "build/Debug-iphoneos/ZAP Québec.app/html3.html" Resources/news_files/html3.html
+r0
+
+CCpResource "build/Debug-iphoneos/ZAP Québec.app/html4.html" Resources/news_files/html4.html
+r0
+
+CCpResource "build/Debug-iphoneos/ZAP Québec.app/pinstripes-classic.gif" Resources/news_files/pinstripes-classic.gif
+r0
+
+CCpResource "build/Debug-iphoneos/ZAP Québec.app/style-compressed.css" Resources/news_files/style-compressed.css
+r0
+
+CCpResource "build/Debug-iphoneos/ZAP Québec.app/style.css" Resources/news_files/style.css
+r0
+
+CDataModelVersionCompile "/Users/thomasdobranowski/Documents/Developpement iphone/tdo1-zap.iPhone EN DEV  vers MAJ ISF/src/build/Debug-iphoneos/ZAP Québec.app/Hotspots.momd" "/Users/thomasdobranowski/Documents/Developpement iphone/tdo1-zap.iPhone EN DEV  vers MAJ ISF/src/Resources/Hotspots.xcdatamodeld"
+r0
+
+CGenerateDSYMFile "/Users/thomasdobranowski/Documents/Developpement iphone/tdo1-zap.iPhone EN DEV  vers MAJ ISF/src/build/Debug-iphoneos/ZAP Québec.app.dSYM" "/Users/thomasdobranowski/Documents/Developpement iphone/tdo1-zap.iPhone EN DEV  vers MAJ ISF/src/build/Debug-iphoneos/ZAP Québec.app/ZAP Québec"
+r0
+
+CLd "/Users/thomasdobranowski/Documents/Developpement iphone/tdo1-zap.iPhone EN DEV  vers MAJ ISF/src/build/Debug-iphoneos/ZAP Québec.app/ZAP Québec" normal armv6
+r0
+
+CProcessInfoPlistFile "/Users/thomasdobranowski/Documents/Developpement iphone/tdo1-zap.iPhone EN DEV  vers MAJ ISF/src/build/Debug-iphoneos/ZAP Québec.app/Info.plist" Ile_sans_fil-Info.plist
+r0
+
+CProcessPCH /var/folders/lG/lGp9CENoHl0N9X6yJTcE4k+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/zap_quebec-gngsunwbovtzddgzyeuztixkjfhx/zap_quebec.pch.gch zap_quebec.pch normal armv6 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CTouch "/Users/thomasdobranowski/Documents/Developpement iphone/tdo1-zap.iPhone EN DEV  vers MAJ ISF/src/build/Debug-iphoneos/ZAP Québec.app"
+r0
+

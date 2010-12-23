@@ -10,24 +10,39 @@
 #import <CoreLocation/CoreLocation.h>
 #import "Hotspot.h"
 #import "MapViewController.h"
+#import "TwitterViewController.h"
+#import "FBConnect.h"
+#import "FBLoginButton.h"
+#import "UserRequestResult.h"
 
 @class Favorite;
 
-@interface HotspotInfosViewController : UIViewController <UITableViewDelegate, UITableViewDataSource, UIActionSheetDelegate> {
+@interface HotspotInfosViewController : UIViewController <UITableViewDelegate, UITableViewDataSource, UIActionSheetDelegate,FBRequestDelegate,FBDialogDelegate,FBSessionDelegate, UserRequestDelegate> {
+	
+	IBOutlet UILabel* _label;
+	IBOutlet FBLoginButton* _fbButton;
+	IBOutlet UIButton* _getUserInfoButton;
+	IBOutlet UIButton* _getPublicInfoButton;
+	IBOutlet UIButton* _publishButton;
+	IBOutlet UIButton* _uploadPhotoButton;
+	Facebook* _facebook;
+	NSString *_uid;
+	NSArray* _permissions;
+	
 	IBOutlet UITableView			*_tableView;
 	IBOutlet UINavigationBar	*_navBar;
 	NSMutableArray					*infos;
 	Hotspot 							*hotspot;
 	CLLocationCoordinate2D		 currentCoords;
 	BOOL exist;
-	
+	TwitterViewController *twitterviewcontroller;
 }
 
 
 @property (nonatomic, retain) Hotspot *hotspot;
 @property (nonatomic, assign) CLLocationCoordinate2D currentCoords;
 @property (nonatomic, assign) BOOL exist;
-
+@property(nonatomic,readonly) UILabel* label;
 
 //- (id)initWithBackImageNamed:(NSString*)imageName;
 
@@ -41,5 +56,9 @@
 - (IBAction)AddDeleteFavorite;
 
 //- (IBAction)closeView;
-
+- (void)userRequestCompleteWithUid:(NSString *)uid;
+- (void) setSessionWithFacebook:(Facebook *)facebook andUid:(NSString *)uid;
+- (void) save;
+- (void) unsave;
+- (id) restore;
 @end
