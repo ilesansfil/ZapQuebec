@@ -1,0 +1,2251 @@
+Tzap quebec
+v7
+r0
+t298833626.474501
+cCheck dependencies
+cProcessInfoPlistFile "/Users/tdo1/Desktop/tdo1-zap.iPhone EN DEV /src/build/Release-iphonesimulator/zap quebec.app/Info.plist" Ile_sans_fil-Info.plist
+cCompileXIB "/Users/tdo1/Desktop/tdo1-zap.iPhone EN DEV /src/Resources/NIBs/MainWindow.xib"
+cCpResource "build/Release-iphonesimulator/zap quebec.app/icon.png" Resources/icon.png
+cCpResource "build/Release-iphonesimulator/zap quebec.app/Default.png" Resources/Default.png
+cCompileXIB "/Users/tdo1/Desktop/tdo1-zap.iPhone EN DEV /src/Resources/NIBs/MapViewController.xib"
+cCompileXIB "/Users/tdo1/Desktop/tdo1-zap.iPhone EN DEV /src/Resources/NIBs/HotspotInfosViewController.xib"
+cCopyPlistFile "/Users/tdo1/Desktop/tdo1-zap.iPhone EN DEV /src/build/Release-iphonesimulator/zap quebec.app/dist.plist" Resources/dist.plist
+cCompileXIB "/Users/tdo1/Desktop/tdo1-zap.iPhone EN DEV /src/Resources/NIBs/NewsWebViewController.xib"
+cCopyStringsFile "/Users/tdo1/Desktop/tdo1-zap.iPhone EN DEV /src/build/Release-iphonesimulator/zap quebec.app/en.lproj/Localizable.strings" en.lproj/Localizable.strings
+cCopyStringsFile "/Users/tdo1/Desktop/tdo1-zap.iPhone EN DEV /src/build/Release-iphonesimulator/zap quebec.app/fr.lproj/Localizable.strings" fr.lproj/Localizable.strings
+cCompileXIB "/Users/tdo1/Desktop/tdo1-zap.iPhone EN DEV /src/Resources/NIBs/ConnectionViewController.xib"
+cCompileXIB "/Users/tdo1/Desktop/tdo1-zap.iPhone EN DEV /src/Resources/NIBs/../../en.lproj/InfosViewController.xib"
+cCompileXIB "/Users/tdo1/Desktop/tdo1-zap.iPhone EN DEV /src/Resources/NIBs/../../fr.lproj/InfosViewController.xib"
+cCpResource "build/Release-iphonesimulator/zap quebec.app/Default1.png" Resources/news_files/Default1.png
+cCpResource "build/Release-iphonesimulator/zap quebec.app/habs-home.png" Resources/news_files/habs-home.png
+cCpResource "build/Release-iphonesimulator/zap quebec.app/head-fade-bk.png" Resources/news_files/head-fade-bk.png
+cCpResource "build/Release-iphonesimulator/zap quebec.app/html1.html" Resources/news_files/html1.html
+cCpResource "build/Release-iphonesimulator/zap quebec.app/html2.html" Resources/news_files/html2.html
+cCpResource "build/Release-iphonesimulator/zap quebec.app/html3.html" Resources/news_files/html3.html
+cCpResource "build/Release-iphonesimulator/zap quebec.app/html4.html" Resources/news_files/html4.html
+cCpResource "build/Release-iphonesimulator/zap quebec.app/pinstripes-classic.gif" Resources/news_files/pinstripes-classic.gif
+cCpResource "build/Release-iphonesimulator/zap quebec.app/style-compressed.css" Resources/news_files/style-compressed.css
+cCpResource "build/Release-iphonesimulator/zap quebec.app/style.css" Resources/news_files/style.css
+cCpResource "build/Release-iphonesimulator/zap quebec.app/hotspot.xml" Resources/hotspot.xml
+cCpResource "build/Release-iphonesimulator/zap quebec.app/alert_back-red.png" Resources/Images/alert_back-red.png
+cCpResource "build/Release-iphonesimulator/zap quebec.app/alert_back-yellow.png" Resources/Images/alert_back-yellow.png
+cCpResource "build/Release-iphonesimulator/zap quebec.app/btliste.jpg" Resources/Images/btliste.jpg
+cCpResource "build/Release-iphonesimulator/zap quebec.app/btlisteR.jpg" Resources/Images/btlisteR.jpg
+cCpResource "build/Release-iphonesimulator/zap quebec.app/btmap.jpg" Resources/Images/btmap.jpg
+cCpResource "build/Release-iphonesimulator/zap quebec.app/btmapR.jpg" Resources/Images/btmapR.jpg
+cCpResource "build/Release-iphonesimulator/zap quebec.app/btn_credits_en.png" Resources/Images/btn_credits_en.png
+cCpResource "build/Release-iphonesimulator/zap quebec.app/btn_credits_fr.png" Resources/Images/btn_credits_fr.png
+cCpResource "build/Release-iphonesimulator/zap quebec.app/btn_isf_en.png" Resources/Images/btn_isf_en.png
+cCpResource "build/Release-iphonesimulator/zap quebec.app/btn_isf_fr.png" Resources/Images/btn_isf_fr.png
+cCpResource "build/Release-iphonesimulator/zap quebec.app/btn_isf_infos_back_en.png" Resources/Images/btn_isf_infos_back_en.png
+cCpResource "build/Release-iphonesimulator/zap quebec.app/btn_isf_infos_back_fr.png" Resources/Images/btn_isf_infos_back_fr.png
+cCpResource "build/Release-iphonesimulator/zap quebec.app/btn-loc.png" Resources/Images/btn-loc.png
+cCpResource "build/Release-iphonesimulator/zap quebec.app/coeur.png" Resources/Images/coeur.png
+cCpResource "build/Release-iphonesimulator/zap quebec.app/direction.png" Resources/Images/direction.png
+cCpResource "build/Release-iphonesimulator/zap quebec.app/favorite-color.png" Resources/Images/favorite-color.png
+cCpResource "build/Release-iphonesimulator/zap quebec.app/favorite-color2.png" Resources/Images/favorite-color2.png
+cCpResource "build/Release-iphonesimulator/zap quebec.app/favorite-grey.png" Resources/Images/favorite-grey.png
+cCpResource "build/Release-iphonesimulator/zap quebec.app/favorite-grey2.png" Resources/Images/favorite-grey2.png
+cCpResource "build/Release-iphonesimulator/zap quebec.app/iconehotspot.png" Resources/Images/iconehotspot.png
+cCpResource "build/Release-iphonesimulator/zap quebec.app/isf_infos_en.png" Resources/Images/isf_infos_en.png
+cCpResource "build/Release-iphonesimulator/zap quebec.app/isf_infos_fr.png" Resources/Images/isf_infos_fr.png
+cCpResource "build/Release-iphonesimulator/zap quebec.app/map.png" Resources/Images/map.png
+cCpResource "build/Release-iphonesimulator/zap quebec.app/no-connection.png" Resources/Images/no-connection.png
+cCpResource "build/Release-iphonesimulator/zap quebec.app/pin-down-fav.png" Resources/Images/pin-down-fav.png
+cCpResource "build/Release-iphonesimulator/zap quebec.app/pin-down.png" Resources/Images/pin-down.png
+cCpResource "build/Release-iphonesimulator/zap quebec.app/pin-search.png" Resources/Images/pin-search.png
+cCpResource "build/Release-iphonesimulator/zap quebec.app/pin-unknown.png" Resources/Images/pin-unknown.png
+cCpResource "build/Release-iphonesimulator/zap quebec.app/pin-up-fav.png" Resources/Images/pin-up-fav.png
+cCpResource "build/Release-iphonesimulator/zap quebec.app/pin-up.png" Resources/Images/pin-up.png
+cCpResource "build/Release-iphonesimulator/zap quebec.app/searching-back.png" Resources/Images/searching-back.png
+cCpResource "build/Release-iphonesimulator/zap quebec.app/tab-info.png" Resources/Images/tab-info.png
+cCpResource "build/Release-iphonesimulator/zap quebec.app/tab-list.png" Resources/Images/tab-list.png
+cCpResource "build/Release-iphonesimulator/zap quebec.app/tab-list2.png" Resources/Images/tab-list2.png
+cCpResource "build/Release-iphonesimulator/zap quebec.app/tab-map.png" Resources/Images/tab-map.png
+cCpResource "build/Release-iphonesimulator/zap quebec.app/tab-rss.png" Resources/Images/tab-rss.png
+cCpResource "build/Release-iphonesimulator/zap quebec.app/UITabBar2.png" Resources/Images/UITabBar2.png
+cCpResource "build/Release-iphonesimulator/zap quebec.app/showmap.png" Resources/Images/showmap.png
+cCpResource "build/Release-iphonesimulator/zap quebec.app/btn-refresh.png" Resources/Images/btn-refresh.png
+cCpResource "build/Release-iphonesimulator/zap quebec.app/blackArrow.png" Resources/Images/blackArrow.png
+cCpResource "build/Release-iphonesimulator/zap quebec.app/blueArrow.png" Resources/Images/blueArrow.png
+cCpResource "build/Release-iphonesimulator/zap quebec.app/whiteArrow.png" Resources/Images/whiteArrow.png
+cCpResource "build/Release-iphonesimulator/zap quebec.app/btn_notice_en.png" Resources/Images/btn_notice_en.png
+cCpResource "build/Release-iphonesimulator/zap quebec.app/btn_notice_fr.png" Resources/Images/btn_notice_fr.png
+cCpResource "build/Release-iphonesimulator/zap quebec.app/infos_en.png" Resources/Images/infos_en.png
+cCpResource "build/Release-iphonesimulator/zap quebec.app/infos_fr.png" Resources/Images/infos_fr.png
+cCpResource "build/Release-iphonesimulator/zap quebec.app/isfInfosNotice_en.png" Resources/Images/isfInfosNotice_en.png
+cCpResource "build/Release-iphonesimulator/zap quebec.app/isfInfosNotice_fr.png" Resources/Images/isfInfosNotice_fr.png
+cProcessPCH /var/folders/DA/DAXmSl1oEJK1f5ld+ybexk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/zap_quebec-eidyoglsljzttodgxltmngsffijy/zap_quebec.pch.gch zap_quebec.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+cDataModelVersionCompile "/Users/tdo1/Desktop/tdo1-zap.iPhone EN DEV /src/build/Release-iphonesimulator/zap quebec.app/Hotspots.momd" "/Users/tdo1/Desktop/tdo1-zap.iPhone EN DEV /src/Resources/Hotspots.xcdatamodeld"
+cCompileC "build/zap quebec.build/Release-iphonesimulator/zap quebec.build/Objects-normal/i386/RootViewController.o" "/Users/tdo1/Desktop/tdo1-zap.iPhone EN DEV /src/Controllers/RootViewController.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC "build/zap quebec.build/Release-iphonesimulator/zap quebec.build/Objects-normal/i386/ISFAppDelegate.o" "/Users/tdo1/Desktop/tdo1-zap.iPhone EN DEV /src/Main/ISFAppDelegate.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC "build/zap quebec.build/Release-iphonesimulator/zap quebec.build/Objects-normal/i386/main.o" "/Users/tdo1/Desktop/tdo1-zap.iPhone EN DEV /src/Main/main.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC "build/zap quebec.build/Release-iphonesimulator/zap quebec.build/Objects-normal/i386/MapViewController.o" "/Users/tdo1/Desktop/tdo1-zap.iPhone EN DEV /src/Controllers/MapViewController.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC "build/zap quebec.build/Release-iphonesimulator/zap quebec.build/Objects-normal/i386/googleMapsAPI.o" "/Users/tdo1/Desktop/tdo1-zap.iPhone EN DEV /src/Controllers/googleMapsAPI.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC "build/zap quebec.build/Release-iphonesimulator/zap quebec.build/Objects-normal/i386/Model.o" "/Users/tdo1/Desktop/tdo1-zap.iPhone EN DEV /src/Models/Model.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC "build/zap quebec.build/Release-iphonesimulator/zap quebec.build/Objects-normal/i386/LocationAnnotation.o" "/Users/tdo1/Desktop/tdo1-zap.iPhone EN DEV /src/Models/LocationAnnotation.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC "build/zap quebec.build/Release-iphonesimulator/zap quebec.build/Objects-normal/i386/XMLReader.o" "/Users/tdo1/Desktop/tdo1-zap.iPhone EN DEV /src/Models/XMLReader.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC "build/zap quebec.build/Release-iphonesimulator/zap quebec.build/Objects-normal/i386/Hotspot.o" "/Users/tdo1/Desktop/tdo1-zap.iPhone EN DEV /src/Models/Hotspot.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC "build/zap quebec.build/Release-iphonesimulator/zap quebec.build/Objects-normal/i386/Node.o" "/Users/tdo1/Desktop/tdo1-zap.iPhone EN DEV /src/Models/Node.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC "build/zap quebec.build/Release-iphonesimulator/zap quebec.build/Objects-normal/i386/InfosViewController.o" "/Users/tdo1/Desktop/tdo1-zap.iPhone EN DEV /src/Controllers/InfosViewController.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC "build/zap quebec.build/Release-iphonesimulator/zap quebec.build/Objects-normal/i386/HotspotInfosViewController.o" "/Users/tdo1/Desktop/tdo1-zap.iPhone EN DEV /src/Controllers/HotspotInfosViewController.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC "build/zap quebec.build/Release-iphonesimulator/zap quebec.build/Objects-normal/i386/NewsViewController.o" "/Users/tdo1/Desktop/tdo1-zap.iPhone EN DEV /src/Controllers/NewsViewController.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC "build/zap quebec.build/Release-iphonesimulator/zap quebec.build/Objects-normal/i386/NewsWebViewController.o" "/Users/tdo1/Desktop/tdo1-zap.iPhone EN DEV /src/Controllers/NewsWebViewController.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC "build/zap quebec.build/Release-iphonesimulator/zap quebec.build/Objects-normal/i386/LoadingOverlay.o" "/Users/tdo1/Desktop/tdo1-zap.iPhone EN DEV /src/Views/LoadingOverlay.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC "build/zap quebec.build/Release-iphonesimulator/zap quebec.build/Objects-normal/i386/ConnectionViewController.o" "/Users/tdo1/Desktop/tdo1-zap.iPhone EN DEV /src/Controllers/ConnectionViewController.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC "build/zap quebec.build/Release-iphonesimulator/zap quebec.build/Objects-normal/i386/FavoritesViewController.o" "/Users/tdo1/Desktop/tdo1-zap.iPhone EN DEV /src/Controllers/../FavoritesViewController.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC "build/zap quebec.build/Release-iphonesimulator/zap quebec.build/Objects-normal/i386/Favorite.o" "/Users/tdo1/Desktop/tdo1-zap.iPhone EN DEV /src/Models/../Resources/Favorite.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC "build/zap quebec.build/Release-iphonesimulator/zap quebec.build/Objects-normal/i386/News.o" "/Users/tdo1/Desktop/tdo1-zap.iPhone EN DEV /src/Models/../Resources/News.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC "build/zap quebec.build/Release-iphonesimulator/zap quebec.build/Objects-normal/i386/EGORefreshTableHeaderView.o" "/Users/tdo1/Desktop/tdo1-zap.iPhone EN DEV /src/Views/EGORefreshTableHeaderView.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+cLd "/Users/tdo1/Desktop/tdo1-zap.iPhone EN DEV /src/build/Release-iphonesimulator/zap quebec.app/zap quebec" normal i386
+cGenerateDSYMFile "/Users/tdo1/Desktop/tdo1-zap.iPhone EN DEV /src/build/Release-iphonesimulator/zap quebec.app.dSYM" "/Users/tdo1/Desktop/tdo1-zap.iPhone EN DEV /src/build/Release-iphonesimulator/zap quebec.app/zap quebec"
+cTouch "/Users/tdo1/Desktop/tdo1-zap.iPhone EN DEV /src/build/Release-iphonesimulator/zap quebec.app"
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.3.sdk
+c000000004B69B45C00000000000000EE
+t1265218652
+s238
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.3.sdk/System/Library/Frameworks/CoreData.framework/CoreData
+c000000004B2B4E070000000000185440
+t1261129223
+s1594432
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.3.sdk/System/Library/Frameworks/CoreData.framework/Headers/CoreData.h
+c000000004B2B4DFB000000000000046B
+t1261129211
+s1131
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.3.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c000000004B2B4CC3000000000026EE30
+t1261128899
+s2551344
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.3.sdk/System/Library/Frameworks/CoreLocation.framework/Headers/CoreLocation.h
+c000000004B2B61BC00000000000001AF
+t1261134268
+s431
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.3.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004B2B4DC8000000000027E880
+t1261129160
+s2615424
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.3.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004B2B4DAE0000000000001355
+t1261129134
+s4949
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.3.sdk/System/Library/Frameworks/MapKit.framework/Headers/MapKit.h
+c000000004B2B634C000000000000017D
+t1261134668
+s381
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.3.sdk/System/Library/Frameworks/MapKit.framework/MapKit
+c000000004B2B6372000000000010EB60
+t1261134706
+s1108832
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.3.sdk/System/Library/Frameworks/QuartzCore.framework/Headers/QuartzCore.h
+c000000004B2B537F000000000000007D
+t1261130623
+s125
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.3.sdk/System/Library/Frameworks/QuartzCore.framework/QuartzCore
+c000000004B2B540C00000000000E5890
+t1261130764
+s940176
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.3.sdk/System/Library/Frameworks/SystemConfiguration.framework/Headers/SystemConfiguration.h
+c000000004B2B4C490000000000001A78
+t1261128777
+s6776
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.3.sdk/System/Library/Frameworks/SystemConfiguration.framework/SystemConfiguration
+c000000004B2B4C500000000000055360
+t1261128784
+s349024
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.3.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
+c000000004B2B61620000000000000788
+t1261134178
+s1928
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.3.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c000000004B2B62B500000000016721E0
+t1261134517
+s23536096
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.3.sdk/usr/include/Availability.h
+c000000004B2B4EE200000000000019F9
+t1261129442
+s6649
+
+N/System/Library/Frameworks/CoreLocation.framework/CoreLocation
+c000000004AC04078000000000003C8C0
+t1254113400
+s248000
+
+N/Users/tdo1/Desktop/tdo1-zap.iPhone EN DEV /src/Controllers/../FavoritesViewController.m
+c000000004C18ECFF000000000000152C
+t1276701951
+s5420
+i"FavoritesViewController.h"
+i"Favorite.h"
+i"Model.h"
+i"Hotspot.h"
+i"HotspotInfosViewController.h"
+i"MapViewController.h"
+i"ISFAppDelegate.h"
+
+N/Users/tdo1/Desktop/tdo1-zap.iPhone EN DEV /src/Controllers/ConnectionViewController.h
+c000000004BEC0B690000000000000131
+t1273760617
+s305
+i<UIKit/UIKit.h>
+
+N/Users/tdo1/Desktop/tdo1-zap.iPhone EN DEV /src/Controllers/ConnectionViewController.m
+c000000004BEC231800000000000006E7
+t1273766680
+s1767
+i"ConnectionViewController.h"
+
+N/Users/tdo1/Desktop/tdo1-zap.iPhone EN DEV /src/Controllers/HotspotInfosViewController.h
+c000000004C0E9B3600000000000003FC
+t1276025654
+s1020
+i<UIKit/UIKit.h>
+i<CoreLocation/CoreLocation.h>
+i"Hotspot.h"
+i"MapViewController.h"
+
+N/Users/tdo1/Desktop/tdo1-zap.iPhone EN DEV /src/Controllers/HotspotInfosViewController.m
+c000000004C0FC9200000000000003BF5
+t1276102944
+s15349
+i"HotspotInfosViewController.h"
+i"Favorite.h"
+i"Model.h"
+i"MapViewController.h"
+i"ISFAppDelegate.h"
+
+N/Users/tdo1/Desktop/tdo1-zap.iPhone EN DEV /src/Controllers/InfosViewController.h
+c000000004C17F7110000000000000433
+t1276638993
+s1075
+i<UIKit/UIKit.h>
+
+N/Users/tdo1/Desktop/tdo1-zap.iPhone EN DEV /src/Controllers/InfosViewController.m
+c000000004C17FCA40000000000002926
+t1276640420
+s10534
+i"InfosViewController.h"
+
+N/Users/tdo1/Desktop/tdo1-zap.iPhone EN DEV /src/Controllers/MapViewController.h
+c000000004C1288D50000000000000A27
+t1276283093
+s2599
+i<UIKit/UIKit.h>
+i<MapKit/MapKit.h>
+i"googleMapsAPI.h"
+i"XMLReader.h"
+
+N/Users/tdo1/Desktop/tdo1-zap.iPhone EN DEV /src/Controllers/MapViewController.m
+c000000004C1F9EFF000000000000740B
+t1277140735
+s29707
+i<SystemConfiguration/SystemConfiguration.h>
+i"MapViewController.h"
+i"LocationAnnotation.h"
+i"googleMapsAPI.h"
+i"Hotspot.h"
+i"HotspotInfosViewController.h"
+i"ISFAppDelegate.h"
+i"LoadingOverlay.h"
+i"ConnectionViewController.h"
+i"Favorite.h"
+i"EGORefreshTableHeaderView.h"
+
+N/Users/tdo1/Desktop/tdo1-zap.iPhone EN DEV /src/Controllers/NewsViewController.h
+c000000004C17BEA70000000000000630
+t1276624551
+s1584
+i<UIKit/UIKit.h>
+
+N/Users/tdo1/Desktop/tdo1-zap.iPhone EN DEV /src/Controllers/NewsViewController.m
+c000000004C1F9F1F00000000000054E1
+t1277140767
+s21729
+i<SystemConfiguration/SystemConfiguration.h>
+i"NewsViewController.h"
+i"NewsWebViewController.h"
+i"ISFAppDelegate.h"
+i"News.h"
+i"Model.h"
+i"EGORefreshTableHeaderView.h"
+
+N/Users/tdo1/Desktop/tdo1-zap.iPhone EN DEV /src/Controllers/NewsWebViewController.h
+c000000004BF7024900000000000001E7
+t1274479177
+s487
+i<UIKit/UIKit.h>
+
+N/Users/tdo1/Desktop/tdo1-zap.iPhone EN DEV /src/Controllers/NewsWebViewController.m
+c000000004C03C4D20000000000000987
+t1275315410
+s2439
+i"NewsWebViewController.h"
+i"ISFAppDelegate.h"
+
+N/Users/tdo1/Desktop/tdo1-zap.iPhone EN DEV /src/Controllers/RootViewController.h
+c000000004BEC57B00000000000000183
+t1273780144
+s387
+
+N/Users/tdo1/Desktop/tdo1-zap.iPhone EN DEV /src/Controllers/RootViewController.m
+c000000004BF57A530000000000000799
+t1274378835
+s1945
+i"RootViewController.h"
+i"MapViewController.h"
+i"XMLReader.h"
+i"Hotspot.h"
+
+N/Users/tdo1/Desktop/tdo1-zap.iPhone EN DEV /src/Controllers/googleMapsAPI.h
+c000000004BEC0AF000000000000002E4
+t1273760496
+s740
+i<Foundation/Foundation.h>
+i<CoreLocation/CoreLocation.h>
+
+N/Users/tdo1/Desktop/tdo1-zap.iPhone EN DEV /src/Controllers/googleMapsAPI.m
+c000000004BEC0AF80000000000000606
+t1273760504
+s1542
+i"googleMapsAPI.h"
+i"ISFAppDelegate.h"
+
+N/Users/tdo1/Desktop/tdo1-zap.iPhone EN DEV /src/FavoritesViewController.h
+c000000004BEC0ABF000000000000022B
+t1273760447
+s555
+i<UIKit/UIKit.h>
+i<Foundation/Foundation.h>
+i"MapViewController.h"
+
+N/Users/tdo1/Desktop/tdo1-zap.iPhone EN DEV /src/Ile_sans_fil_Prefix.pch
+c00000000000000000000000000000000
+t2
+s0
+
+N/Users/tdo1/Desktop/tdo1-zap.iPhone EN DEV /src/Librairies/FlurryAPI.h
+c000000004C1A0E920000000000000BD0
+t1276776082
+s3024
+i<UIKit/UIKit.h>
+
+N/Users/tdo1/Desktop/tdo1-zap.iPhone EN DEV /src/Librairies/libFlurryWithLocation.a
+c000000004C1A0E9200000000001F0698
+t1276776082
+s2033304
+
+N/Users/tdo1/Desktop/tdo1-zap.iPhone EN DEV /src/Main/ISFAppDelegate.h
+c000000004BEC0B730000000000000252
+t1273760627
+s594
+
+N/Users/tdo1/Desktop/tdo1-zap.iPhone EN DEV /src/Main/ISFAppDelegate.m
+c000000004C08019B00000000000005F8
+t1275593115
+s1528
+i"ISFAppDelegate.h"
+i"RootViewController.h"
+i"FlurryAPI.h"
+
+N/Users/tdo1/Desktop/tdo1-zap.iPhone EN DEV /src/Main/main.m
+c000000004BEC0B7D000000000000016A
+t1273760637
+s362
+i<UIKit/UIKit.h>
+
+N/Users/tdo1/Desktop/tdo1-zap.iPhone EN DEV /src/Models/../Resources/Favorite.h
+c000000004BEC0A4300000000000001D5
+t1273760323
+s469
+i<CoreData/CoreData.h>
+
+N/Users/tdo1/Desktop/tdo1-zap.iPhone EN DEV /src/Models/../Resources/Favorite.m
+c000000004BFECB1F000000000000028A
+t1274989343
+s650
+i"Favorite.h"
+i"Model.h"
+
+N/Users/tdo1/Desktop/tdo1-zap.iPhone EN DEV /src/Models/../Resources/News.h
+c000000004BEC0A25000000000000028B
+t1273760293
+s651
+i<CoreData/CoreData.h>
+
+N/Users/tdo1/Desktop/tdo1-zap.iPhone EN DEV /src/Models/../Resources/News.m
+c000000004BFECB1D00000000000002B4
+t1274989341
+s692
+i"News.h"
+i"Model.h"
+
+N/Users/tdo1/Desktop/tdo1-zap.iPhone EN DEV /src/Models/Hotspot.h
+c000000004BEC0A970000000000000673
+t1273760407
+s1651
+i<CoreData/CoreData.h>
+
+N/Users/tdo1/Desktop/tdo1-zap.iPhone EN DEV /src/Models/Hotspot.m
+c000000004BFECB1F0000000000000925
+t1274989343
+s2341
+i"Hotspot.h"
+i"Model.h"
+i"Node.h"
+
+N/Users/tdo1/Desktop/tdo1-zap.iPhone EN DEV /src/Models/LocationAnnotation.h
+c000000004C0D47FC0000000000000289
+t1275938812
+s649
+i<Foundation/Foundation.h>
+i<MapKit/MapKit.h>
+
+N/Users/tdo1/Desktop/tdo1-zap.iPhone EN DEV /src/Models/LocationAnnotation.m
+c000000004C0D4803000000000000017E
+t1275938819
+s382
+i"LocationAnnotation.h"
+
+N/Users/tdo1/Desktop/tdo1-zap.iPhone EN DEV /src/Models/Model.h
+c000000004C17CA580000000000000609
+t1276627544
+s1545
+i<Foundation/Foundation.h>
+i<CoreData/CoreData.h>
+
+N/Users/tdo1/Desktop/tdo1-zap.iPhone EN DEV /src/Models/Model.m
+c000000004C17CA5F0000000000001D94
+t1276627551
+s7572
+i"Model.h"
+i"Hotspot.h"
+i"Node.h"
+i"Favorite.h"
+i"News.h"
+
+N/Users/tdo1/Desktop/tdo1-zap.iPhone EN DEV /src/Models/Node.h
+c000000004BEC0A7D0000000000000303
+t1273760381
+s771
+i<CoreData/CoreData.h>
+
+N/Users/tdo1/Desktop/tdo1-zap.iPhone EN DEV /src/Models/Node.m
+c000000004BFECB1F00000000000002FE
+t1274989343
+s766
+i"Node.h"
+i"Hotspot.h"
+i"Model.h"
+
+N/Users/tdo1/Desktop/tdo1-zap.iPhone EN DEV /src/Models/XMLReader.h
+c000000004BEC0A95000000000000030D
+t1273760405
+s781
+i<Foundation/Foundation.h>
+
+N/Users/tdo1/Desktop/tdo1-zap.iPhone EN DEV /src/Models/XMLReader.m
+c000000004BF69B790000000000002C9C
+t1274452857
+s11420
+i"XMLReader.h"
+i"Model.h"
+i"Hotspot.h"
+i"Node.h"
+i"ISFAppDelegate.h"
+
+N/Users/tdo1/Desktop/tdo1-zap.iPhone EN DEV /src/Resources/Default.png
+c000000004BCEFFCC000000000000405B
+t1271857100
+s16475
+
+N/Users/tdo1/Desktop/tdo1-zap.iPhone EN DEV /src/Resources/Favorite.h
+c000000004BEC0A4300000000000001D5
+t1273760323
+s469
+i<CoreData/CoreData.h>
+
+N/Users/tdo1/Desktop/tdo1-zap.iPhone EN DEV /src/Resources/Hotspots.xcdatamodeld
+c000000004BEB251900000000000000CC
+t1273701657
+s204
+
+N/Users/tdo1/Desktop/tdo1-zap.iPhone EN DEV /src/Resources/Images/UITabBar2.png
+c000000004BEC6C910000000000000B8E
+t1273785489
+s2958
+
+N/Users/tdo1/Desktop/tdo1-zap.iPhone EN DEV /src/Resources/Images/alert_back-red.png
+c000000004BCEFFCC0000000000000268
+t1271857100
+s616
+
+N/Users/tdo1/Desktop/tdo1-zap.iPhone EN DEV /src/Resources/Images/alert_back-yellow.png
+c000000004BCEFFCC0000000000000256
+t1271857100
+s598
+
+N/Users/tdo1/Desktop/tdo1-zap.iPhone EN DEV /src/Resources/Images/blackArrow.png
+c000000004BD9957800000000000010DC
+t1272550776
+s4316
+
+N/Users/tdo1/Desktop/tdo1-zap.iPhone EN DEV /src/Resources/Images/blueArrow.png
+c000000004BD99578000000000000118C
+t1272550776
+s4492
+
+N/Users/tdo1/Desktop/tdo1-zap.iPhone EN DEV /src/Resources/Images/btliste.jpg
+c000000004BE9B4950000000000001033
+t1273607317
+s4147
+
+N/Users/tdo1/Desktop/tdo1-zap.iPhone EN DEV /src/Resources/Images/btlisteR.jpg
+c000000004BEC4B9F00000000000030F8
+t1273777055
+s12536
+
+N/Users/tdo1/Desktop/tdo1-zap.iPhone EN DEV /src/Resources/Images/btmap.jpg
+c000000004BE9B4A80000000000001165
+t1273607336
+s4453
+
+N/Users/tdo1/Desktop/tdo1-zap.iPhone EN DEV /src/Resources/Images/btmapR.jpg
+c000000004BEC4B63000000000000342C
+t1273776995
+s13356
+
+N/Users/tdo1/Desktop/tdo1-zap.iPhone EN DEV /src/Resources/Images/btn-loc.png
+c000000004BCEFFCC0000000000000515
+t1271857100
+s1301
+
+N/Users/tdo1/Desktop/tdo1-zap.iPhone EN DEV /src/Resources/Images/btn-refresh.png
+c000000004C17FC410000000000000FDE
+t1276640321
+s4062
+
+N/Users/tdo1/Desktop/tdo1-zap.iPhone EN DEV /src/Resources/Images/btn_credits_en.png
+c000000004C17AD240000000000001B3F
+t1276620068
+s6975
+
+N/Users/tdo1/Desktop/tdo1-zap.iPhone EN DEV /src/Resources/Images/btn_credits_fr.png
+c000000004C17AD160000000000001D6F
+t1276620054
+s7535
+
+N/Users/tdo1/Desktop/tdo1-zap.iPhone EN DEV /src/Resources/Images/btn_isf_en.png
+c000000004C17AD060000000000001E9D
+t1276620038
+s7837
+
+N/Users/tdo1/Desktop/tdo1-zap.iPhone EN DEV /src/Resources/Images/btn_isf_fr.png
+c000000004C17ACEF000000000000201E
+t1276620015
+s8222
+
+N/Users/tdo1/Desktop/tdo1-zap.iPhone EN DEV /src/Resources/Images/btn_isf_infos_back_en.png
+c000000004BCEFFCC000000000000052F
+t1271857100
+s1327
+
+N/Users/tdo1/Desktop/tdo1-zap.iPhone EN DEV /src/Resources/Images/btn_isf_infos_back_fr.png
+c000000004BCEFFCC0000000000000568
+t1271857100
+s1384
+
+N/Users/tdo1/Desktop/tdo1-zap.iPhone EN DEV /src/Resources/Images/btn_notice_en.png
+c000000004C17AD310000000000001D71
+t1276620081
+s7537
+
+N/Users/tdo1/Desktop/tdo1-zap.iPhone EN DEV /src/Resources/Images/btn_notice_fr.png
+c000000004C17AD3E0000000000001EA8
+t1276620094
+s7848
+
+N/Users/tdo1/Desktop/tdo1-zap.iPhone EN DEV /src/Resources/Images/coeur.png
+c000000004BD06B230000000000000C34
+t1271950115
+s3124
+
+N/Users/tdo1/Desktop/tdo1-zap.iPhone EN DEV /src/Resources/Images/direction.png
+c000000004BD068F1000000000000139B
+t1271949553
+s5019
+
+N/Users/tdo1/Desktop/tdo1-zap.iPhone EN DEV /src/Resources/Images/favorite-color.png
+c000000004BCEFFCC000000000000183D
+t1271857100
+s6205
+
+N/Users/tdo1/Desktop/tdo1-zap.iPhone EN DEV /src/Resources/Images/favorite-color2.png
+c000000004C0FB1920000000000000C72
+t1276096914
+s3186
+
+N/Users/tdo1/Desktop/tdo1-zap.iPhone EN DEV /src/Resources/Images/favorite-grey.png
+c000000004BCEFFCC000000000000172C
+t1271857100
+s5932
+
+N/Users/tdo1/Desktop/tdo1-zap.iPhone EN DEV /src/Resources/Images/favorite-grey2.png
+c000000004C0FB1BE0000000000000C8D
+t1276096958
+s3213
+
+N/Users/tdo1/Desktop/tdo1-zap.iPhone EN DEV /src/Resources/Images/iconehotspot.png
+c000000004BEC62EC0000000000000F7C
+t1273783020
+s3964
+
+N/Users/tdo1/Desktop/tdo1-zap.iPhone EN DEV /src/Resources/Images/infos_en.png
+c000000004C1673820000000000002193
+t1276539778
+s8595
+
+N/Users/tdo1/Desktop/tdo1-zap.iPhone EN DEV /src/Resources/Images/infos_fr.png
+c000000004C16712100000000000023D7
+t1276539169
+s9175
+
+N/Users/tdo1/Desktop/tdo1-zap.iPhone EN DEV /src/Resources/Images/isfInfosNotice_en.png
+c000000004C178F2C00000000000056A0
+t1276612396
+s22176
+
+N/Users/tdo1/Desktop/tdo1-zap.iPhone EN DEV /src/Resources/Images/isfInfosNotice_fr.png
+c000000004C178F43000000000000614A
+t1276612419
+s24906
+
+N/Users/tdo1/Desktop/tdo1-zap.iPhone EN DEV /src/Resources/Images/isf_infos_en.png
+c000000004BCEFFCC000000000000276C
+t1271857100
+s10092
+
+N/Users/tdo1/Desktop/tdo1-zap.iPhone EN DEV /src/Resources/Images/isf_infos_fr.png
+c000000004BCEFFCC00000000000037FE
+t1271857100
+s14334
+
+N/Users/tdo1/Desktop/tdo1-zap.iPhone EN DEV /src/Resources/Images/map.png
+c000000004BD8A9570000000000000F69
+t1272490327
+s3945
+
+N/Users/tdo1/Desktop/tdo1-zap.iPhone EN DEV /src/Resources/Images/no-connection.png
+c000000004BCEFFCC0000000000003DF4
+t1271857100
+s15860
+
+N/Users/tdo1/Desktop/tdo1-zap.iPhone EN DEV /src/Resources/Images/pin-down-fav.png
+c000000004C0670D70000000000000EB0
+t1275490519
+s3760
+
+N/Users/tdo1/Desktop/tdo1-zap.iPhone EN DEV /src/Resources/Images/pin-down.png
+c000000004BCEFFCC0000000000000446
+t1271857100
+s1094
+
+N/Users/tdo1/Desktop/tdo1-zap.iPhone EN DEV /src/Resources/Images/pin-search.png
+c000000004BCEFFCC0000000000000846
+t1271857100
+s2118
+
+N/Users/tdo1/Desktop/tdo1-zap.iPhone EN DEV /src/Resources/Images/pin-unknown.png
+c000000004BCEFFCC0000000000000377
+t1271857100
+s887
+
+N/Users/tdo1/Desktop/tdo1-zap.iPhone EN DEV /src/Resources/Images/pin-up-fav.png
+c000000004C0670E50000000000000F5D
+t1275490533
+s3933
+
+N/Users/tdo1/Desktop/tdo1-zap.iPhone EN DEV /src/Resources/Images/pin-up.png
+c000000004BCEFFCC000000000000054B
+t1271857100
+s1355
+
+N/Users/tdo1/Desktop/tdo1-zap.iPhone EN DEV /src/Resources/Images/searching-back.png
+c000000004BCEFFCC000000000000A2CA
+t1271857100
+s41674
+
+N/Users/tdo1/Desktop/tdo1-zap.iPhone EN DEV /src/Resources/Images/showmap.png
+c000000004C0FC5FC00000000000004F5
+t1276102140
+s1269
+
+N/Users/tdo1/Desktop/tdo1-zap.iPhone EN DEV /src/Resources/Images/tab-info.png
+c000000004BCEFFCC00000000000001FA
+t1271857100
+s506
+
+N/Users/tdo1/Desktop/tdo1-zap.iPhone EN DEV /src/Resources/Images/tab-list.png
+c000000004BCEFFCC00000000000000A9
+t1271857100
+s169
+
+N/Users/tdo1/Desktop/tdo1-zap.iPhone EN DEV /src/Resources/Images/tab-list2.png
+c000000004BD7093D0000000000000B89
+t1272383805
+s2953
+
+N/Users/tdo1/Desktop/tdo1-zap.iPhone EN DEV /src/Resources/Images/tab-map.png
+c000000004BCEFFCC000000000000016B
+t1271857100
+s363
+
+N/Users/tdo1/Desktop/tdo1-zap.iPhone EN DEV /src/Resources/Images/tab-rss.png
+c000000004BCEFFCC000000000000025D
+t1271857100
+s605
+
+N/Users/tdo1/Desktop/tdo1-zap.iPhone EN DEV /src/Resources/Images/whiteArrow.png
+c000000004BD995780000000000001054
+t1272550776
+s4180
+
+N/Users/tdo1/Desktop/tdo1-zap.iPhone EN DEV /src/Resources/NIBs/../../en.lproj/InfosViewController.xib
+c000000004C191CAF0000000000010EA7
+t1276714159
+s69287
+
+N/Users/tdo1/Desktop/tdo1-zap.iPhone EN DEV /src/Resources/NIBs/../../fr.lproj/InfosViewController.xib
+c000000004C17F8550000000000010F81
+t1276639317
+s69505
+
+N/Users/tdo1/Desktop/tdo1-zap.iPhone EN DEV /src/Resources/NIBs/ConnectionViewController.xib
+c000000004BCEFFCC000000000000560B
+t1271857100
+s22027
+
+N/Users/tdo1/Desktop/tdo1-zap.iPhone EN DEV /src/Resources/NIBs/HotspotInfosViewController.xib
+c000000004C0EA7C9000000000000583B
+t1276028873
+s22587
+
+N/Users/tdo1/Desktop/tdo1-zap.iPhone EN DEV /src/Resources/NIBs/MainWindow.xib
+c000000004C091E75000000000000E455
+t1275666037
+s58453
+
+N/Users/tdo1/Desktop/tdo1-zap.iPhone EN DEV /src/Resources/NIBs/MapViewController.xib
+c000000004C1137EC000000000000CB1B
+t1276196844
+s51995
+
+N/Users/tdo1/Desktop/tdo1-zap.iPhone EN DEV /src/Resources/NIBs/NewsWebViewController.xib
+c000000004BCEFFCC000000000000452D
+t1271857100
+s17709
+
+N/Users/tdo1/Desktop/tdo1-zap.iPhone EN DEV /src/Resources/News.h
+c000000004BEC0A25000000000000028B
+t1273760293
+s651
+i<CoreData/CoreData.h>
+
+N/Users/tdo1/Desktop/tdo1-zap.iPhone EN DEV /src/Resources/dist.plist
+c000000004BCEFFCC00000000000000E1
+t1271857100
+s225
+
+N/Users/tdo1/Desktop/tdo1-zap.iPhone EN DEV /src/Resources/hotspot.xml
+c000000004C003012000000000003BEDB
+t1275080722
+s245467
+
+N/Users/tdo1/Desktop/tdo1-zap.iPhone EN DEV /src/Resources/icon.png
+c000000004BCEFFCC000000000000074D
+t1271857100
+s1869
+
+N/Users/tdo1/Desktop/tdo1-zap.iPhone EN DEV /src/Resources/news_files/Default1.png
+c000000004BFC1C6E00000000000003BB
+t1274813550
+s955
+
+N/Users/tdo1/Desktop/tdo1-zap.iPhone EN DEV /src/Resources/news_files/habs-home.png
+c000000004BFC1C6E0000000000006CC8
+t1274813550
+s27848
+
+N/Users/tdo1/Desktop/tdo1-zap.iPhone EN DEV /src/Resources/news_files/head-fade-bk.png
+c000000004BDEFAE20000000000000062
+t1272904418
+s98
+
+N/Users/tdo1/Desktop/tdo1-zap.iPhone EN DEV /src/Resources/news_files/html1.html
+c000000004BFD39660000000000000686
+t1274886502
+s1670
+
+N/Users/tdo1/Desktop/tdo1-zap.iPhone EN DEV /src/Resources/news_files/html2.html
+c000000004BFC2784000000000000002C
+t1274816388
+s44
+
+N/Users/tdo1/Desktop/tdo1-zap.iPhone EN DEV /src/Resources/news_files/html3.html
+c000000004BFC27D9000000000000008F
+t1274816473
+s143
+
+N/Users/tdo1/Desktop/tdo1-zap.iPhone EN DEV /src/Resources/news_files/html4.html
+c000000004BFC27EB000000000000002A
+t1274816491
+s42
+
+N/Users/tdo1/Desktop/tdo1-zap.iPhone EN DEV /src/Resources/news_files/pinstripes-classic.gif
+c000000004BDEFAE0000000000000003F
+t1272904416
+s63
+
+N/Users/tdo1/Desktop/tdo1-zap.iPhone EN DEV /src/Resources/news_files/style-compressed.css
+c000000004BFC1C6E0000000000008299
+t1274813550
+s33433
+
+N/Users/tdo1/Desktop/tdo1-zap.iPhone EN DEV /src/Resources/news_files/style.css
+c000000004BFC1C6E000000000000005B
+t1274813550
+s91
+
+N/Users/tdo1/Desktop/tdo1-zap.iPhone EN DEV /src/Views/EGORefreshTableHeaderView.h
+c000000004BD9957800000000000006D2
+t1272550776
+s1746
+i<UIKit/UIKit.h>
+i<QuartzCore/QuartzCore.h>
+
+N/Users/tdo1/Desktop/tdo1-zap.iPhone EN DEV /src/Views/EGORefreshTableHeaderView.m
+c000000004C17EE170000000000001904
+t1276636695
+s6404
+i"EGORefreshTableHeaderView.h"
+
+N/Users/tdo1/Desktop/tdo1-zap.iPhone EN DEV /src/Views/LoadingOverlay.h
+c000000004C17CA40000000000000018D
+t1276627520
+s397
+i<UIKit/UIKit.h>
+
+N/Users/tdo1/Desktop/tdo1-zap.iPhone EN DEV /src/Views/LoadingOverlay.m
+c000000004C17CA46000000000000070C
+t1276627526
+s1804
+i"LoadingOverlay.h"
+
+N/Users/tdo1/Desktop/tdo1-zap.iPhone EN DEV /src/build/Release-iphonesimulator/zap quebec.app
+t1277140826
+s2550
+
+N/Users/tdo1/Desktop/tdo1-zap.iPhone EN DEV /src/build/Release-iphonesimulator/zap quebec.app.dSYM
+t1277140826
+s102
+
+N/Users/tdo1/Desktop/tdo1-zap.iPhone EN DEV /src/build/Release-iphonesimulator/zap quebec.app/ConnectionViewController.nib
+t1277140818
+s2445
+
+N/Users/tdo1/Desktop/tdo1-zap.iPhone EN DEV /src/build/Release-iphonesimulator/zap quebec.app/Default.png
+t1277140809
+s16475
+
+N/Users/tdo1/Desktop/tdo1-zap.iPhone EN DEV /src/build/Release-iphonesimulator/zap quebec.app/Default1.png
+t1277140819
+s955
+
+N/Users/tdo1/Desktop/tdo1-zap.iPhone EN DEV /src/build/Release-iphonesimulator/zap quebec.app/HotspotInfosViewController.nib
+t1277140818
+s1962
+
+N/Users/tdo1/Desktop/tdo1-zap.iPhone EN DEV /src/build/Release-iphonesimulator/zap quebec.app/Hotspots.momd
+t1277140822
+s204
+
+N/Users/tdo1/Desktop/tdo1-zap.iPhone EN DEV /src/build/Release-iphonesimulator/zap quebec.app/Info.plist
+t1277140809
+s718
+
+N/Users/tdo1/Desktop/tdo1-zap.iPhone EN DEV /src/build/Release-iphonesimulator/zap quebec.app/MainWindow.nib
+t1277140816
+s6255
+
+N/Users/tdo1/Desktop/tdo1-zap.iPhone EN DEV /src/build/Release-iphonesimulator/zap quebec.app/MapViewController.nib
+t1277140816
+s7554
+
+N/Users/tdo1/Desktop/tdo1-zap.iPhone EN DEV /src/build/Release-iphonesimulator/zap quebec.app/NewsWebViewController.nib
+t1277140818
+s1478
+
+N/Users/tdo1/Desktop/tdo1-zap.iPhone EN DEV /src/build/Release-iphonesimulator/zap quebec.app/PkgInfo
+t1277140809
+s8
+
+N/Users/tdo1/Desktop/tdo1-zap.iPhone EN DEV /src/build/Release-iphonesimulator/zap quebec.app/UITabBar2.png
+t1277140819
+s2958
+
+N/Users/tdo1/Desktop/tdo1-zap.iPhone EN DEV /src/build/Release-iphonesimulator/zap quebec.app/alert_back-red.png
+t1277140819
+s616
+
+N/Users/tdo1/Desktop/tdo1-zap.iPhone EN DEV /src/build/Release-iphonesimulator/zap quebec.app/alert_back-yellow.png
+t1277140819
+s598
+
+N/Users/tdo1/Desktop/tdo1-zap.iPhone EN DEV /src/build/Release-iphonesimulator/zap quebec.app/blackArrow.png
+t1277140819
+s4316
+
+N/Users/tdo1/Desktop/tdo1-zap.iPhone EN DEV /src/build/Release-iphonesimulator/zap quebec.app/blueArrow.png
+t1277140819
+s4492
+
+N/Users/tdo1/Desktop/tdo1-zap.iPhone EN DEV /src/build/Release-iphonesimulator/zap quebec.app/btliste.jpg
+t1277140819
+s4147
+
+N/Users/tdo1/Desktop/tdo1-zap.iPhone EN DEV /src/build/Release-iphonesimulator/zap quebec.app/btlisteR.jpg
+t1277140819
+s12536
+
+N/Users/tdo1/Desktop/tdo1-zap.iPhone EN DEV /src/build/Release-iphonesimulator/zap quebec.app/btmap.jpg
+t1277140819
+s4453
+
+N/Users/tdo1/Desktop/tdo1-zap.iPhone EN DEV /src/build/Release-iphonesimulator/zap quebec.app/btmapR.jpg
+t1277140819
+s13356
+
+N/Users/tdo1/Desktop/tdo1-zap.iPhone EN DEV /src/build/Release-iphonesimulator/zap quebec.app/btn-loc.png
+t1277140819
+s1301
+
+N/Users/tdo1/Desktop/tdo1-zap.iPhone EN DEV /src/build/Release-iphonesimulator/zap quebec.app/btn-refresh.png
+t1277140819
+s4062
+
+N/Users/tdo1/Desktop/tdo1-zap.iPhone EN DEV /src/build/Release-iphonesimulator/zap quebec.app/btn_credits_en.png
+t1277140819
+s6975
+
+N/Users/tdo1/Desktop/tdo1-zap.iPhone EN DEV /src/build/Release-iphonesimulator/zap quebec.app/btn_credits_fr.png
+t1277140819
+s7535
+
+N/Users/tdo1/Desktop/tdo1-zap.iPhone EN DEV /src/build/Release-iphonesimulator/zap quebec.app/btn_isf_en.png
+t1277140819
+s7837
+
+N/Users/tdo1/Desktop/tdo1-zap.iPhone EN DEV /src/build/Release-iphonesimulator/zap quebec.app/btn_isf_fr.png
+t1277140819
+s8222
+
+N/Users/tdo1/Desktop/tdo1-zap.iPhone EN DEV /src/build/Release-iphonesimulator/zap quebec.app/btn_isf_infos_back_en.png
+t1277140819
+s1327
+
+N/Users/tdo1/Desktop/tdo1-zap.iPhone EN DEV /src/build/Release-iphonesimulator/zap quebec.app/btn_isf_infos_back_fr.png
+t1277140819
+s1384
+
+N/Users/tdo1/Desktop/tdo1-zap.iPhone EN DEV /src/build/Release-iphonesimulator/zap quebec.app/btn_notice_en.png
+t1277140819
+s7537
+
+N/Users/tdo1/Desktop/tdo1-zap.iPhone EN DEV /src/build/Release-iphonesimulator/zap quebec.app/btn_notice_fr.png
+t1277140819
+s7848
+
+N/Users/tdo1/Desktop/tdo1-zap.iPhone EN DEV /src/build/Release-iphonesimulator/zap quebec.app/coeur.png
+t1277140819
+s3124
+
+N/Users/tdo1/Desktop/tdo1-zap.iPhone EN DEV /src/build/Release-iphonesimulator/zap quebec.app/direction.png
+t1277140819
+s5019
+
+N/Users/tdo1/Desktop/tdo1-zap.iPhone EN DEV /src/build/Release-iphonesimulator/zap quebec.app/dist.plist
+t1277140818
+s62
+
+N/Users/tdo1/Desktop/tdo1-zap.iPhone EN DEV /src/build/Release-iphonesimulator/zap quebec.app/en.lproj/InfosViewController.nib
+t1277140819
+s10573
+
+N/Users/tdo1/Desktop/tdo1-zap.iPhone EN DEV /src/build/Release-iphonesimulator/zap quebec.app/en.lproj/Localizable.strings
+t1277140818
+s2778
+
+N/Users/tdo1/Desktop/tdo1-zap.iPhone EN DEV /src/build/Release-iphonesimulator/zap quebec.app/favorite-color.png
+t1277140819
+s6205
+
+N/Users/tdo1/Desktop/tdo1-zap.iPhone EN DEV /src/build/Release-iphonesimulator/zap quebec.app/favorite-color2.png
+t1277140819
+s3186
+
+N/Users/tdo1/Desktop/tdo1-zap.iPhone EN DEV /src/build/Release-iphonesimulator/zap quebec.app/favorite-grey.png
+t1277140819
+s5932
+
+N/Users/tdo1/Desktop/tdo1-zap.iPhone EN DEV /src/build/Release-iphonesimulator/zap quebec.app/favorite-grey2.png
+t1277140819
+s3213
+
+N/Users/tdo1/Desktop/tdo1-zap.iPhone EN DEV /src/build/Release-iphonesimulator/zap quebec.app/fr.lproj/InfosViewController.nib
+t1277140819
+s10658
+
+N/Users/tdo1/Desktop/tdo1-zap.iPhone EN DEV /src/build/Release-iphonesimulator/zap quebec.app/fr.lproj/Localizable.strings
+t1277140818
+s4764
+
+N/Users/tdo1/Desktop/tdo1-zap.iPhone EN DEV /src/build/Release-iphonesimulator/zap quebec.app/habs-home.png
+t1277140819
+s27848
+
+N/Users/tdo1/Desktop/tdo1-zap.iPhone EN DEV /src/build/Release-iphonesimulator/zap quebec.app/head-fade-bk.png
+t1277140819
+s98
+
+N/Users/tdo1/Desktop/tdo1-zap.iPhone EN DEV /src/build/Release-iphonesimulator/zap quebec.app/hotspot.xml
+t1277140819
+s245467
+
+N/Users/tdo1/Desktop/tdo1-zap.iPhone EN DEV /src/build/Release-iphonesimulator/zap quebec.app/html1.html
+t1277140819
+s1670
+
+N/Users/tdo1/Desktop/tdo1-zap.iPhone EN DEV /src/build/Release-iphonesimulator/zap quebec.app/html2.html
+t1277140819
+s44
+
+N/Users/tdo1/Desktop/tdo1-zap.iPhone EN DEV /src/build/Release-iphonesimulator/zap quebec.app/html3.html
+t1277140819
+s143
+
+N/Users/tdo1/Desktop/tdo1-zap.iPhone EN DEV /src/build/Release-iphonesimulator/zap quebec.app/html4.html
+t1277140819
+s42
+
+N/Users/tdo1/Desktop/tdo1-zap.iPhone EN DEV /src/build/Release-iphonesimulator/zap quebec.app/icon.png
+t1277140809
+s1869
+
+N/Users/tdo1/Desktop/tdo1-zap.iPhone EN DEV /src/build/Release-iphonesimulator/zap quebec.app/iconehotspot.png
+t1277140819
+s3964
+
+N/Users/tdo1/Desktop/tdo1-zap.iPhone EN DEV /src/build/Release-iphonesimulator/zap quebec.app/infos_en.png
+t1277140819
+s8595
+
+N/Users/tdo1/Desktop/tdo1-zap.iPhone EN DEV /src/build/Release-iphonesimulator/zap quebec.app/infos_fr.png
+t1277140819
+s9175
+
+N/Users/tdo1/Desktop/tdo1-zap.iPhone EN DEV /src/build/Release-iphonesimulator/zap quebec.app/isfInfosNotice_en.png
+t1277140819
+s22176
+
+N/Users/tdo1/Desktop/tdo1-zap.iPhone EN DEV /src/build/Release-iphonesimulator/zap quebec.app/isfInfosNotice_fr.png
+t1277140819
+s24906
+
+N/Users/tdo1/Desktop/tdo1-zap.iPhone EN DEV /src/build/Release-iphonesimulator/zap quebec.app/isf_infos_en.png
+t1277140819
+s10092
+
+N/Users/tdo1/Desktop/tdo1-zap.iPhone EN DEV /src/build/Release-iphonesimulator/zap quebec.app/isf_infos_fr.png
+t1277140819
+s14334
+
+N/Users/tdo1/Desktop/tdo1-zap.iPhone EN DEV /src/build/Release-iphonesimulator/zap quebec.app/map.png
+t1277140819
+s3945
+
+N/Users/tdo1/Desktop/tdo1-zap.iPhone EN DEV /src/build/Release-iphonesimulator/zap quebec.app/no-connection.png
+t1277140819
+s15860
+
+N/Users/tdo1/Desktop/tdo1-zap.iPhone EN DEV /src/build/Release-iphonesimulator/zap quebec.app/pin-down-fav.png
+t1277140819
+s3760
+
+N/Users/tdo1/Desktop/tdo1-zap.iPhone EN DEV /src/build/Release-iphonesimulator/zap quebec.app/pin-down.png
+t1277140819
+s1094
+
+N/Users/tdo1/Desktop/tdo1-zap.iPhone EN DEV /src/build/Release-iphonesimulator/zap quebec.app/pin-search.png
+t1277140819
+s2118
+
+N/Users/tdo1/Desktop/tdo1-zap.iPhone EN DEV /src/build/Release-iphonesimulator/zap quebec.app/pin-unknown.png
+t1277140819
+s887
+
+N/Users/tdo1/Desktop/tdo1-zap.iPhone EN DEV /src/build/Release-iphonesimulator/zap quebec.app/pin-up-fav.png
+t1277140819
+s3933
+
+N/Users/tdo1/Desktop/tdo1-zap.iPhone EN DEV /src/build/Release-iphonesimulator/zap quebec.app/pin-up.png
+t1277140819
+s1355
+
+N/Users/tdo1/Desktop/tdo1-zap.iPhone EN DEV /src/build/Release-iphonesimulator/zap quebec.app/pinstripes-classic.gif
+t1277140819
+s63
+
+N/Users/tdo1/Desktop/tdo1-zap.iPhone EN DEV /src/build/Release-iphonesimulator/zap quebec.app/searching-back.png
+t1277140819
+s41674
+
+N/Users/tdo1/Desktop/tdo1-zap.iPhone EN DEV /src/build/Release-iphonesimulator/zap quebec.app/showmap.png
+t1277140819
+s1269
+
+N/Users/tdo1/Desktop/tdo1-zap.iPhone EN DEV /src/build/Release-iphonesimulator/zap quebec.app/style-compressed.css
+t1277140819
+s33433
+
+N/Users/tdo1/Desktop/tdo1-zap.iPhone EN DEV /src/build/Release-iphonesimulator/zap quebec.app/style.css
+t1277140819
+s91
+
+N/Users/tdo1/Desktop/tdo1-zap.iPhone EN DEV /src/build/Release-iphonesimulator/zap quebec.app/tab-info.png
+t1277140819
+s506
+
+N/Users/tdo1/Desktop/tdo1-zap.iPhone EN DEV /src/build/Release-iphonesimulator/zap quebec.app/tab-list.png
+t1277140819
+s169
+
+N/Users/tdo1/Desktop/tdo1-zap.iPhone EN DEV /src/build/Release-iphonesimulator/zap quebec.app/tab-list2.png
+t1277140819
+s2953
+
+N/Users/tdo1/Desktop/tdo1-zap.iPhone EN DEV /src/build/Release-iphonesimulator/zap quebec.app/tab-map.png
+t1277140819
+s363
+
+N/Users/tdo1/Desktop/tdo1-zap.iPhone EN DEV /src/build/Release-iphonesimulator/zap quebec.app/tab-rss.png
+t1277140819
+s605
+
+N/Users/tdo1/Desktop/tdo1-zap.iPhone EN DEV /src/build/Release-iphonesimulator/zap quebec.app/whiteArrow.png
+t1277140819
+s4180
+
+N/Users/tdo1/Desktop/tdo1-zap.iPhone EN DEV /src/build/Release-iphonesimulator/zap quebec.app/zap quebec
+t1277140826
+s400464
+
+N/Users/tdo1/Desktop/tdo1-zap.iPhone EN DEV /src/build/zap quebec.build/Release-iphonesimulator/zap quebec.build/Objects-normal/i386/ConnectionViewController.o
+t1277140824
+s31260
+
+N/Users/tdo1/Desktop/tdo1-zap.iPhone EN DEV /src/build/zap quebec.build/Release-iphonesimulator/zap quebec.build/Objects-normal/i386/EGORefreshTableHeaderView.o
+t1277140825
+s26108
+
+N/Users/tdo1/Desktop/tdo1-zap.iPhone EN DEV /src/build/zap quebec.build/Release-iphonesimulator/zap quebec.build/Objects-normal/i386/Favorite.o
+t1277140824
+s11544
+
+N/Users/tdo1/Desktop/tdo1-zap.iPhone EN DEV /src/build/zap quebec.build/Release-iphonesimulator/zap quebec.build/Objects-normal/i386/FavoritesViewController.o
+t1277140825
+s56492
+
+N/Users/tdo1/Desktop/tdo1-zap.iPhone EN DEV /src/build/zap quebec.build/Release-iphonesimulator/zap quebec.build/Objects-normal/i386/Hotspot.o
+t1277140823
+s16220
+
+N/Users/tdo1/Desktop/tdo1-zap.iPhone EN DEV /src/build/zap quebec.build/Release-iphonesimulator/zap quebec.build/Objects-normal/i386/HotspotInfosViewController.o
+t1277140824
+s81108
+
+N/Users/tdo1/Desktop/tdo1-zap.iPhone EN DEV /src/build/zap quebec.build/Release-iphonesimulator/zap quebec.build/Objects-normal/i386/ISFAppDelegate.o
+t1277140822
+s44068
+
+N/Users/tdo1/Desktop/tdo1-zap.iPhone EN DEV /src/build/zap quebec.build/Release-iphonesimulator/zap quebec.build/Objects-normal/i386/InfosViewController.o
+t1277140823
+s60444
+
+N/Users/tdo1/Desktop/tdo1-zap.iPhone EN DEV /src/build/zap quebec.build/Release-iphonesimulator/zap quebec.build/Objects-normal/i386/LoadingOverlay.o
+t1277140824
+s35136
+
+N/Users/tdo1/Desktop/tdo1-zap.iPhone EN DEV /src/build/zap quebec.build/Release-iphonesimulator/zap quebec.build/Objects-normal/i386/LocationAnnotation.o
+t1277140822
+s12928
+
+N/Users/tdo1/Desktop/tdo1-zap.iPhone EN DEV /src/build/zap quebec.build/Release-iphonesimulator/zap quebec.build/Objects-normal/i386/MapViewController.o
+t1277140823
+s107088
+
+N/Users/tdo1/Desktop/tdo1-zap.iPhone EN DEV /src/build/zap quebec.build/Release-iphonesimulator/zap quebec.build/Objects-normal/i386/Model.o
+t1277140822
+s27896
+
+N/Users/tdo1/Desktop/tdo1-zap.iPhone EN DEV /src/build/zap quebec.build/Release-iphonesimulator/zap quebec.build/Objects-normal/i386/News.o
+t1277140824
+s11612
+
+N/Users/tdo1/Desktop/tdo1-zap.iPhone EN DEV /src/build/zap quebec.build/Release-iphonesimulator/zap quebec.build/Objects-normal/i386/NewsViewController.o
+t1277140824
+s86804
+
+N/Users/tdo1/Desktop/tdo1-zap.iPhone EN DEV /src/build/zap quebec.build/Release-iphonesimulator/zap quebec.build/Objects-normal/i386/NewsWebViewController.o
+t1277140824
+s43600
+
+N/Users/tdo1/Desktop/tdo1-zap.iPhone EN DEV /src/build/zap quebec.build/Release-iphonesimulator/zap quebec.build/Objects-normal/i386/Node.o
+t1277140823
+s11648
+
+N/Users/tdo1/Desktop/tdo1-zap.iPhone EN DEV /src/build/zap quebec.build/Release-iphonesimulator/zap quebec.build/Objects-normal/i386/RootViewController.o
+t1277140822
+s34496
+
+N/Users/tdo1/Desktop/tdo1-zap.iPhone EN DEV /src/build/zap quebec.build/Release-iphonesimulator/zap quebec.build/Objects-normal/i386/XMLReader.o
+t1277140823
+s57672
+
+N/Users/tdo1/Desktop/tdo1-zap.iPhone EN DEV /src/build/zap quebec.build/Release-iphonesimulator/zap quebec.build/Objects-normal/i386/googleMapsAPI.o
+t1277140822
+s37452
+
+N/Users/tdo1/Desktop/tdo1-zap.iPhone EN DEV /src/build/zap quebec.build/Release-iphonesimulator/zap quebec.build/Objects-normal/i386/main.o
+t1277140822
+s5956
+
+N/Users/tdo1/Desktop/tdo1-zap.iPhone EN DEV /src/build/zap quebec.build/Release-iphonesimulator/zap quebec.build/Objects-normal/i386/zap quebec.LinkFileList
+c000000004C1F9F490000000000000BAF
+t1277140809
+s2991
+
+N/Users/tdo1/Desktop/tdo1-zap.iPhone EN DEV /src/en.lproj/Localizable.strings
+c000000004C17F8AF0000000000000CD9
+t1276639407
+s3289
+
+N/Users/tdo1/Desktop/tdo1-zap.iPhone EN DEV /src/fr.lproj/Localizable.strings
+c000000004C17F9190000000000000E5B
+t1276639513
+s3675
+
+N/Users/tdo1/Desktop/tdo1-zap.iPhone EN DEV /src/zap_quebec.pch
+c000000004BCEFFCC000000000000014A
+t1271857100
+s330
+i<Availability.h>
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+
+N/var/folders/DA/DAXmSl1oEJK1f5ld+ybexk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Ile_sans_fil_Prefix-bifnegjfctejnzacmowtmqnerjid/Ile_sans_fil_Prefix.pch.gch
+t2
+s0
+
+N/var/folders/DA/DAXmSl1oEJK1f5ld+ybexk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/zap_quebec-eidyoglsljzttodgxltmngsffijy/zap_quebec.pch.gch
+t1277140821
+s12731856
+
+NIle_sans_fil-Info.plist
+c000000004C1F9E5500000000000003ED
+t1277140565
+s1005
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies298833609#298833609#0(0"0(0#1#0"4300911832#0"0#
+
+CCompileC "build/zap quebec.build/Release-iphonesimulator/zap quebec.build/Objects-normal/i386/ConnectionViewController.o" "/Users/tdo1/Desktop/tdo1-zap.iPhone EN DEV /src/Controllers/ConnectionViewController.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s298833624.594577
+e298833624.689269
+r1
+xCompileC
+xbuild/zap quebec.build/Release-iphonesimulator/zap quebec.build/Objects-normal/i386/ConnectionViewController.o
+x/Users/tdo1/Desktop/tdo1-zap.iPhone EN DEV /src/Controllers/ConnectionViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@94"Compile /Users/tdo1/Desktop/tdo1-zap.iPhone EN DEV /src/Controllers/ConnectionViewController.m298833624#298833624#0(0"0(0#0#86"/Users/tdo1/Desktop/tdo1-zap.iPhone EN DEV /src/Controllers/ConnectionViewController.m4300911832#2113"    cd "/Users/tdo1/Desktop/tdo1-zap.iPhone EN DEV /src"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -Os -mdynamic-no-pic -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.3.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote "/Users/tdo1/Desktop/tdo1-zap.iPhone EN DEV /src/build/zap quebec.build/Release-iphonesimulator/zap quebec.build/zap quebec-generated-files.hmap" "-I/Users/tdo1/Desktop/tdo1-zap.iPhone EN DEV /src/build/zap quebec.build/Release-iphonesimulator/zap quebec.build/zap quebec-own-target-headers.hmap" "-I/Users/tdo1/Desktop/tdo1-zap.iPhone EN DEV /src/build/zap quebec.build/Release-iphonesimulator/zap quebec.build/zap quebec-all-target-headers.hmap" -iquote "/Users/tdo1/Desktop/tdo1-zap.iPhone EN DEV /src/build/zap quebec.build/Release-iphonesimulator/zap quebec.build/zap quebec-project-headers.hmap" "-F/Users/tdo1/Desktop/tdo1-zap.iPhone EN DEV /src/build/Release-iphonesimulator" "-I/Users/tdo1/Desktop/tdo1-zap.iPhone EN DEV /src/build/Release-iphonesimulator/include" "-I/Users/tdo1/Desktop/tdo1-zap.iPhone EN DEV /src/build/zap quebec.build/Release-iphonesimulator/zap quebec.build/DerivedSources/i386" "-I/Users/tdo1/Desktop/tdo1-zap.iPhone EN DEV /src/build/zap quebec.build/Release-iphonesimulator/zap quebec.build/DerivedSources" -include /var/folders/DA/DAXmSl1oEJK1f5ld+ybexk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/zap_quebec-eidyoglsljzttodgxltmngsffijy/zap_quebec.pch -c "/Users/tdo1/Desktop/tdo1-zap.iPhone EN DEV /src/Controllers/ConnectionViewController.m" -o "/Users/tdo1/Desktop/tdo1-zap.iPhone EN DEV /src/build/zap quebec.build/Release-iphonesimulator/zap quebec.build/Objects-normal/i386/ConnectionViewController.o"0#
+
+CCompileC "build/zap quebec.build/Release-iphonesimulator/zap quebec.build/Objects-normal/i386/EGORefreshTableHeaderView.o" "/Users/tdo1/Desktop/tdo1-zap.iPhone EN DEV /src/Views/EGORefreshTableHeaderView.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s298833624.918826
+e298833625.132284
+r1
+xCompileC
+xbuild/zap quebec.build/Release-iphonesimulator/zap quebec.build/Objects-normal/i386/EGORefreshTableHeaderView.o
+x/Users/tdo1/Desktop/tdo1-zap.iPhone EN DEV /src/Views/EGORefreshTableHeaderView.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@89"Compile /Users/tdo1/Desktop/tdo1-zap.iPhone EN DEV /src/Views/EGORefreshTableHeaderView.m298833624#298833625#0(0"0(0#0#81"/Users/tdo1/Desktop/tdo1-zap.iPhone EN DEV /src/Views/EGORefreshTableHeaderView.m4300911832#2109"    cd "/Users/tdo1/Desktop/tdo1-zap.iPhone EN DEV /src"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -Os -mdynamic-no-pic -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.3.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote "/Users/tdo1/Desktop/tdo1-zap.iPhone EN DEV /src/build/zap quebec.build/Release-iphonesimulator/zap quebec.build/zap quebec-generated-files.hmap" "-I/Users/tdo1/Desktop/tdo1-zap.iPhone EN DEV /src/build/zap quebec.build/Release-iphonesimulator/zap quebec.build/zap quebec-own-target-headers.hmap" "-I/Users/tdo1/Desktop/tdo1-zap.iPhone EN DEV /src/build/zap quebec.build/Release-iphonesimulator/zap quebec.build/zap quebec-all-target-headers.hmap" -iquote "/Users/tdo1/Desktop/tdo1-zap.iPhone EN DEV /src/build/zap quebec.build/Release-iphonesimulator/zap quebec.build/zap quebec-project-headers.hmap" "-F/Users/tdo1/Desktop/tdo1-zap.iPhone EN DEV /src/build/Release-iphonesimulator" "-I/Users/tdo1/Desktop/tdo1-zap.iPhone EN DEV /src/build/Release-iphonesimulator/include" "-I/Users/tdo1/Desktop/tdo1-zap.iPhone EN DEV /src/build/zap quebec.build/Release-iphonesimulator/zap quebec.build/DerivedSources/i386" "-I/Users/tdo1/Desktop/tdo1-zap.iPhone EN DEV /src/build/zap quebec.build/Release-iphonesimulator/zap quebec.build/DerivedSources" -include /var/folders/DA/DAXmSl1oEJK1f5ld+ybexk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/zap_quebec-eidyoglsljzttodgxltmngsffijy/zap_quebec.pch -c "/Users/tdo1/Desktop/tdo1-zap.iPhone EN DEV /src/Views/EGORefreshTableHeaderView.m" -o "/Users/tdo1/Desktop/tdo1-zap.iPhone EN DEV /src/build/zap quebec.build/Release-iphonesimulator/zap quebec.build/Objects-normal/i386/EGORefreshTableHeaderView.o"0#
+
+CCompileC "build/zap quebec.build/Release-iphonesimulator/zap quebec.build/Objects-normal/i386/Favorite.o" "/Users/tdo1/Desktop/tdo1-zap.iPhone EN DEV /src/Models/../Resources/Favorite.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s298833624.689383
+e298833624.820970
+r1
+xCompileC
+xbuild/zap quebec.build/Release-iphonesimulator/zap quebec.build/Objects-normal/i386/Favorite.o
+x/Users/tdo1/Desktop/tdo1-zap.iPhone EN DEV /src/Models/../Resources/Favorite.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@86"Compile /Users/tdo1/Desktop/tdo1-zap.iPhone EN DEV /src/Models/../Resources/Favorite.m298833624#298833624#0(0"0(0#0#78"/Users/tdo1/Desktop/tdo1-zap.iPhone EN DEV /src/Models/../Resources/Favorite.m4300911832#2089"    cd "/Users/tdo1/Desktop/tdo1-zap.iPhone EN DEV /src"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -Os -mdynamic-no-pic -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.3.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote "/Users/tdo1/Desktop/tdo1-zap.iPhone EN DEV /src/build/zap quebec.build/Release-iphonesimulator/zap quebec.build/zap quebec-generated-files.hmap" "-I/Users/tdo1/Desktop/tdo1-zap.iPhone EN DEV /src/build/zap quebec.build/Release-iphonesimulator/zap quebec.build/zap quebec-own-target-headers.hmap" "-I/Users/tdo1/Desktop/tdo1-zap.iPhone EN DEV /src/build/zap quebec.build/Release-iphonesimulator/zap quebec.build/zap quebec-all-target-headers.hmap" -iquote "/Users/tdo1/Desktop/tdo1-zap.iPhone EN DEV /src/build/zap quebec.build/Release-iphonesimulator/zap quebec.build/zap quebec-project-headers.hmap" "-F/Users/tdo1/Desktop/tdo1-zap.iPhone EN DEV /src/build/Release-iphonesimulator" "-I/Users/tdo1/Desktop/tdo1-zap.iPhone EN DEV /src/build/Release-iphonesimulator/include" "-I/Users/tdo1/Desktop/tdo1-zap.iPhone EN DEV /src/build/zap quebec.build/Release-iphonesimulator/zap quebec.build/DerivedSources/i386" "-I/Users/tdo1/Desktop/tdo1-zap.iPhone EN DEV /src/build/zap quebec.build/Release-iphonesimulator/zap quebec.build/DerivedSources" -include /var/folders/DA/DAXmSl1oEJK1f5ld+ybexk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/zap_quebec-eidyoglsljzttodgxltmngsffijy/zap_quebec.pch -c "/Users/tdo1/Desktop/tdo1-zap.iPhone EN DEV /src/Models/../Resources/Favorite.m" -o "/Users/tdo1/Desktop/tdo1-zap.iPhone EN DEV /src/build/zap quebec.build/Release-iphonesimulator/zap quebec.build/Objects-normal/i386/Favorite.o"0#
+
+CCompileC "build/zap quebec.build/Release-iphonesimulator/zap quebec.build/Objects-normal/i386/FavoritesViewController.o" "/Users/tdo1/Desktop/tdo1-zap.iPhone EN DEV /src/Controllers/../FavoritesViewController.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s298833624.685471
+e298833625.033822
+r1
+xCompileC
+xbuild/zap quebec.build/Release-iphonesimulator/zap quebec.build/Objects-normal/i386/FavoritesViewController.o
+x/Users/tdo1/Desktop/tdo1-zap.iPhone EN DEV /src/Controllers/../FavoritesViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@96"Compile /Users/tdo1/Desktop/tdo1-zap.iPhone EN DEV /src/Controllers/../FavoritesViewController.m298833624#298833625#0(0"0(0#0#88"/Users/tdo1/Desktop/tdo1-zap.iPhone EN DEV /src/Controllers/../FavoritesViewController.m4300911832#2114"    cd "/Users/tdo1/Desktop/tdo1-zap.iPhone EN DEV /src"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -Os -mdynamic-no-pic -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.3.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote "/Users/tdo1/Desktop/tdo1-zap.iPhone EN DEV /src/build/zap quebec.build/Release-iphonesimulator/zap quebec.build/zap quebec-generated-files.hmap" "-I/Users/tdo1/Desktop/tdo1-zap.iPhone EN DEV /src/build/zap quebec.build/Release-iphonesimulator/zap quebec.build/zap quebec-own-target-headers.hmap" "-I/Users/tdo1/Desktop/tdo1-zap.iPhone EN DEV /src/build/zap quebec.build/Release-iphonesimulator/zap quebec.build/zap quebec-all-target-headers.hmap" -iquote "/Users/tdo1/Desktop/tdo1-zap.iPhone EN DEV /src/build/zap quebec.build/Release-iphonesimulator/zap quebec.build/zap quebec-project-headers.hmap" "-F/Users/tdo1/Desktop/tdo1-zap.iPhone EN DEV /src/build/Release-iphonesimulator" "-I/Users/tdo1/Desktop/tdo1-zap.iPhone EN DEV /src/build/Release-iphonesimulator/include" "-I/Users/tdo1/Desktop/tdo1-zap.iPhone EN DEV /src/build/zap quebec.build/Release-iphonesimulator/zap quebec.build/DerivedSources/i386" "-I/Users/tdo1/Desktop/tdo1-zap.iPhone EN DEV /src/build/zap quebec.build/Release-iphonesimulator/zap quebec.build/DerivedSources" -include /var/folders/DA/DAXmSl1oEJK1f5ld+ybexk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/zap_quebec-eidyoglsljzttodgxltmngsffijy/zap_quebec.pch -c "/Users/tdo1/Desktop/tdo1-zap.iPhone EN DEV /src/Controllers/../FavoritesViewController.m" -o "/Users/tdo1/Desktop/tdo1-zap.iPhone EN DEV /src/build/zap quebec.build/Release-iphonesimulator/zap quebec.build/Objects-normal/i386/FavoritesViewController.o"0#
+
+CCompileC "build/zap quebec.build/Release-iphonesimulator/zap quebec.build/Objects-normal/i386/Hotspot.o" "/Users/tdo1/Desktop/tdo1-zap.iPhone EN DEV /src/Models/Hotspot.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s298833623.248494
+e298833623.383913
+r1
+xCompileC
+xbuild/zap quebec.build/Release-iphonesimulator/zap quebec.build/Objects-normal/i386/Hotspot.o
+x/Users/tdo1/Desktop/tdo1-zap.iPhone EN DEV /src/Models/Hotspot.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@72"Compile /Users/tdo1/Desktop/tdo1-zap.iPhone EN DEV /src/Models/Hotspot.m298833623#298833623#0(0"0(0#0#64"/Users/tdo1/Desktop/tdo1-zap.iPhone EN DEV /src/Models/Hotspot.m4300911832#2074"    cd "/Users/tdo1/Desktop/tdo1-zap.iPhone EN DEV /src"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -Os -mdynamic-no-pic -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.3.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote "/Users/tdo1/Desktop/tdo1-zap.iPhone EN DEV /src/build/zap quebec.build/Release-iphonesimulator/zap quebec.build/zap quebec-generated-files.hmap" "-I/Users/tdo1/Desktop/tdo1-zap.iPhone EN DEV /src/build/zap quebec.build/Release-iphonesimulator/zap quebec.build/zap quebec-own-target-headers.hmap" "-I/Users/tdo1/Desktop/tdo1-zap.iPhone EN DEV /src/build/zap quebec.build/Release-iphonesimulator/zap quebec.build/zap quebec-all-target-headers.hmap" -iquote "/Users/tdo1/Desktop/tdo1-zap.iPhone EN DEV /src/build/zap quebec.build/Release-iphonesimulator/zap quebec.build/zap quebec-project-headers.hmap" "-F/Users/tdo1/Desktop/tdo1-zap.iPhone EN DEV /src/build/Release-iphonesimulator" "-I/Users/tdo1/Desktop/tdo1-zap.iPhone EN DEV /src/build/Release-iphonesimulator/include" "-I/Users/tdo1/Desktop/tdo1-zap.iPhone EN DEV /src/build/zap quebec.build/Release-iphonesimulator/zap quebec.build/DerivedSources/i386" "-I/Users/tdo1/Desktop/tdo1-zap.iPhone EN DEV /src/build/zap quebec.build/Release-iphonesimulator/zap quebec.build/DerivedSources" -include /var/folders/DA/DAXmSl1oEJK1f5ld+ybexk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/zap_quebec-eidyoglsljzttodgxltmngsffijy/zap_quebec.pch -c "/Users/tdo1/Desktop/tdo1-zap.iPhone EN DEV /src/Models/Hotspot.m" -o "/Users/tdo1/Desktop/tdo1-zap.iPhone EN DEV /src/build/zap quebec.build/Release-iphonesimulator/zap quebec.build/Objects-normal/i386/Hotspot.o"0#
+
+CCompileC "build/zap quebec.build/Release-iphonesimulator/zap quebec.build/Objects-normal/i386/HotspotInfosViewController.o" "/Users/tdo1/Desktop/tdo1-zap.iPhone EN DEV /src/Controllers/HotspotInfosViewController.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s298833623.654830
+e298833624.229196
+r1
+xCompileC
+xbuild/zap quebec.build/Release-iphonesimulator/zap quebec.build/Objects-normal/i386/HotspotInfosViewController.o
+x/Users/tdo1/Desktop/tdo1-zap.iPhone EN DEV /src/Controllers/HotspotInfosViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@96"Compile /Users/tdo1/Desktop/tdo1-zap.iPhone EN DEV /src/Controllers/HotspotInfosViewController.m298833623#298833624#0(0"0(0#0#88"/Users/tdo1/Desktop/tdo1-zap.iPhone EN DEV /src/Controllers/HotspotInfosViewController.m4300911832#2117"    cd "/Users/tdo1/Desktop/tdo1-zap.iPhone EN DEV /src"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -Os -mdynamic-no-pic -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.3.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote "/Users/tdo1/Desktop/tdo1-zap.iPhone EN DEV /src/build/zap quebec.build/Release-iphonesimulator/zap quebec.build/zap quebec-generated-files.hmap" "-I/Users/tdo1/Desktop/tdo1-zap.iPhone EN DEV /src/build/zap quebec.build/Release-iphonesimulator/zap quebec.build/zap quebec-own-target-headers.hmap" "-I/Users/tdo1/Desktop/tdo1-zap.iPhone EN DEV /src/build/zap quebec.build/Release-iphonesimulator/zap quebec.build/zap quebec-all-target-headers.hmap" -iquote "/Users/tdo1/Desktop/tdo1-zap.iPhone EN DEV /src/build/zap quebec.build/Release-iphonesimulator/zap quebec.build/zap quebec-project-headers.hmap" "-F/Users/tdo1/Desktop/tdo1-zap.iPhone EN DEV /src/build/Release-iphonesimulator" "-I/Users/tdo1/Desktop/tdo1-zap.iPhone EN DEV /src/build/Release-iphonesimulator/include" "-I/Users/tdo1/Desktop/tdo1-zap.iPhone EN DEV /src/build/zap quebec.build/Release-iphonesimulator/zap quebec.build/DerivedSources/i386" "-I/Users/tdo1/Desktop/tdo1-zap.iPhone EN DEV /src/build/zap quebec.build/Release-iphonesimulator/zap quebec.build/DerivedSources" -include /var/folders/DA/DAXmSl1oEJK1f5ld+ybexk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/zap_quebec-eidyoglsljzttodgxltmngsffijy/zap_quebec.pch -c "/Users/tdo1/Desktop/tdo1-zap.iPhone EN DEV /src/Controllers/HotspotInfosViewController.m" -o "/Users/tdo1/Desktop/tdo1-zap.iPhone EN DEV /src/build/zap quebec.build/Release-iphonesimulator/zap quebec.build/Objects-normal/i386/HotspotInfosViewController.o"0#
+
+CCompileC "build/zap quebec.build/Release-iphonesimulator/zap quebec.build/Objects-normal/i386/ISFAppDelegate.o" "/Users/tdo1/Desktop/tdo1-zap.iPhone EN DEV /src/Main/ISFAppDelegate.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s298833622.243609
+e298833622.418882
+r1
+xCompileC
+xbuild/zap quebec.build/Release-iphonesimulator/zap quebec.build/Objects-normal/i386/ISFAppDelegate.o
+x/Users/tdo1/Desktop/tdo1-zap.iPhone EN DEV /src/Main/ISFAppDelegate.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@77"Compile /Users/tdo1/Desktop/tdo1-zap.iPhone EN DEV /src/Main/ISFAppDelegate.m298833622#298833622#0(0"0(0#0#69"/Users/tdo1/Desktop/tdo1-zap.iPhone EN DEV /src/Main/ISFAppDelegate.m4300911832#2086"    cd "/Users/tdo1/Desktop/tdo1-zap.iPhone EN DEV /src"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -Os -mdynamic-no-pic -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.3.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote "/Users/tdo1/Desktop/tdo1-zap.iPhone EN DEV /src/build/zap quebec.build/Release-iphonesimulator/zap quebec.build/zap quebec-generated-files.hmap" "-I/Users/tdo1/Desktop/tdo1-zap.iPhone EN DEV /src/build/zap quebec.build/Release-iphonesimulator/zap quebec.build/zap quebec-own-target-headers.hmap" "-I/Users/tdo1/Desktop/tdo1-zap.iPhone EN DEV /src/build/zap quebec.build/Release-iphonesimulator/zap quebec.build/zap quebec-all-target-headers.hmap" -iquote "/Users/tdo1/Desktop/tdo1-zap.iPhone EN DEV /src/build/zap quebec.build/Release-iphonesimulator/zap quebec.build/zap quebec-project-headers.hmap" "-F/Users/tdo1/Desktop/tdo1-zap.iPhone EN DEV /src/build/Release-iphonesimulator" "-I/Users/tdo1/Desktop/tdo1-zap.iPhone EN DEV /src/build/Release-iphonesimulator/include" "-I/Users/tdo1/Desktop/tdo1-zap.iPhone EN DEV /src/build/zap quebec.build/Release-iphonesimulator/zap quebec.build/DerivedSources/i386" "-I/Users/tdo1/Desktop/tdo1-zap.iPhone EN DEV /src/build/zap quebec.build/Release-iphonesimulator/zap quebec.build/DerivedSources" -include /var/folders/DA/DAXmSl1oEJK1f5ld+ybexk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/zap_quebec-eidyoglsljzttodgxltmngsffijy/zap_quebec.pch -c "/Users/tdo1/Desktop/tdo1-zap.iPhone EN DEV /src/Main/ISFAppDelegate.m" -o "/Users/tdo1/Desktop/tdo1-zap.iPhone EN DEV /src/build/zap quebec.build/Release-iphonesimulator/zap quebec.build/Objects-normal/i386/ISFAppDelegate.o"0#
+
+CCompileC "build/zap quebec.build/Release-iphonesimulator/zap quebec.build/Objects-normal/i386/InfosViewController.o" "/Users/tdo1/Desktop/tdo1-zap.iPhone EN DEV /src/Controllers/InfosViewController.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s298833623.481791
+e298833623.889792
+r1
+xCompileC
+xbuild/zap quebec.build/Release-iphonesimulator/zap quebec.build/Objects-normal/i386/InfosViewController.o
+x/Users/tdo1/Desktop/tdo1-zap.iPhone EN DEV /src/Controllers/InfosViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@89"Compile /Users/tdo1/Desktop/tdo1-zap.iPhone EN DEV /src/Controllers/InfosViewController.m298833623#298833623#0(0"0(0#0#81"/Users/tdo1/Desktop/tdo1-zap.iPhone EN DEV /src/Controllers/InfosViewController.m4300911832#2103"    cd "/Users/tdo1/Desktop/tdo1-zap.iPhone EN DEV /src"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -Os -mdynamic-no-pic -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.3.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote "/Users/tdo1/Desktop/tdo1-zap.iPhone EN DEV /src/build/zap quebec.build/Release-iphonesimulator/zap quebec.build/zap quebec-generated-files.hmap" "-I/Users/tdo1/Desktop/tdo1-zap.iPhone EN DEV /src/build/zap quebec.build/Release-iphonesimulator/zap quebec.build/zap quebec-own-target-headers.hmap" "-I/Users/tdo1/Desktop/tdo1-zap.iPhone EN DEV /src/build/zap quebec.build/Release-iphonesimulator/zap quebec.build/zap quebec-all-target-headers.hmap" -iquote "/Users/tdo1/Desktop/tdo1-zap.iPhone EN DEV /src/build/zap quebec.build/Release-iphonesimulator/zap quebec.build/zap quebec-project-headers.hmap" "-F/Users/tdo1/Desktop/tdo1-zap.iPhone EN DEV /src/build/Release-iphonesimulator" "-I/Users/tdo1/Desktop/tdo1-zap.iPhone EN DEV /src/build/Release-iphonesimulator/include" "-I/Users/tdo1/Desktop/tdo1-zap.iPhone EN DEV /src/build/zap quebec.build/Release-iphonesimulator/zap quebec.build/DerivedSources/i386" "-I/Users/tdo1/Desktop/tdo1-zap.iPhone EN DEV /src/build/zap quebec.build/Release-iphonesimulator/zap quebec.build/DerivedSources" -include /var/folders/DA/DAXmSl1oEJK1f5ld+ybexk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/zap_quebec-eidyoglsljzttodgxltmngsffijy/zap_quebec.pch -c "/Users/tdo1/Desktop/tdo1-zap.iPhone EN DEV /src/Controllers/InfosViewController.m" -o "/Users/tdo1/Desktop/tdo1-zap.iPhone EN DEV /src/build/zap quebec.build/Release-iphonesimulator/zap quebec.build/Objects-normal/i386/InfosViewController.o"0#
+
+CCompileC "build/zap quebec.build/Release-iphonesimulator/zap quebec.build/Objects-normal/i386/LoadingOverlay.o" "/Users/tdo1/Desktop/tdo1-zap.iPhone EN DEV /src/Views/LoadingOverlay.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s298833624.449280
+e298833624.685348
+r1
+xCompileC
+xbuild/zap quebec.build/Release-iphonesimulator/zap quebec.build/Objects-normal/i386/LoadingOverlay.o
+x/Users/tdo1/Desktop/tdo1-zap.iPhone EN DEV /src/Views/LoadingOverlay.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@78"Compile /Users/tdo1/Desktop/tdo1-zap.iPhone EN DEV /src/Views/LoadingOverlay.m298833624#298833624#0(0"0(0#0#70"/Users/tdo1/Desktop/tdo1-zap.iPhone EN DEV /src/Views/LoadingOverlay.m4300911832#2087"    cd "/Users/tdo1/Desktop/tdo1-zap.iPhone EN DEV /src"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -Os -mdynamic-no-pic -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.3.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote "/Users/tdo1/Desktop/tdo1-zap.iPhone EN DEV /src/build/zap quebec.build/Release-iphonesimulator/zap quebec.build/zap quebec-generated-files.hmap" "-I/Users/tdo1/Desktop/tdo1-zap.iPhone EN DEV /src/build/zap quebec.build/Release-iphonesimulator/zap quebec.build/zap quebec-own-target-headers.hmap" "-I/Users/tdo1/Desktop/tdo1-zap.iPhone EN DEV /src/build/zap quebec.build/Release-iphonesimulator/zap quebec.build/zap quebec-all-target-headers.hmap" -iquote "/Users/tdo1/Desktop/tdo1-zap.iPhone EN DEV /src/build/zap quebec.build/Release-iphonesimulator/zap quebec.build/zap quebec-project-headers.hmap" "-F/Users/tdo1/Desktop/tdo1-zap.iPhone EN DEV /src/build/Release-iphonesimulator" "-I/Users/tdo1/Desktop/tdo1-zap.iPhone EN DEV /src/build/Release-iphonesimulator/include" "-I/Users/tdo1/Desktop/tdo1-zap.iPhone EN DEV /src/build/zap quebec.build/Release-iphonesimulator/zap quebec.build/DerivedSources/i386" "-I/Users/tdo1/Desktop/tdo1-zap.iPhone EN DEV /src/build/zap quebec.build/Release-iphonesimulator/zap quebec.build/DerivedSources" -include /var/folders/DA/DAXmSl1oEJK1f5ld+ybexk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/zap_quebec-eidyoglsljzttodgxltmngsffijy/zap_quebec.pch -c "/Users/tdo1/Desktop/tdo1-zap.iPhone EN DEV /src/Views/LoadingOverlay.m" -o "/Users/tdo1/Desktop/tdo1-zap.iPhone EN DEV /src/build/zap quebec.build/Release-iphonesimulator/zap quebec.build/Objects-normal/i386/LoadingOverlay.o"0#
+
+CCompileC "build/zap quebec.build/Release-iphonesimulator/zap quebec.build/Objects-normal/i386/LocationAnnotation.o" "/Users/tdo1/Desktop/tdo1-zap.iPhone EN DEV /src/Models/LocationAnnotation.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s298833622.801717
+e298833622.893588
+r1
+xCompileC
+xbuild/zap quebec.build/Release-iphonesimulator/zap quebec.build/Objects-normal/i386/LocationAnnotation.o
+x/Users/tdo1/Desktop/tdo1-zap.iPhone EN DEV /src/Models/LocationAnnotation.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@83"Compile /Users/tdo1/Desktop/tdo1-zap.iPhone EN DEV /src/Models/LocationAnnotation.m298833622#298833622#0(0"0(0#0#75"/Users/tdo1/Desktop/tdo1-zap.iPhone EN DEV /src/Models/LocationAnnotation.m4300911832#2096"    cd "/Users/tdo1/Desktop/tdo1-zap.iPhone EN DEV /src"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -Os -mdynamic-no-pic -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.3.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote "/Users/tdo1/Desktop/tdo1-zap.iPhone EN DEV /src/build/zap quebec.build/Release-iphonesimulator/zap quebec.build/zap quebec-generated-files.hmap" "-I/Users/tdo1/Desktop/tdo1-zap.iPhone EN DEV /src/build/zap quebec.build/Release-iphonesimulator/zap quebec.build/zap quebec-own-target-headers.hmap" "-I/Users/tdo1/Desktop/tdo1-zap.iPhone EN DEV /src/build/zap quebec.build/Release-iphonesimulator/zap quebec.build/zap quebec-all-target-headers.hmap" -iquote "/Users/tdo1/Desktop/tdo1-zap.iPhone EN DEV /src/build/zap quebec.build/Release-iphonesimulator/zap quebec.build/zap quebec-project-headers.hmap" "-F/Users/tdo1/Desktop/tdo1-zap.iPhone EN DEV /src/build/Release-iphonesimulator" "-I/Users/tdo1/Desktop/tdo1-zap.iPhone EN DEV /src/build/Release-iphonesimulator/include" "-I/Users/tdo1/Desktop/tdo1-zap.iPhone EN DEV /src/build/zap quebec.build/Release-iphonesimulator/zap quebec.build/DerivedSources/i386" "-I/Users/tdo1/Desktop/tdo1-zap.iPhone EN DEV /src/build/zap quebec.build/Release-iphonesimulator/zap quebec.build/DerivedSources" -include /var/folders/DA/DAXmSl1oEJK1f5ld+ybexk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/zap_quebec-eidyoglsljzttodgxltmngsffijy/zap_quebec.pch -c "/Users/tdo1/Desktop/tdo1-zap.iPhone EN DEV /src/Models/LocationAnnotation.m" -o "/Users/tdo1/Desktop/tdo1-zap.iPhone EN DEV /src/build/zap quebec.build/Release-iphonesimulator/zap quebec.build/Objects-normal/i386/LocationAnnotation.o"0#
+
+CCompileC "build/zap quebec.build/Release-iphonesimulator/zap quebec.build/Objects-normal/i386/MapViewController.o" "/Users/tdo1/Desktop/tdo1-zap.iPhone EN DEV /src/Controllers/MapViewController.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s298833622.404905
+e298833623.654601
+r1
+xCompileC
+xbuild/zap quebec.build/Release-iphonesimulator/zap quebec.build/Objects-normal/i386/MapViewController.o
+x/Users/tdo1/Desktop/tdo1-zap.iPhone EN DEV /src/Controllers/MapViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@87"Compile /Users/tdo1/Desktop/tdo1-zap.iPhone EN DEV /src/Controllers/MapViewController.m298833622#298833623#0(0"0(0#0#79"/Users/tdo1/Desktop/tdo1-zap.iPhone EN DEV /src/Controllers/MapViewController.m4300911832#2099"    cd "/Users/tdo1/Desktop/tdo1-zap.iPhone EN DEV /src"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -Os -mdynamic-no-pic -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.3.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote "/Users/tdo1/Desktop/tdo1-zap.iPhone EN DEV /src/build/zap quebec.build/Release-iphonesimulator/zap quebec.build/zap quebec-generated-files.hmap" "-I/Users/tdo1/Desktop/tdo1-zap.iPhone EN DEV /src/build/zap quebec.build/Release-iphonesimulator/zap quebec.build/zap quebec-own-target-headers.hmap" "-I/Users/tdo1/Desktop/tdo1-zap.iPhone EN DEV /src/build/zap quebec.build/Release-iphonesimulator/zap quebec.build/zap quebec-all-target-headers.hmap" -iquote "/Users/tdo1/Desktop/tdo1-zap.iPhone EN DEV /src/build/zap quebec.build/Release-iphonesimulator/zap quebec.build/zap quebec-project-headers.hmap" "-F/Users/tdo1/Desktop/tdo1-zap.iPhone EN DEV /src/build/Release-iphonesimulator" "-I/Users/tdo1/Desktop/tdo1-zap.iPhone EN DEV /src/build/Release-iphonesimulator/include" "-I/Users/tdo1/Desktop/tdo1-zap.iPhone EN DEV /src/build/zap quebec.build/Release-iphonesimulator/zap quebec.build/DerivedSources/i386" "-I/Users/tdo1/Desktop/tdo1-zap.iPhone EN DEV /src/build/zap quebec.build/Release-iphonesimulator/zap quebec.build/DerivedSources" -include /var/folders/DA/DAXmSl1oEJK1f5ld+ybexk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/zap_quebec-eidyoglsljzttodgxltmngsffijy/zap_quebec.pch -c "/Users/tdo1/Desktop/tdo1-zap.iPhone EN DEV /src/Controllers/MapViewController.m" -o "/Users/tdo1/Desktop/tdo1-zap.iPhone EN DEV /src/build/zap quebec.build/Release-iphonesimulator/zap quebec.build/Objects-normal/i386/MapViewController.o"0#
+
+CCompileC "build/zap quebec.build/Release-iphonesimulator/zap quebec.build/Objects-normal/i386/Model.o" "/Users/tdo1/Desktop/tdo1-zap.iPhone EN DEV /src/Models/Model.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s298833622.557948
+e298833622.801603
+r1
+xCompileC
+xbuild/zap quebec.build/Release-iphonesimulator/zap quebec.build/Objects-normal/i386/Model.o
+x/Users/tdo1/Desktop/tdo1-zap.iPhone EN DEV /src/Models/Model.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@70"Compile /Users/tdo1/Desktop/tdo1-zap.iPhone EN DEV /src/Models/Model.m298833622#298833622#0(0"0(0#0#62"/Users/tdo1/Desktop/tdo1-zap.iPhone EN DEV /src/Models/Model.m4300911832#2070"    cd "/Users/tdo1/Desktop/tdo1-zap.iPhone EN DEV /src"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -Os -mdynamic-no-pic -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.3.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote "/Users/tdo1/Desktop/tdo1-zap.iPhone EN DEV /src/build/zap quebec.build/Release-iphonesimulator/zap quebec.build/zap quebec-generated-files.hmap" "-I/Users/tdo1/Desktop/tdo1-zap.iPhone EN DEV /src/build/zap quebec.build/Release-iphonesimulator/zap quebec.build/zap quebec-own-target-headers.hmap" "-I/Users/tdo1/Desktop/tdo1-zap.iPhone EN DEV /src/build/zap quebec.build/Release-iphonesimulator/zap quebec.build/zap quebec-all-target-headers.hmap" -iquote "/Users/tdo1/Desktop/tdo1-zap.iPhone EN DEV /src/build/zap quebec.build/Release-iphonesimulator/zap quebec.build/zap quebec-project-headers.hmap" "-F/Users/tdo1/Desktop/tdo1-zap.iPhone EN DEV /src/build/Release-iphonesimulator" "-I/Users/tdo1/Desktop/tdo1-zap.iPhone EN DEV /src/build/Release-iphonesimulator/include" "-I/Users/tdo1/Desktop/tdo1-zap.iPhone EN DEV /src/build/zap quebec.build/Release-iphonesimulator/zap quebec.build/DerivedSources/i386" "-I/Users/tdo1/Desktop/tdo1-zap.iPhone EN DEV /src/build/zap quebec.build/Release-iphonesimulator/zap quebec.build/DerivedSources" -include /var/folders/DA/DAXmSl1oEJK1f5ld+ybexk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/zap_quebec-eidyoglsljzttodgxltmngsffijy/zap_quebec.pch -c "/Users/tdo1/Desktop/tdo1-zap.iPhone EN DEV /src/Models/Model.m" -o "/Users/tdo1/Desktop/tdo1-zap.iPhone EN DEV /src/build/zap quebec.build/Release-iphonesimulator/zap quebec.build/Objects-normal/i386/Model.o"0#
+
+CCompileC "build/zap quebec.build/Release-iphonesimulator/zap quebec.build/Objects-normal/i386/News.o" "/Users/tdo1/Desktop/tdo1-zap.iPhone EN DEV /src/Models/../Resources/News.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s298833624.821091
+e298833624.918716
+r1
+xCompileC
+xbuild/zap quebec.build/Release-iphonesimulator/zap quebec.build/Objects-normal/i386/News.o
+x/Users/tdo1/Desktop/tdo1-zap.iPhone EN DEV /src/Models/../Resources/News.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@82"Compile /Users/tdo1/Desktop/tdo1-zap.iPhone EN DEV /src/Models/../Resources/News.m298833624#298833624#0(0"0(0#0#74"/Users/tdo1/Desktop/tdo1-zap.iPhone EN DEV /src/Models/../Resources/News.m4300911832#2081"    cd "/Users/tdo1/Desktop/tdo1-zap.iPhone EN DEV /src"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -Os -mdynamic-no-pic -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.3.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote "/Users/tdo1/Desktop/tdo1-zap.iPhone EN DEV /src/build/zap quebec.build/Release-iphonesimulator/zap quebec.build/zap quebec-generated-files.hmap" "-I/Users/tdo1/Desktop/tdo1-zap.iPhone EN DEV /src/build/zap quebec.build/Release-iphonesimulator/zap quebec.build/zap quebec-own-target-headers.hmap" "-I/Users/tdo1/Desktop/tdo1-zap.iPhone EN DEV /src/build/zap quebec.build/Release-iphonesimulator/zap quebec.build/zap quebec-all-target-headers.hmap" -iquote "/Users/tdo1/Desktop/tdo1-zap.iPhone EN DEV /src/build/zap quebec.build/Release-iphonesimulator/zap quebec.build/zap quebec-project-headers.hmap" "-F/Users/tdo1/Desktop/tdo1-zap.iPhone EN DEV /src/build/Release-iphonesimulator" "-I/Users/tdo1/Desktop/tdo1-zap.iPhone EN DEV /src/build/Release-iphonesimulator/include" "-I/Users/tdo1/Desktop/tdo1-zap.iPhone EN DEV /src/build/zap quebec.build/Release-iphonesimulator/zap quebec.build/DerivedSources/i386" "-I/Users/tdo1/Desktop/tdo1-zap.iPhone EN DEV /src/build/zap quebec.build/Release-iphonesimulator/zap quebec.build/DerivedSources" -include /var/folders/DA/DAXmSl1oEJK1f5ld+ybexk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/zap_quebec-eidyoglsljzttodgxltmngsffijy/zap_quebec.pch -c "/Users/tdo1/Desktop/tdo1-zap.iPhone EN DEV /src/Models/../Resources/News.m" -o "/Users/tdo1/Desktop/tdo1-zap.iPhone EN DEV /src/build/zap quebec.build/Release-iphonesimulator/zap quebec.build/Objects-normal/i386/News.o"0#
+
+CCompileC "build/zap quebec.build/Release-iphonesimulator/zap quebec.build/Objects-normal/i386/NewsViewController.o" "/Users/tdo1/Desktop/tdo1-zap.iPhone EN DEV /src/Controllers/NewsViewController.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s298833623.889915
+e298833624.594469
+r1
+xCompileC
+xbuild/zap quebec.build/Release-iphonesimulator/zap quebec.build/Objects-normal/i386/NewsViewController.o
+x/Users/tdo1/Desktop/tdo1-zap.iPhone EN DEV /src/Controllers/NewsViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@88"Compile /Users/tdo1/Desktop/tdo1-zap.iPhone EN DEV /src/Controllers/NewsViewController.m298833623#298833624#0(0"0(0#0#80"/Users/tdo1/Desktop/tdo1-zap.iPhone EN DEV /src/Controllers/NewsViewController.m4300911832#2101"    cd "/Users/tdo1/Desktop/tdo1-zap.iPhone EN DEV /src"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -Os -mdynamic-no-pic -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.3.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote "/Users/tdo1/Desktop/tdo1-zap.iPhone EN DEV /src/build/zap quebec.build/Release-iphonesimulator/zap quebec.build/zap quebec-generated-files.hmap" "-I/Users/tdo1/Desktop/tdo1-zap.iPhone EN DEV /src/build/zap quebec.build/Release-iphonesimulator/zap quebec.build/zap quebec-own-target-headers.hmap" "-I/Users/tdo1/Desktop/tdo1-zap.iPhone EN DEV /src/build/zap quebec.build/Release-iphonesimulator/zap quebec.build/zap quebec-all-target-headers.hmap" -iquote "/Users/tdo1/Desktop/tdo1-zap.iPhone EN DEV /src/build/zap quebec.build/Release-iphonesimulator/zap quebec.build/zap quebec-project-headers.hmap" "-F/Users/tdo1/Desktop/tdo1-zap.iPhone EN DEV /src/build/Release-iphonesimulator" "-I/Users/tdo1/Desktop/tdo1-zap.iPhone EN DEV /src/build/Release-iphonesimulator/include" "-I/Users/tdo1/Desktop/tdo1-zap.iPhone EN DEV /src/build/zap quebec.build/Release-iphonesimulator/zap quebec.build/DerivedSources/i386" "-I/Users/tdo1/Desktop/tdo1-zap.iPhone EN DEV /src/build/zap quebec.build/Release-iphonesimulator/zap quebec.build/DerivedSources" -include /var/folders/DA/DAXmSl1oEJK1f5ld+ybexk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/zap_quebec-eidyoglsljzttodgxltmngsffijy/zap_quebec.pch -c "/Users/tdo1/Desktop/tdo1-zap.iPhone EN DEV /src/Controllers/NewsViewController.m" -o "/Users/tdo1/Desktop/tdo1-zap.iPhone EN DEV /src/build/zap quebec.build/Release-iphonesimulator/zap quebec.build/Objects-normal/i386/NewsViewController.o"0#
+
+CCompileC "build/zap quebec.build/Release-iphonesimulator/zap quebec.build/Objects-normal/i386/NewsWebViewController.o" "/Users/tdo1/Desktop/tdo1-zap.iPhone EN DEV /src/Controllers/NewsWebViewController.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s298833624.229307
+e298833624.449158
+r1
+xCompileC
+xbuild/zap quebec.build/Release-iphonesimulator/zap quebec.build/Objects-normal/i386/NewsWebViewController.o
+x/Users/tdo1/Desktop/tdo1-zap.iPhone EN DEV /src/Controllers/NewsWebViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@91"Compile /Users/tdo1/Desktop/tdo1-zap.iPhone EN DEV /src/Controllers/NewsWebViewController.m298833624#298833624#0(0"0(0#0#83"/Users/tdo1/Desktop/tdo1-zap.iPhone EN DEV /src/Controllers/NewsWebViewController.m4300911832#2107"    cd "/Users/tdo1/Desktop/tdo1-zap.iPhone EN DEV /src"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -Os -mdynamic-no-pic -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.3.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote "/Users/tdo1/Desktop/tdo1-zap.iPhone EN DEV /src/build/zap quebec.build/Release-iphonesimulator/zap quebec.build/zap quebec-generated-files.hmap" "-I/Users/tdo1/Desktop/tdo1-zap.iPhone EN DEV /src/build/zap quebec.build/Release-iphonesimulator/zap quebec.build/zap quebec-own-target-headers.hmap" "-I/Users/tdo1/Desktop/tdo1-zap.iPhone EN DEV /src/build/zap quebec.build/Release-iphonesimulator/zap quebec.build/zap quebec-all-target-headers.hmap" -iquote "/Users/tdo1/Desktop/tdo1-zap.iPhone EN DEV /src/build/zap quebec.build/Release-iphonesimulator/zap quebec.build/zap quebec-project-headers.hmap" "-F/Users/tdo1/Desktop/tdo1-zap.iPhone EN DEV /src/build/Release-iphonesimulator" "-I/Users/tdo1/Desktop/tdo1-zap.iPhone EN DEV /src/build/Release-iphonesimulator/include" "-I/Users/tdo1/Desktop/tdo1-zap.iPhone EN DEV /src/build/zap quebec.build/Release-iphonesimulator/zap quebec.build/DerivedSources/i386" "-I/Users/tdo1/Desktop/tdo1-zap.iPhone EN DEV /src/build/zap quebec.build/Release-iphonesimulator/zap quebec.build/DerivedSources" -include /var/folders/DA/DAXmSl1oEJK1f5ld+ybexk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/zap_quebec-eidyoglsljzttodgxltmngsffijy/zap_quebec.pch -c "/Users/tdo1/Desktop/tdo1-zap.iPhone EN DEV /src/Controllers/NewsWebViewController.m" -o "/Users/tdo1/Desktop/tdo1-zap.iPhone EN DEV /src/build/zap quebec.build/Release-iphonesimulator/zap quebec.build/Objects-normal/i386/NewsWebViewController.o"0#
+
+CCompileC "build/zap quebec.build/Release-iphonesimulator/zap quebec.build/Objects-normal/i386/Node.o" "/Users/tdo1/Desktop/tdo1-zap.iPhone EN DEV /src/Models/Node.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s298833623.384028
+e298833623.481674
+r1
+xCompileC
+xbuild/zap quebec.build/Release-iphonesimulator/zap quebec.build/Objects-normal/i386/Node.o
+x/Users/tdo1/Desktop/tdo1-zap.iPhone EN DEV /src/Models/Node.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@69"Compile /Users/tdo1/Desktop/tdo1-zap.iPhone EN DEV /src/Models/Node.m298833623#298833623#0(0"0(0#0#61"/Users/tdo1/Desktop/tdo1-zap.iPhone EN DEV /src/Models/Node.m4300911832#2068"    cd "/Users/tdo1/Desktop/tdo1-zap.iPhone EN DEV /src"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -Os -mdynamic-no-pic -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.3.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote "/Users/tdo1/Desktop/tdo1-zap.iPhone EN DEV /src/build/zap quebec.build/Release-iphonesimulator/zap quebec.build/zap quebec-generated-files.hmap" "-I/Users/tdo1/Desktop/tdo1-zap.iPhone EN DEV /src/build/zap quebec.build/Release-iphonesimulator/zap quebec.build/zap quebec-own-target-headers.hmap" "-I/Users/tdo1/Desktop/tdo1-zap.iPhone EN DEV /src/build/zap quebec.build/Release-iphonesimulator/zap quebec.build/zap quebec-all-target-headers.hmap" -iquote "/Users/tdo1/Desktop/tdo1-zap.iPhone EN DEV /src/build/zap quebec.build/Release-iphonesimulator/zap quebec.build/zap quebec-project-headers.hmap" "-F/Users/tdo1/Desktop/tdo1-zap.iPhone EN DEV /src/build/Release-iphonesimulator" "-I/Users/tdo1/Desktop/tdo1-zap.iPhone EN DEV /src/build/Release-iphonesimulator/include" "-I/Users/tdo1/Desktop/tdo1-zap.iPhone EN DEV /src/build/zap quebec.build/Release-iphonesimulator/zap quebec.build/DerivedSources/i386" "-I/Users/tdo1/Desktop/tdo1-zap.iPhone EN DEV /src/build/zap quebec.build/Release-iphonesimulator/zap quebec.build/DerivedSources" -include /var/folders/DA/DAXmSl1oEJK1f5ld+ybexk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/zap_quebec-eidyoglsljzttodgxltmngsffijy/zap_quebec.pch -c "/Users/tdo1/Desktop/tdo1-zap.iPhone EN DEV /src/Models/Node.m" -o "/Users/tdo1/Desktop/tdo1-zap.iPhone EN DEV /src/build/zap quebec.build/Release-iphonesimulator/zap quebec.build/Objects-normal/i386/Node.o"0#
+
+CCompileC "build/zap quebec.build/Release-iphonesimulator/zap quebec.build/Objects-normal/i386/RootViewController.o" "/Users/tdo1/Desktop/tdo1-zap.iPhone EN DEV /src/Controllers/RootViewController.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s298833622.071178
+e298833622.243496
+r1
+xCompileC
+xbuild/zap quebec.build/Release-iphonesimulator/zap quebec.build/Objects-normal/i386/RootViewController.o
+x/Users/tdo1/Desktop/tdo1-zap.iPhone EN DEV /src/Controllers/RootViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@88"Compile /Users/tdo1/Desktop/tdo1-zap.iPhone EN DEV /src/Controllers/RootViewController.m298833622#298833622#0(0"0(0#0#80"/Users/tdo1/Desktop/tdo1-zap.iPhone EN DEV /src/Controllers/RootViewController.m4300911832#2101"    cd "/Users/tdo1/Desktop/tdo1-zap.iPhone EN DEV /src"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -Os -mdynamic-no-pic -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.3.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote "/Users/tdo1/Desktop/tdo1-zap.iPhone EN DEV /src/build/zap quebec.build/Release-iphonesimulator/zap quebec.build/zap quebec-generated-files.hmap" "-I/Users/tdo1/Desktop/tdo1-zap.iPhone EN DEV /src/build/zap quebec.build/Release-iphonesimulator/zap quebec.build/zap quebec-own-target-headers.hmap" "-I/Users/tdo1/Desktop/tdo1-zap.iPhone EN DEV /src/build/zap quebec.build/Release-iphonesimulator/zap quebec.build/zap quebec-all-target-headers.hmap" -iquote "/Users/tdo1/Desktop/tdo1-zap.iPhone EN DEV /src/build/zap quebec.build/Release-iphonesimulator/zap quebec.build/zap quebec-project-headers.hmap" "-F/Users/tdo1/Desktop/tdo1-zap.iPhone EN DEV /src/build/Release-iphonesimulator" "-I/Users/tdo1/Desktop/tdo1-zap.iPhone EN DEV /src/build/Release-iphonesimulator/include" "-I/Users/tdo1/Desktop/tdo1-zap.iPhone EN DEV /src/build/zap quebec.build/Release-iphonesimulator/zap quebec.build/DerivedSources/i386" "-I/Users/tdo1/Desktop/tdo1-zap.iPhone EN DEV /src/build/zap quebec.build/Release-iphonesimulator/zap quebec.build/DerivedSources" -include /var/folders/DA/DAXmSl1oEJK1f5ld+ybexk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/zap_quebec-eidyoglsljzttodgxltmngsffijy/zap_quebec.pch -c "/Users/tdo1/Desktop/tdo1-zap.iPhone EN DEV /src/Controllers/RootViewController.m" -o "/Users/tdo1/Desktop/tdo1-zap.iPhone EN DEV /src/build/zap quebec.build/Release-iphonesimulator/zap quebec.build/Objects-normal/i386/RootViewController.o"0#
+
+CCompileC "build/zap quebec.build/Release-iphonesimulator/zap quebec.build/Objects-normal/i386/XMLReader.o" "/Users/tdo1/Desktop/tdo1-zap.iPhone EN DEV /src/Models/XMLReader.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s298833622.893710
+e298833623.248381
+r1
+xCompileC
+xbuild/zap quebec.build/Release-iphonesimulator/zap quebec.build/Objects-normal/i386/XMLReader.o
+x/Users/tdo1/Desktop/tdo1-zap.iPhone EN DEV /src/Models/XMLReader.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@74"Compile /Users/tdo1/Desktop/tdo1-zap.iPhone EN DEV /src/Models/XMLReader.m298833622#298833623#0(0"0(0#0#66"/Users/tdo1/Desktop/tdo1-zap.iPhone EN DEV /src/Models/XMLReader.m4300911832#2078"    cd "/Users/tdo1/Desktop/tdo1-zap.iPhone EN DEV /src"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -Os -mdynamic-no-pic -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.3.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote "/Users/tdo1/Desktop/tdo1-zap.iPhone EN DEV /src/build/zap quebec.build/Release-iphonesimulator/zap quebec.build/zap quebec-generated-files.hmap" "-I/Users/tdo1/Desktop/tdo1-zap.iPhone EN DEV /src/build/zap quebec.build/Release-iphonesimulator/zap quebec.build/zap quebec-own-target-headers.hmap" "-I/Users/tdo1/Desktop/tdo1-zap.iPhone EN DEV /src/build/zap quebec.build/Release-iphonesimulator/zap quebec.build/zap quebec-all-target-headers.hmap" -iquote "/Users/tdo1/Desktop/tdo1-zap.iPhone EN DEV /src/build/zap quebec.build/Release-iphonesimulator/zap quebec.build/zap quebec-project-headers.hmap" "-F/Users/tdo1/Desktop/tdo1-zap.iPhone EN DEV /src/build/Release-iphonesimulator" "-I/Users/tdo1/Desktop/tdo1-zap.iPhone EN DEV /src/build/Release-iphonesimulator/include" "-I/Users/tdo1/Desktop/tdo1-zap.iPhone EN DEV /src/build/zap quebec.build/Release-iphonesimulator/zap quebec.build/DerivedSources/i386" "-I/Users/tdo1/Desktop/tdo1-zap.iPhone EN DEV /src/build/zap quebec.build/Release-iphonesimulator/zap quebec.build/DerivedSources" -include /var/folders/DA/DAXmSl1oEJK1f5ld+ybexk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/zap_quebec-eidyoglsljzttodgxltmngsffijy/zap_quebec.pch -c "/Users/tdo1/Desktop/tdo1-zap.iPhone EN DEV /src/Models/XMLReader.m" -o "/Users/tdo1/Desktop/tdo1-zap.iPhone EN DEV /src/build/zap quebec.build/Release-iphonesimulator/zap quebec.build/Objects-normal/i386/XMLReader.o"0#
+
+CCompileC "build/zap quebec.build/Release-iphonesimulator/zap quebec.build/Objects-normal/i386/googleMapsAPI.o" "/Users/tdo1/Desktop/tdo1-zap.iPhone EN DEV /src/Controllers/googleMapsAPI.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s298833622.418996
+e298833622.557833
+r1
+xCompileC
+xbuild/zap quebec.build/Release-iphonesimulator/zap quebec.build/Objects-normal/i386/googleMapsAPI.o
+x/Users/tdo1/Desktop/tdo1-zap.iPhone EN DEV /src/Controllers/googleMapsAPI.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@83"Compile /Users/tdo1/Desktop/tdo1-zap.iPhone EN DEV /src/Controllers/googleMapsAPI.m298833622#298833622#0(0"0(0#0#75"/Users/tdo1/Desktop/tdo1-zap.iPhone EN DEV /src/Controllers/googleMapsAPI.m4300911832#2091"    cd "/Users/tdo1/Desktop/tdo1-zap.iPhone EN DEV /src"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -Os -mdynamic-no-pic -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.3.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote "/Users/tdo1/Desktop/tdo1-zap.iPhone EN DEV /src/build/zap quebec.build/Release-iphonesimulator/zap quebec.build/zap quebec-generated-files.hmap" "-I/Users/tdo1/Desktop/tdo1-zap.iPhone EN DEV /src/build/zap quebec.build/Release-iphonesimulator/zap quebec.build/zap quebec-own-target-headers.hmap" "-I/Users/tdo1/Desktop/tdo1-zap.iPhone EN DEV /src/build/zap quebec.build/Release-iphonesimulator/zap quebec.build/zap quebec-all-target-headers.hmap" -iquote "/Users/tdo1/Desktop/tdo1-zap.iPhone EN DEV /src/build/zap quebec.build/Release-iphonesimulator/zap quebec.build/zap quebec-project-headers.hmap" "-F/Users/tdo1/Desktop/tdo1-zap.iPhone EN DEV /src/build/Release-iphonesimulator" "-I/Users/tdo1/Desktop/tdo1-zap.iPhone EN DEV /src/build/Release-iphonesimulator/include" "-I/Users/tdo1/Desktop/tdo1-zap.iPhone EN DEV /src/build/zap quebec.build/Release-iphonesimulator/zap quebec.build/DerivedSources/i386" "-I/Users/tdo1/Desktop/tdo1-zap.iPhone EN DEV /src/build/zap quebec.build/Release-iphonesimulator/zap quebec.build/DerivedSources" -include /var/folders/DA/DAXmSl1oEJK1f5ld+ybexk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/zap_quebec-eidyoglsljzttodgxltmngsffijy/zap_quebec.pch -c "/Users/tdo1/Desktop/tdo1-zap.iPhone EN DEV /src/Controllers/googleMapsAPI.m" -o "/Users/tdo1/Desktop/tdo1-zap.iPhone EN DEV /src/build/zap quebec.build/Release-iphonesimulator/zap quebec.build/Objects-normal/i386/googleMapsAPI.o"0#
+
+CCompileC "build/zap quebec.build/Release-iphonesimulator/zap quebec.build/Objects-normal/i386/main.o" "/Users/tdo1/Desktop/tdo1-zap.iPhone EN DEV /src/Main/main.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s298833622.316341
+e298833622.404207
+r1
+xCompileC
+xbuild/zap quebec.build/Release-iphonesimulator/zap quebec.build/Objects-normal/i386/main.o
+x/Users/tdo1/Desktop/tdo1-zap.iPhone EN DEV /src/Main/main.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@67"Compile /Users/tdo1/Desktop/tdo1-zap.iPhone EN DEV /src/Main/main.m298833622#298833622#0(0"0(0#0#59"/Users/tdo1/Desktop/tdo1-zap.iPhone EN DEV /src/Main/main.m4300911832#2066"    cd "/Users/tdo1/Desktop/tdo1-zap.iPhone EN DEV /src"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -Os -mdynamic-no-pic -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.3.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote "/Users/tdo1/Desktop/tdo1-zap.iPhone EN DEV /src/build/zap quebec.build/Release-iphonesimulator/zap quebec.build/zap quebec-generated-files.hmap" "-I/Users/tdo1/Desktop/tdo1-zap.iPhone EN DEV /src/build/zap quebec.build/Release-iphonesimulator/zap quebec.build/zap quebec-own-target-headers.hmap" "-I/Users/tdo1/Desktop/tdo1-zap.iPhone EN DEV /src/build/zap quebec.build/Release-iphonesimulator/zap quebec.build/zap quebec-all-target-headers.hmap" -iquote "/Users/tdo1/Desktop/tdo1-zap.iPhone EN DEV /src/build/zap quebec.build/Release-iphonesimulator/zap quebec.build/zap quebec-project-headers.hmap" "-F/Users/tdo1/Desktop/tdo1-zap.iPhone EN DEV /src/build/Release-iphonesimulator" "-I/Users/tdo1/Desktop/tdo1-zap.iPhone EN DEV /src/build/Release-iphonesimulator/include" "-I/Users/tdo1/Desktop/tdo1-zap.iPhone EN DEV /src/build/zap quebec.build/Release-iphonesimulator/zap quebec.build/DerivedSources/i386" "-I/Users/tdo1/Desktop/tdo1-zap.iPhone EN DEV /src/build/zap quebec.build/Release-iphonesimulator/zap quebec.build/DerivedSources" -include /var/folders/DA/DAXmSl1oEJK1f5ld+ybexk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/zap_quebec-eidyoglsljzttodgxltmngsffijy/zap_quebec.pch -c "/Users/tdo1/Desktop/tdo1-zap.iPhone EN DEV /src/Main/main.m" -o "/Users/tdo1/Desktop/tdo1-zap.iPhone EN DEV /src/build/zap quebec.build/Release-iphonesimulator/zap quebec.build/Objects-normal/i386/main.o"0#
+
+CCompileXIB "/Users/tdo1/Desktop/tdo1-zap.iPhone EN DEV /src/Resources/NIBs/../../en.lproj/InfosViewController.xib"
+s298833618.773804
+e298833619.687166
+r1
+xCompileXIB
+x/Users/tdo1/Desktop/tdo1-zap.iPhone EN DEV /src/Resources/NIBs/../../en.lproj/InfosViewController.xib
+lSLF07#2@64"CompileXIB Resources/NIBs/../../en.lproj/InfosViewController.xib298833618#298833619#0(0"0(0#0#101"/Users/tdo1/Desktop/tdo1-zap.iPhone EN DEV /src/Resources/NIBs/../../en.lproj/InfosViewController.xib4300911832#577"    cd "/Users/tdo1/Desktop/tdo1-zap.iPhone EN DEV /src"    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 3.1.3    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile "/Users/tdo1/Desktop/tdo1-zap.iPhone EN DEV /src/build/Release-iphonesimulator/zap quebec.app/en.lproj/InfosViewController.nib" "/Users/tdo1/Desktop/tdo1-zap.iPhone EN DEV /src/Resources/NIBs/../../en.lproj/InfosViewController.xib"0#
+
+CCompileXIB "/Users/tdo1/Desktop/tdo1-zap.iPhone EN DEV /src/Resources/NIBs/../../fr.lproj/InfosViewController.xib"
+s298833618.838143
+e298833619.632139
+r1
+xCompileXIB
+x/Users/tdo1/Desktop/tdo1-zap.iPhone EN DEV /src/Resources/NIBs/../../fr.lproj/InfosViewController.xib
+lSLF07#2@64"CompileXIB Resources/NIBs/../../fr.lproj/InfosViewController.xib298833618#298833619#0(0"0(0#0#101"/Users/tdo1/Desktop/tdo1-zap.iPhone EN DEV /src/Resources/NIBs/../../fr.lproj/InfosViewController.xib4300911832#577"    cd "/Users/tdo1/Desktop/tdo1-zap.iPhone EN DEV /src"    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 3.1.3    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile "/Users/tdo1/Desktop/tdo1-zap.iPhone EN DEV /src/build/Release-iphonesimulator/zap quebec.app/fr.lproj/InfosViewController.nib" "/Users/tdo1/Desktop/tdo1-zap.iPhone EN DEV /src/Resources/NIBs/../../fr.lproj/InfosViewController.xib"0#
+
+CCompileXIB "/Users/tdo1/Desktop/tdo1-zap.iPhone EN DEV /src/Resources/NIBs/ConnectionViewController.xib"
+s298833618.315523
+e298833618.773700
+r1
+xCompileXIB
+x/Users/tdo1/Desktop/tdo1-zap.iPhone EN DEV /src/Resources/NIBs/ConnectionViewController.xib
+lSLF07#2@54"CompileXIB Resources/NIBs/ConnectionViewController.xib298833618#298833618#0(0"0(0#0#91"/Users/tdo1/Desktop/tdo1-zap.iPhone EN DEV /src/Resources/NIBs/ConnectionViewController.xib4300911832#563"    cd "/Users/tdo1/Desktop/tdo1-zap.iPhone EN DEV /src"    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 3.1.3    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile "/Users/tdo1/Desktop/tdo1-zap.iPhone EN DEV /src/build/Release-iphonesimulator/zap quebec.app/ConnectionViewController.nib" "/Users/tdo1/Desktop/tdo1-zap.iPhone EN DEV /src/Resources/NIBs/ConnectionViewController.xib"0#
+
+CCompileXIB "/Users/tdo1/Desktop/tdo1-zap.iPhone EN DEV /src/Resources/NIBs/HotspotInfosViewController.xib"
+s298833616.732759
+e298833618.186532
+r1
+xCompileXIB
+x/Users/tdo1/Desktop/tdo1-zap.iPhone EN DEV /src/Resources/NIBs/HotspotInfosViewController.xib
+lSLF07#2@56"CompileXIB Resources/NIBs/HotspotInfosViewController.xib298833616#298833618#0(0"0(0#0#93"/Users/tdo1/Desktop/tdo1-zap.iPhone EN DEV /src/Resources/NIBs/HotspotInfosViewController.xib4300911832#567"    cd "/Users/tdo1/Desktop/tdo1-zap.iPhone EN DEV /src"    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 3.1.3    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile "/Users/tdo1/Desktop/tdo1-zap.iPhone EN DEV /src/build/Release-iphonesimulator/zap quebec.app/HotspotInfosViewController.nib" "/Users/tdo1/Desktop/tdo1-zap.iPhone EN DEV /src/Resources/NIBs/HotspotInfosViewController.xib"0#
+
+CCompileXIB "/Users/tdo1/Desktop/tdo1-zap.iPhone EN DEV /src/Resources/NIBs/MainWindow.xib"
+s298833609.582024
+e298833616.732530
+r1
+xCompileXIB
+x/Users/tdo1/Desktop/tdo1-zap.iPhone EN DEV /src/Resources/NIBs/MainWindow.xib
+lSLF07#2@40"CompileXIB Resources/NIBs/MainWindow.xib298833609#298833616#0(0"0(0#0#77"/Users/tdo1/Desktop/tdo1-zap.iPhone EN DEV /src/Resources/NIBs/MainWindow.xib4300911832#535"    cd "/Users/tdo1/Desktop/tdo1-zap.iPhone EN DEV /src"    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 3.1.3    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile "/Users/tdo1/Desktop/tdo1-zap.iPhone EN DEV /src/build/Release-iphonesimulator/zap quebec.app/MainWindow.nib" "/Users/tdo1/Desktop/tdo1-zap.iPhone EN DEV /src/Resources/NIBs/MainWindow.xib"0#
+
+CCompileXIB "/Users/tdo1/Desktop/tdo1-zap.iPhone EN DEV /src/Resources/NIBs/MapViewController.xib"
+s298833609.584597
+e298833617.916374
+r1
+xCompileXIB
+x/Users/tdo1/Desktop/tdo1-zap.iPhone EN DEV /src/Resources/NIBs/MapViewController.xib
+lSLF07#2@47"CompileXIB Resources/NIBs/MapViewController.xib298833609#298833617#0(0"0(0#0#84"/Users/tdo1/Desktop/tdo1-zap.iPhone EN DEV /src/Resources/NIBs/MapViewController.xib4300911832#549"    cd "/Users/tdo1/Desktop/tdo1-zap.iPhone EN DEV /src"    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 3.1.3    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile "/Users/tdo1/Desktop/tdo1-zap.iPhone EN DEV /src/build/Release-iphonesimulator/zap quebec.app/MapViewController.nib" "/Users/tdo1/Desktop/tdo1-zap.iPhone EN DEV /src/Resources/NIBs/MapViewController.xib"0#
+
+CCompileXIB "/Users/tdo1/Desktop/tdo1-zap.iPhone EN DEV /src/Resources/NIBs/NewsWebViewController.xib"
+s298833618.184820
+e298833618.838046
+r1
+xCompileXIB
+x/Users/tdo1/Desktop/tdo1-zap.iPhone EN DEV /src/Resources/NIBs/NewsWebViewController.xib
+lSLF07#2@51"CompileXIB Resources/NIBs/NewsWebViewController.xib298833618#298833618#0(0"0(0#0#88"/Users/tdo1/Desktop/tdo1-zap.iPhone EN DEV /src/Resources/NIBs/NewsWebViewController.xib4300911832#557"    cd "/Users/tdo1/Desktop/tdo1-zap.iPhone EN DEV /src"    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 3.1.3    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile "/Users/tdo1/Desktop/tdo1-zap.iPhone EN DEV /src/build/Release-iphonesimulator/zap quebec.app/NewsWebViewController.nib" "/Users/tdo1/Desktop/tdo1-zap.iPhone EN DEV /src/Resources/NIBs/NewsWebViewController.xib"0#
+
+CCopyPlistFile "/Users/tdo1/Desktop/tdo1-zap.iPhone EN DEV /src/build/Release-iphonesimulator/zap quebec.app/dist.plist" Resources/dist.plist
+s298833617.916482
+e298833618.184620
+r1
+xCopyPlistFile
+x/Users/tdo1/Desktop/tdo1-zap.iPhone EN DEV /src/build/Release-iphonesimulator/zap quebec.app/dist.plist
+xResources/dist.plist
+lSLF07#2@25"Copy Resources/dist.plist298833617#298833618#0(0"0(0#0#68"/Users/tdo1/Desktop/tdo1-zap.iPhone EN DEV /src/Resources/dist.plist4300911832#422"    cd "/Users/tdo1/Desktop/tdo1-zap.iPhone EN DEV /src"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/Xcode/Plug-ins/CoreBuildTasks.xcplugin/Contents/Resources/copyplist --convert binary1 Resources/dist.plist --outdir "/Users/tdo1/Desktop/tdo1-zap.iPhone EN DEV /src/build/Release-iphonesimulator/zap quebec.app"0#
+
+CCopyStringsFile "/Users/tdo1/Desktop/tdo1-zap.iPhone EN DEV /src/build/Release-iphonesimulator/zap quebec.app/en.lproj/Localizable.strings" en.lproj/Localizable.strings
+s298833618.186632
+e298833618.278774
+r1
+xCopyStringsFile
+x/Users/tdo1/Desktop/tdo1-zap.iPhone EN DEV /src/build/Release-iphonesimulator/zap quebec.app/en.lproj/Localizable.strings
+xen.lproj/Localizable.strings
+lSLF07#2@33"Copy en.lproj/Localizable.strings298833618#298833618#0(0"0(0#0#76"/Users/tdo1/Desktop/tdo1-zap.iPhone EN DEV /src/en.lproj/Localizable.strings4300911832#512"    cd "/Users/tdo1/Desktop/tdo1-zap.iPhone EN DEV /src"    setenv ICONV /usr/bin/iconv    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/Xcode/Plug-ins/CoreBuildTasks.xcplugin/Contents/Resources/copystrings --validate --inputencoding utf-8 --outputencoding binary en.lproj/Localizable.strings --outdir "/Users/tdo1/Desktop/tdo1-zap.iPhone EN DEV /src/build/Release-iphonesimulator/zap quebec.app/en.lproj"0#
+
+CCopyStringsFile "/Users/tdo1/Desktop/tdo1-zap.iPhone EN DEV /src/build/Release-iphonesimulator/zap quebec.app/fr.lproj/Localizable.strings" fr.lproj/Localizable.strings
+s298833618.278917
+e298833618.315425
+r1
+xCopyStringsFile
+x/Users/tdo1/Desktop/tdo1-zap.iPhone EN DEV /src/build/Release-iphonesimulator/zap quebec.app/fr.lproj/Localizable.strings
+xfr.lproj/Localizable.strings
+lSLF07#2@33"Copy fr.lproj/Localizable.strings298833618#298833618#0(0"0(0#0#76"/Users/tdo1/Desktop/tdo1-zap.iPhone EN DEV /src/fr.lproj/Localizable.strings4300911832#512"    cd "/Users/tdo1/Desktop/tdo1-zap.iPhone EN DEV /src"    setenv ICONV /usr/bin/iconv    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/Xcode/Plug-ins/CoreBuildTasks.xcplugin/Contents/Resources/copystrings --validate --inputencoding utf-8 --outputencoding binary fr.lproj/Localizable.strings --outdir "/Users/tdo1/Desktop/tdo1-zap.iPhone EN DEV /src/build/Release-iphonesimulator/zap quebec.app/fr.lproj"0#
+
+CCpResource "build/Release-iphonesimulator/zap quebec.app/Default.png" Resources/Default.png
+s298833609.583488
+e298833609.820068
+r1
+xCpResource
+xbuild/Release-iphonesimulator/zap quebec.app/Default.png
+xResources/Default.png
+lSLF07#2@26"Copy Resources/Default.png298833609#298833609#0(0"0(0#0#69"/Users/tdo1/Desktop/tdo1-zap.iPhone EN DEV /src/Resources/Default.png4300911832#524"    cd "/Users/tdo1/Desktop/tdo1-zap.iPhone EN DEV /src"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -strip-debug-symbols -resolve-src-symlinks "/Users/tdo1/Desktop/tdo1-zap.iPhone EN DEV /src/Resources/Default.png" "/Users/tdo1/Desktop/tdo1-zap.iPhone EN DEV /src/build/Release-iphonesimulator/zap quebec.app"0#
+
+CCpResource "build/Release-iphonesimulator/zap quebec.app/Default1.png" Resources/news_files/Default1.png
+s298833619.632252
+e298833619.664274
+r1
+xCpResource
+xbuild/Release-iphonesimulator/zap quebec.app/Default1.png
+xResources/news_files/Default1.png
+lSLF07#2@38"Copy Resources/news_files/Default1.png298833619#298833619#0(0"0(0#0#81"/Users/tdo1/Desktop/tdo1-zap.iPhone EN DEV /src/Resources/news_files/Default1.png4300911832#536"    cd "/Users/tdo1/Desktop/tdo1-zap.iPhone EN DEV /src"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -strip-debug-symbols -resolve-src-symlinks "/Users/tdo1/Desktop/tdo1-zap.iPhone EN DEV /src/Resources/news_files/Default1.png" "/Users/tdo1/Desktop/tdo1-zap.iPhone EN DEV /src/build/Release-iphonesimulator/zap quebec.app"0#
+
+CCpResource "build/Release-iphonesimulator/zap quebec.app/UITabBar2.png" Resources/Images/UITabBar2.png
+s298833619.832911
+e298833619.849646
+r1
+xCpResource
+xbuild/Release-iphonesimulator/zap quebec.app/UITabBar2.png
+xResources/Images/UITabBar2.png
+lSLF07#2@35"Copy Resources/Images/UITabBar2.png298833619#298833619#0(0"0(0#0#78"/Users/tdo1/Desktop/tdo1-zap.iPhone EN DEV /src/Resources/Images/UITabBar2.png4300911832#533"    cd "/Users/tdo1/Desktop/tdo1-zap.iPhone EN DEV /src"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -strip-debug-symbols -resolve-src-symlinks "/Users/tdo1/Desktop/tdo1-zap.iPhone EN DEV /src/Resources/Images/UITabBar2.png" "/Users/tdo1/Desktop/tdo1-zap.iPhone EN DEV /src/build/Release-iphonesimulator/zap quebec.app"0#
+
+CCpResource "build/Release-iphonesimulator/zap quebec.app/alert_back-red.png" Resources/Images/alert_back-red.png
+s298833619.670105
+e298833619.739217
+r1
+xCpResource
+xbuild/Release-iphonesimulator/zap quebec.app/alert_back-red.png
+xResources/Images/alert_back-red.png
+lSLF07#2@40"Copy Resources/Images/alert_back-red.png298833619#298833619#0(0"0(0#0#83"/Users/tdo1/Desktop/tdo1-zap.iPhone EN DEV /src/Resources/Images/alert_back-red.png4300911832#538"    cd "/Users/tdo1/Desktop/tdo1-zap.iPhone EN DEV /src"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -strip-debug-symbols -resolve-src-symlinks "/Users/tdo1/Desktop/tdo1-zap.iPhone EN DEV /src/Resources/Images/alert_back-red.png" "/Users/tdo1/Desktop/tdo1-zap.iPhone EN DEV /src/build/Release-iphonesimulator/zap quebec.app"0#
+
+CCpResource "build/Release-iphonesimulator/zap quebec.app/alert_back-yellow.png" Resources/Images/alert_back-yellow.png
+s298833619.677225
+e298833619.739339
+r1
+xCpResource
+xbuild/Release-iphonesimulator/zap quebec.app/alert_back-yellow.png
+xResources/Images/alert_back-yellow.png
+lSLF07#2@43"Copy Resources/Images/alert_back-yellow.png298833619#298833619#0(0"0(0#0#86"/Users/tdo1/Desktop/tdo1-zap.iPhone EN DEV /src/Resources/Images/alert_back-yellow.png4300911832#541"    cd "/Users/tdo1/Desktop/tdo1-zap.iPhone EN DEV /src"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -strip-debug-symbols -resolve-src-symlinks "/Users/tdo1/Desktop/tdo1-zap.iPhone EN DEV /src/Resources/Images/alert_back-yellow.png" "/Users/tdo1/Desktop/tdo1-zap.iPhone EN DEV /src/build/Release-iphonesimulator/zap quebec.app"0#
+
+CCpResource "build/Release-iphonesimulator/zap quebec.app/blackArrow.png" Resources/Images/blackArrow.png
+s298833619.850591
+e298833619.883369
+r1
+xCpResource
+xbuild/Release-iphonesimulator/zap quebec.app/blackArrow.png
+xResources/Images/blackArrow.png
+lSLF07#2@36"Copy Resources/Images/blackArrow.png298833619#298833619#0(0"0(0#0#79"/Users/tdo1/Desktop/tdo1-zap.iPhone EN DEV /src/Resources/Images/blackArrow.png4300911832#534"    cd "/Users/tdo1/Desktop/tdo1-zap.iPhone EN DEV /src"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -strip-debug-symbols -resolve-src-symlinks "/Users/tdo1/Desktop/tdo1-zap.iPhone EN DEV /src/Resources/Images/blackArrow.png" "/Users/tdo1/Desktop/tdo1-zap.iPhone EN DEV /src/build/Release-iphonesimulator/zap quebec.app"0#
+
+CCpResource "build/Release-iphonesimulator/zap quebec.app/blueArrow.png" Resources/Images/blueArrow.png
+s298833619.852019
+e298833619.883503
+r1
+xCpResource
+xbuild/Release-iphonesimulator/zap quebec.app/blueArrow.png
+xResources/Images/blueArrow.png
+lSLF07#2@35"Copy Resources/Images/blueArrow.png298833619#298833619#0(0"0(0#0#78"/Users/tdo1/Desktop/tdo1-zap.iPhone EN DEV /src/Resources/Images/blueArrow.png4300911832#533"    cd "/Users/tdo1/Desktop/tdo1-zap.iPhone EN DEV /src"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -strip-debug-symbols -resolve-src-symlinks "/Users/tdo1/Desktop/tdo1-zap.iPhone EN DEV /src/Resources/Images/blueArrow.png" "/Users/tdo1/Desktop/tdo1-zap.iPhone EN DEV /src/build/Release-iphonesimulator/zap quebec.app"0#
+
+CCpResource "build/Release-iphonesimulator/zap quebec.app/btliste.jpg" Resources/Images/btliste.jpg
+s298833619.678486
+e298833619.739455
+r1
+xCpResource
+xbuild/Release-iphonesimulator/zap quebec.app/btliste.jpg
+xResources/Images/btliste.jpg
+lSLF07#2@33"Copy Resources/Images/btliste.jpg298833619#298833619#0(0"0(0#0#76"/Users/tdo1/Desktop/tdo1-zap.iPhone EN DEV /src/Resources/Images/btliste.jpg4300911832#531"    cd "/Users/tdo1/Desktop/tdo1-zap.iPhone EN DEV /src"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -strip-debug-symbols -resolve-src-symlinks "/Users/tdo1/Desktop/tdo1-zap.iPhone EN DEV /src/Resources/Images/btliste.jpg" "/Users/tdo1/Desktop/tdo1-zap.iPhone EN DEV /src/build/Release-iphonesimulator/zap quebec.app"0#
+
+CCpResource "build/Release-iphonesimulator/zap quebec.app/btlisteR.jpg" Resources/Images/btlisteR.jpg
+s298833619.679794
+e298833619.739569
+r1
+xCpResource
+xbuild/Release-iphonesimulator/zap quebec.app/btlisteR.jpg
+xResources/Images/btlisteR.jpg
+lSLF07#2@34"Copy Resources/Images/btlisteR.jpg298833619#298833619#0(0"0(0#0#77"/Users/tdo1/Desktop/tdo1-zap.iPhone EN DEV /src/Resources/Images/btlisteR.jpg4300911832#532"    cd "/Users/tdo1/Desktop/tdo1-zap.iPhone EN DEV /src"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -strip-debug-symbols -resolve-src-symlinks "/Users/tdo1/Desktop/tdo1-zap.iPhone EN DEV /src/Resources/Images/btlisteR.jpg" "/Users/tdo1/Desktop/tdo1-zap.iPhone EN DEV /src/build/Release-iphonesimulator/zap quebec.app"0#
+
+CCpResource "build/Release-iphonesimulator/zap quebec.app/btmap.jpg" Resources/Images/btmap.jpg
+s298833619.687742
+e298833619.738964
+r1
+xCpResource
+xbuild/Release-iphonesimulator/zap quebec.app/btmap.jpg
+xResources/Images/btmap.jpg
+lSLF07#2@31"Copy Resources/Images/btmap.jpg298833619#298833619#0(0"0(0#0#74"/Users/tdo1/Desktop/tdo1-zap.iPhone EN DEV /src/Resources/Images/btmap.jpg4300911832#529"    cd "/Users/tdo1/Desktop/tdo1-zap.iPhone EN DEV /src"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -strip-debug-symbols -resolve-src-symlinks "/Users/tdo1/Desktop/tdo1-zap.iPhone EN DEV /src/Resources/Images/btmap.jpg" "/Users/tdo1/Desktop/tdo1-zap.iPhone EN DEV /src/build/Release-iphonesimulator/zap quebec.app"0#
+
+CCpResource "build/Release-iphonesimulator/zap quebec.app/btmapR.jpg" Resources/Images/btmapR.jpg
+s298833619.699232
+e298833619.739095
+r1
+xCpResource
+xbuild/Release-iphonesimulator/zap quebec.app/btmapR.jpg
+xResources/Images/btmapR.jpg
+lSLF07#2@32"Copy Resources/Images/btmapR.jpg298833619#298833619#0(0"0(0#0#75"/Users/tdo1/Desktop/tdo1-zap.iPhone EN DEV /src/Resources/Images/btmapR.jpg4300911832#530"    cd "/Users/tdo1/Desktop/tdo1-zap.iPhone EN DEV /src"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -strip-debug-symbols -resolve-src-symlinks "/Users/tdo1/Desktop/tdo1-zap.iPhone EN DEV /src/Resources/Images/btmapR.jpg" "/Users/tdo1/Desktop/tdo1-zap.iPhone EN DEV /src/build/Release-iphonesimulator/zap quebec.app"0#
+
+CCpResource "build/Release-iphonesimulator/zap quebec.app/btn-loc.png" Resources/Images/btn-loc.png
+s298833619.741613
+e298833619.790314
+r1
+xCpResource
+xbuild/Release-iphonesimulator/zap quebec.app/btn-loc.png
+xResources/Images/btn-loc.png
+lSLF07#2@33"Copy Resources/Images/btn-loc.png298833619#298833619#0(0"0(0#0#76"/Users/tdo1/Desktop/tdo1-zap.iPhone EN DEV /src/Resources/Images/btn-loc.png4300911832#531"    cd "/Users/tdo1/Desktop/tdo1-zap.iPhone EN DEV /src"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -strip-debug-symbols -resolve-src-symlinks "/Users/tdo1/Desktop/tdo1-zap.iPhone EN DEV /src/Resources/Images/btn-loc.png" "/Users/tdo1/Desktop/tdo1-zap.iPhone EN DEV /src/build/Release-iphonesimulator/zap quebec.app"0#
+
+CCpResource "build/Release-iphonesimulator/zap quebec.app/btn-refresh.png" Resources/Images/btn-refresh.png
+s298833619.838595
+e298833619.884085
+r1
+xCpResource
+xbuild/Release-iphonesimulator/zap quebec.app/btn-refresh.png
+xResources/Images/btn-refresh.png
+lSLF07#2@37"Copy Resources/Images/btn-refresh.png298833619#298833619#0(0"0(0#0#80"/Users/tdo1/Desktop/tdo1-zap.iPhone EN DEV /src/Resources/Images/btn-refresh.png4300911832#535"    cd "/Users/tdo1/Desktop/tdo1-zap.iPhone EN DEV /src"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -strip-debug-symbols -resolve-src-symlinks "/Users/tdo1/Desktop/tdo1-zap.iPhone EN DEV /src/Resources/Images/btn-refresh.png" "/Users/tdo1/Desktop/tdo1-zap.iPhone EN DEV /src/build/Release-iphonesimulator/zap quebec.app"0#
+
+CCpResource "build/Release-iphonesimulator/zap quebec.app/btn_credits_en.png" Resources/Images/btn_credits_en.png
+s298833619.729961
+e298833619.760777
+r1
+xCpResource
+xbuild/Release-iphonesimulator/zap quebec.app/btn_credits_en.png
+xResources/Images/btn_credits_en.png
+lSLF07#2@40"Copy Resources/Images/btn_credits_en.png298833619#298833619#0(0"0(0#0#83"/Users/tdo1/Desktop/tdo1-zap.iPhone EN DEV /src/Resources/Images/btn_credits_en.png4300911832#538"    cd "/Users/tdo1/Desktop/tdo1-zap.iPhone EN DEV /src"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -strip-debug-symbols -resolve-src-symlinks "/Users/tdo1/Desktop/tdo1-zap.iPhone EN DEV /src/Resources/Images/btn_credits_en.png" "/Users/tdo1/Desktop/tdo1-zap.iPhone EN DEV /src/build/Release-iphonesimulator/zap quebec.app"0#
+
+CCpResource "build/Release-iphonesimulator/zap quebec.app/btn_credits_fr.png" Resources/Images/btn_credits_fr.png
+s298833619.730716
+e298833619.761472
+r1
+xCpResource
+xbuild/Release-iphonesimulator/zap quebec.app/btn_credits_fr.png
+xResources/Images/btn_credits_fr.png
+lSLF07#2@40"Copy Resources/Images/btn_credits_fr.png298833619#298833619#0(0"0(0#0#83"/Users/tdo1/Desktop/tdo1-zap.iPhone EN DEV /src/Resources/Images/btn_credits_fr.png4300911832#538"    cd "/Users/tdo1/Desktop/tdo1-zap.iPhone EN DEV /src"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -strip-debug-symbols -resolve-src-symlinks "/Users/tdo1/Desktop/tdo1-zap.iPhone EN DEV /src/Resources/Images/btn_credits_fr.png" "/Users/tdo1/Desktop/tdo1-zap.iPhone EN DEV /src/build/Release-iphonesimulator/zap quebec.app"0#
+
+CCpResource "build/Release-iphonesimulator/zap quebec.app/btn_isf_en.png" Resources/Images/btn_isf_en.png
+s298833619.734881
+e298833619.791044
+r1
+xCpResource
+xbuild/Release-iphonesimulator/zap quebec.app/btn_isf_en.png
+xResources/Images/btn_isf_en.png
+lSLF07#2@36"Copy Resources/Images/btn_isf_en.png298833619#298833619#0(0"0(0#0#79"/Users/tdo1/Desktop/tdo1-zap.iPhone EN DEV /src/Resources/Images/btn_isf_en.png4300911832#534"    cd "/Users/tdo1/Desktop/tdo1-zap.iPhone EN DEV /src"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -strip-debug-symbols -resolve-src-symlinks "/Users/tdo1/Desktop/tdo1-zap.iPhone EN DEV /src/Resources/Images/btn_isf_en.png" "/Users/tdo1/Desktop/tdo1-zap.iPhone EN DEV /src/build/Release-iphonesimulator/zap quebec.app"0#
+
+CCpResource "build/Release-iphonesimulator/zap quebec.app/btn_isf_fr.png" Resources/Images/btn_isf_fr.png
+s298833619.739647
+e298833619.789499
+r1
+xCpResource
+xbuild/Release-iphonesimulator/zap quebec.app/btn_isf_fr.png
+xResources/Images/btn_isf_fr.png
+lSLF07#2@36"Copy Resources/Images/btn_isf_fr.png298833619#298833619#0(0"0(0#0#79"/Users/tdo1/Desktop/tdo1-zap.iPhone EN DEV /src/Resources/Images/btn_isf_fr.png4300911832#534"    cd "/Users/tdo1/Desktop/tdo1-zap.iPhone EN DEV /src"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -strip-debug-symbols -resolve-src-symlinks "/Users/tdo1/Desktop/tdo1-zap.iPhone EN DEV /src/Resources/Images/btn_isf_fr.png" "/Users/tdo1/Desktop/tdo1-zap.iPhone EN DEV /src/build/Release-iphonesimulator/zap quebec.app"0#
+
+CCpResource "build/Release-iphonesimulator/zap quebec.app/btn_isf_infos_back_en.png" Resources/Images/btn_isf_infos_back_en.png
+s298833619.740337
+e298833619.760233
+r1
+xCpResource
+xbuild/Release-iphonesimulator/zap quebec.app/btn_isf_infos_back_en.png
+xResources/Images/btn_isf_infos_back_en.png
+lSLF07#2@47"Copy Resources/Images/btn_isf_infos_back_en.png298833619#298833619#0(0"0(0#0#90"/Users/tdo1/Desktop/tdo1-zap.iPhone EN DEV /src/Resources/Images/btn_isf_infos_back_en.png4300911832#545"    cd "/Users/tdo1/Desktop/tdo1-zap.iPhone EN DEV /src"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -strip-debug-symbols -resolve-src-symlinks "/Users/tdo1/Desktop/tdo1-zap.iPhone EN DEV /src/Resources/Images/btn_isf_infos_back_en.png" "/Users/tdo1/Desktop/tdo1-zap.iPhone EN DEV /src/build/Release-iphonesimulator/zap quebec.app"0#
+
+CCpResource "build/Release-iphonesimulator/zap quebec.app/btn_isf_infos_back_fr.png" Resources/Images/btn_isf_infos_back_fr.png
+s298833619.740968
+e298833619.760495
+r1
+xCpResource
+xbuild/Release-iphonesimulator/zap quebec.app/btn_isf_infos_back_fr.png
+xResources/Images/btn_isf_infos_back_fr.png
+lSLF07#2@47"Copy Resources/Images/btn_isf_infos_back_fr.png298833619#298833619#0(0"0(0#0#90"/Users/tdo1/Desktop/tdo1-zap.iPhone EN DEV /src/Resources/Images/btn_isf_infos_back_fr.png4300911832#545"    cd "/Users/tdo1/Desktop/tdo1-zap.iPhone EN DEV /src"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -strip-debug-symbols -resolve-src-symlinks "/Users/tdo1/Desktop/tdo1-zap.iPhone EN DEV /src/Resources/Images/btn_isf_infos_back_fr.png" "/Users/tdo1/Desktop/tdo1-zap.iPhone EN DEV /src/build/Release-iphonesimulator/zap quebec.app"0#
+
+CCpResource "build/Release-iphonesimulator/zap quebec.app/btn_notice_en.png" Resources/Images/btn_notice_en.png
+s298833619.866127
+e298833619.883739
+r1
+xCpResource
+xbuild/Release-iphonesimulator/zap quebec.app/btn_notice_en.png
+xResources/Images/btn_notice_en.png
+lSLF07#2@39"Copy Resources/Images/btn_notice_en.png298833619#298833619#0(0"0(0#0#82"/Users/tdo1/Desktop/tdo1-zap.iPhone EN DEV /src/Resources/Images/btn_notice_en.png4300911832#537"    cd "/Users/tdo1/Desktop/tdo1-zap.iPhone EN DEV /src"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -strip-debug-symbols -resolve-src-symlinks "/Users/tdo1/Desktop/tdo1-zap.iPhone EN DEV /src/Resources/Images/btn_notice_en.png" "/Users/tdo1/Desktop/tdo1-zap.iPhone EN DEV /src/build/Release-iphonesimulator/zap quebec.app"0#
+
+CCpResource "build/Release-iphonesimulator/zap quebec.app/btn_notice_fr.png" Resources/Images/btn_notice_fr.png
+s298833619.870205
+e298833619.883854
+r1
+xCpResource
+xbuild/Release-iphonesimulator/zap quebec.app/btn_notice_fr.png
+xResources/Images/btn_notice_fr.png
+lSLF07#2@39"Copy Resources/Images/btn_notice_fr.png298833619#298833619#0(0"0(0#0#82"/Users/tdo1/Desktop/tdo1-zap.iPhone EN DEV /src/Resources/Images/btn_notice_fr.png4300911832#537"    cd "/Users/tdo1/Desktop/tdo1-zap.iPhone EN DEV /src"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -strip-debug-symbols -resolve-src-symlinks "/Users/tdo1/Desktop/tdo1-zap.iPhone EN DEV /src/Resources/Images/btn_notice_fr.png" "/Users/tdo1/Desktop/tdo1-zap.iPhone EN DEV /src/build/Release-iphonesimulator/zap quebec.app"0#
+
+CCpResource "build/Release-iphonesimulator/zap quebec.app/coeur.png" Resources/Images/coeur.png
+s298833619.742253
+e298833619.761110
+r1
+xCpResource
+xbuild/Release-iphonesimulator/zap quebec.app/coeur.png
+xResources/Images/coeur.png
+lSLF07#2@31"Copy Resources/Images/coeur.png298833619#298833619#0(0"0(0#0#74"/Users/tdo1/Desktop/tdo1-zap.iPhone EN DEV /src/Resources/Images/coeur.png4300911832#529"    cd "/Users/tdo1/Desktop/tdo1-zap.iPhone EN DEV /src"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -strip-debug-symbols -resolve-src-symlinks "/Users/tdo1/Desktop/tdo1-zap.iPhone EN DEV /src/Resources/Images/coeur.png" "/Users/tdo1/Desktop/tdo1-zap.iPhone EN DEV /src/build/Release-iphonesimulator/zap quebec.app"0#
+
+CCpResource "build/Release-iphonesimulator/zap quebec.app/direction.png" Resources/Images/direction.png
+s298833619.747381
+e298833619.761303
+r1
+xCpResource
+xbuild/Release-iphonesimulator/zap quebec.app/direction.png
+xResources/Images/direction.png
+lSLF07#2@35"Copy Resources/Images/direction.png298833619#298833619#0(0"0(0#0#78"/Users/tdo1/Desktop/tdo1-zap.iPhone EN DEV /src/Resources/Images/direction.png4300911832#533"    cd "/Users/tdo1/Desktop/tdo1-zap.iPhone EN DEV /src"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -strip-debug-symbols -resolve-src-symlinks "/Users/tdo1/Desktop/tdo1-zap.iPhone EN DEV /src/Resources/Images/direction.png" "/Users/tdo1/Desktop/tdo1-zap.iPhone EN DEV /src/build/Release-iphonesimulator/zap quebec.app"0#
+
+CCpResource "build/Release-iphonesimulator/zap quebec.app/favorite-color.png" Resources/Images/favorite-color.png
+s298833619.761579
+e298833619.789755
+r1
+xCpResource
+xbuild/Release-iphonesimulator/zap quebec.app/favorite-color.png
+xResources/Images/favorite-color.png
+lSLF07#2@40"Copy Resources/Images/favorite-color.png298833619#298833619#0(0"0(0#0#83"/Users/tdo1/Desktop/tdo1-zap.iPhone EN DEV /src/Resources/Images/favorite-color.png4300911832#538"    cd "/Users/tdo1/Desktop/tdo1-zap.iPhone EN DEV /src"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -strip-debug-symbols -resolve-src-symlinks "/Users/tdo1/Desktop/tdo1-zap.iPhone EN DEV /src/Resources/Images/favorite-color.png" "/Users/tdo1/Desktop/tdo1-zap.iPhone EN DEV /src/build/Release-iphonesimulator/zap quebec.app"0#
+
+CCpResource "build/Release-iphonesimulator/zap quebec.app/favorite-color2.png" Resources/Images/favorite-color2.png
+s298833619.762498
+e298833619.790037
+r1
+xCpResource
+xbuild/Release-iphonesimulator/zap quebec.app/favorite-color2.png
+xResources/Images/favorite-color2.png
+lSLF07#2@41"Copy Resources/Images/favorite-color2.png298833619#298833619#0(0"0(0#0#84"/Users/tdo1/Desktop/tdo1-zap.iPhone EN DEV /src/Resources/Images/favorite-color2.png4300911832#539"    cd "/Users/tdo1/Desktop/tdo1-zap.iPhone EN DEV /src"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -strip-debug-symbols -resolve-src-symlinks "/Users/tdo1/Desktop/tdo1-zap.iPhone EN DEV /src/Resources/Images/favorite-color2.png" "/Users/tdo1/Desktop/tdo1-zap.iPhone EN DEV /src/build/Release-iphonesimulator/zap quebec.app"0#
+
+CCpResource "build/Release-iphonesimulator/zap quebec.app/favorite-grey.png" Resources/Images/favorite-grey.png
+s298833619.766390
+e298833619.790178
+r1
+xCpResource
+xbuild/Release-iphonesimulator/zap quebec.app/favorite-grey.png
+xResources/Images/favorite-grey.png
+lSLF07#2@39"Copy Resources/Images/favorite-grey.png298833619#298833619#0(0"0(0#0#82"/Users/tdo1/Desktop/tdo1-zap.iPhone EN DEV /src/Resources/Images/favorite-grey.png4300911832#537"    cd "/Users/tdo1/Desktop/tdo1-zap.iPhone EN DEV /src"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -strip-debug-symbols -resolve-src-symlinks "/Users/tdo1/Desktop/tdo1-zap.iPhone EN DEV /src/Resources/Images/favorite-grey.png" "/Users/tdo1/Desktop/tdo1-zap.iPhone EN DEV /src/build/Release-iphonesimulator/zap quebec.app"0#
+
+CCpResource "build/Release-iphonesimulator/zap quebec.app/favorite-grey2.png" Resources/Images/favorite-grey2.png
+s298833619.775073
+e298833619.790455
+r1
+xCpResource
+xbuild/Release-iphonesimulator/zap quebec.app/favorite-grey2.png
+xResources/Images/favorite-grey2.png
+lSLF07#2@40"Copy Resources/Images/favorite-grey2.png298833619#298833619#0(0"0(0#0#83"/Users/tdo1/Desktop/tdo1-zap.iPhone EN DEV /src/Resources/Images/favorite-grey2.png4300911832#538"    cd "/Users/tdo1/Desktop/tdo1-zap.iPhone EN DEV /src"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -strip-debug-symbols -resolve-src-symlinks "/Users/tdo1/Desktop/tdo1-zap.iPhone EN DEV /src/Resources/Images/favorite-grey2.png" "/Users/tdo1/Desktop/tdo1-zap.iPhone EN DEV /src/build/Release-iphonesimulator/zap quebec.app"0#
+
+CCpResource "build/Release-iphonesimulator/zap quebec.app/habs-home.png" Resources/news_files/habs-home.png
+s298833619.634274
+e298833619.664413
+r1
+xCpResource
+xbuild/Release-iphonesimulator/zap quebec.app/habs-home.png
+xResources/news_files/habs-home.png
+lSLF07#2@39"Copy Resources/news_files/habs-home.png298833619#298833619#0(0"0(0#0#82"/Users/tdo1/Desktop/tdo1-zap.iPhone EN DEV /src/Resources/news_files/habs-home.png4300911832#537"    cd "/Users/tdo1/Desktop/tdo1-zap.iPhone EN DEV /src"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -strip-debug-symbols -resolve-src-symlinks "/Users/tdo1/Desktop/tdo1-zap.iPhone EN DEV /src/Resources/news_files/habs-home.png" "/Users/tdo1/Desktop/tdo1-zap.iPhone EN DEV /src/build/Release-iphonesimulator/zap quebec.app"0#
+
+CCpResource "build/Release-iphonesimulator/zap quebec.app/head-fade-bk.png" Resources/news_files/head-fade-bk.png
+s298833619.637152
+e298833619.664534
+r1
+xCpResource
+xbuild/Release-iphonesimulator/zap quebec.app/head-fade-bk.png
+xResources/news_files/head-fade-bk.png
+lSLF07#2@42"Copy Resources/news_files/head-fade-bk.png298833619#298833619#0(0"0(0#0#85"/Users/tdo1/Desktop/tdo1-zap.iPhone EN DEV /src/Resources/news_files/head-fade-bk.png4300911832#540"    cd "/Users/tdo1/Desktop/tdo1-zap.iPhone EN DEV /src"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -strip-debug-symbols -resolve-src-symlinks "/Users/tdo1/Desktop/tdo1-zap.iPhone EN DEV /src/Resources/news_files/head-fade-bk.png" "/Users/tdo1/Desktop/tdo1-zap.iPhone EN DEV /src/build/Release-iphonesimulator/zap quebec.app"0#
+
+CCpResource "build/Release-iphonesimulator/zap quebec.app/hotspot.xml" Resources/hotspot.xml
+s298833619.667845
+e298833619.789906
+r1
+xCpResource
+xbuild/Release-iphonesimulator/zap quebec.app/hotspot.xml
+xResources/hotspot.xml
+lSLF07#2@26"Copy Resources/hotspot.xml298833619#298833619#0(0"0(0#0#69"/Users/tdo1/Desktop/tdo1-zap.iPhone EN DEV /src/Resources/hotspot.xml4300911832#524"    cd "/Users/tdo1/Desktop/tdo1-zap.iPhone EN DEV /src"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -strip-debug-symbols -resolve-src-symlinks "/Users/tdo1/Desktop/tdo1-zap.iPhone EN DEV /src/Resources/hotspot.xml" "/Users/tdo1/Desktop/tdo1-zap.iPhone EN DEV /src/build/Release-iphonesimulator/zap quebec.app"0#
+
+CCpResource "build/Release-iphonesimulator/zap quebec.app/html1.html" Resources/news_files/html1.html
+s298833619.642853
+e298833619.687425
+r1
+xCpResource
+xbuild/Release-iphonesimulator/zap quebec.app/html1.html
+xResources/news_files/html1.html
+lSLF07#2@36"Copy Resources/news_files/html1.html298833619#298833619#0(0"0(0#0#79"/Users/tdo1/Desktop/tdo1-zap.iPhone EN DEV /src/Resources/news_files/html1.html4300911832#534"    cd "/Users/tdo1/Desktop/tdo1-zap.iPhone EN DEV /src"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -strip-debug-symbols -resolve-src-symlinks "/Users/tdo1/Desktop/tdo1-zap.iPhone EN DEV /src/Resources/news_files/html1.html" "/Users/tdo1/Desktop/tdo1-zap.iPhone EN DEV /src/build/Release-iphonesimulator/zap quebec.app"0#
+
+CCpResource "build/Release-iphonesimulator/zap quebec.app/html2.html" Resources/news_files/html2.html
+s298833619.644250
+e298833619.664658
+r1
+xCpResource
+xbuild/Release-iphonesimulator/zap quebec.app/html2.html
+xResources/news_files/html2.html
+lSLF07#2@36"Copy Resources/news_files/html2.html298833619#298833619#0(0"0(0#0#79"/Users/tdo1/Desktop/tdo1-zap.iPhone EN DEV /src/Resources/news_files/html2.html4300911832#534"    cd "/Users/tdo1/Desktop/tdo1-zap.iPhone EN DEV /src"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -strip-debug-symbols -resolve-src-symlinks "/Users/tdo1/Desktop/tdo1-zap.iPhone EN DEV /src/Resources/news_files/html2.html" "/Users/tdo1/Desktop/tdo1-zap.iPhone EN DEV /src/build/Release-iphonesimulator/zap quebec.app"0#
+
+CCpResource "build/Release-iphonesimulator/zap quebec.app/html3.html" Resources/news_files/html3.html
+s298833619.646705
+e298833619.664776
+r1
+xCpResource
+xbuild/Release-iphonesimulator/zap quebec.app/html3.html
+xResources/news_files/html3.html
+lSLF07#2@36"Copy Resources/news_files/html3.html298833619#298833619#0(0"0(0#0#79"/Users/tdo1/Desktop/tdo1-zap.iPhone EN DEV /src/Resources/news_files/html3.html4300911832#534"    cd "/Users/tdo1/Desktop/tdo1-zap.iPhone EN DEV /src"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -strip-debug-symbols -resolve-src-symlinks "/Users/tdo1/Desktop/tdo1-zap.iPhone EN DEV /src/Resources/news_files/html3.html" "/Users/tdo1/Desktop/tdo1-zap.iPhone EN DEV /src/build/Release-iphonesimulator/zap quebec.app"0#
+
+CCpResource "build/Release-iphonesimulator/zap quebec.app/html4.html" Resources/news_files/html4.html
+s298833619.653401
+e298833619.664896
+r1
+xCpResource
+xbuild/Release-iphonesimulator/zap quebec.app/html4.html
+xResources/news_files/html4.html
+lSLF07#2@36"Copy Resources/news_files/html4.html298833619#298833619#0(0"0(0#0#79"/Users/tdo1/Desktop/tdo1-zap.iPhone EN DEV /src/Resources/news_files/html4.html4300911832#534"    cd "/Users/tdo1/Desktop/tdo1-zap.iPhone EN DEV /src"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -strip-debug-symbols -resolve-src-symlinks "/Users/tdo1/Desktop/tdo1-zap.iPhone EN DEV /src/Resources/news_files/html4.html" "/Users/tdo1/Desktop/tdo1-zap.iPhone EN DEV /src/build/Release-iphonesimulator/zap quebec.app"0#
+
+CCpResource "build/Release-iphonesimulator/zap quebec.app/icon.png" Resources/icon.png
+s298833609.582803
+e298833609.798054
+r1
+xCpResource
+xbuild/Release-iphonesimulator/zap quebec.app/icon.png
+xResources/icon.png
+lSLF07#2@23"Copy Resources/icon.png298833609#298833609#0(0"0(0#0#66"/Users/tdo1/Desktop/tdo1-zap.iPhone EN DEV /src/Resources/icon.png4300911832#521"    cd "/Users/tdo1/Desktop/tdo1-zap.iPhone EN DEV /src"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -strip-debug-symbols -resolve-src-symlinks "/Users/tdo1/Desktop/tdo1-zap.iPhone EN DEV /src/Resources/icon.png" "/Users/tdo1/Desktop/tdo1-zap.iPhone EN DEV /src/build/Release-iphonesimulator/zap quebec.app"0#
+
+CCpResource "build/Release-iphonesimulator/zap quebec.app/iconehotspot.png" Resources/Images/iconehotspot.png
+s298833619.777987
+e298833619.790596
+r1
+xCpResource
+xbuild/Release-iphonesimulator/zap quebec.app/iconehotspot.png
+xResources/Images/iconehotspot.png
+lSLF07#2@38"Copy Resources/Images/iconehotspot.png298833619#298833619#0(0"0(0#0#81"/Users/tdo1/Desktop/tdo1-zap.iPhone EN DEV /src/Resources/Images/iconehotspot.png4300911832#536"    cd "/Users/tdo1/Desktop/tdo1-zap.iPhone EN DEV /src"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -strip-debug-symbols -resolve-src-symlinks "/Users/tdo1/Desktop/tdo1-zap.iPhone EN DEV /src/Resources/Images/iconehotspot.png" "/Users/tdo1/Desktop/tdo1-zap.iPhone EN DEV /src/build/Release-iphonesimulator/zap quebec.app"0#
+
+CCpResource "build/Release-iphonesimulator/zap quebec.app/infos_en.png" Resources/Images/infos_en.png
+s298833619.871398
+e298833619.883968
+r1
+xCpResource
+xbuild/Release-iphonesimulator/zap quebec.app/infos_en.png
+xResources/Images/infos_en.png
+lSLF07#2@34"Copy Resources/Images/infos_en.png298833619#298833619#0(0"0(0#0#77"/Users/tdo1/Desktop/tdo1-zap.iPhone EN DEV /src/Resources/Images/infos_en.png4300911832#532"    cd "/Users/tdo1/Desktop/tdo1-zap.iPhone EN DEV /src"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -strip-debug-symbols -resolve-src-symlinks "/Users/tdo1/Desktop/tdo1-zap.iPhone EN DEV /src/Resources/Images/infos_en.png" "/Users/tdo1/Desktop/tdo1-zap.iPhone EN DEV /src/build/Release-iphonesimulator/zap quebec.app"0#
+
+CCpResource "build/Release-iphonesimulator/zap quebec.app/infos_fr.png" Resources/Images/infos_fr.png
+s298833619.872791
+e298833619.884262
+r1
+xCpResource
+xbuild/Release-iphonesimulator/zap quebec.app/infos_fr.png
+xResources/Images/infos_fr.png
+lSLF07#2@34"Copy Resources/Images/infos_fr.png298833619#298833619#0(0"0(0#0#77"/Users/tdo1/Desktop/tdo1-zap.iPhone EN DEV /src/Resources/Images/infos_fr.png4300911832#532"    cd "/Users/tdo1/Desktop/tdo1-zap.iPhone EN DEV /src"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -strip-debug-symbols -resolve-src-symlinks "/Users/tdo1/Desktop/tdo1-zap.iPhone EN DEV /src/Resources/Images/infos_fr.png" "/Users/tdo1/Desktop/tdo1-zap.iPhone EN DEV /src/build/Release-iphonesimulator/zap quebec.app"0#
+
+CCpResource "build/Release-iphonesimulator/zap quebec.app/isfInfosNotice_en.png" Resources/Images/isfInfosNotice_en.png
+s298833619.876349
+e298833619.893515
+r1
+xCpResource
+xbuild/Release-iphonesimulator/zap quebec.app/isfInfosNotice_en.png
+xResources/Images/isfInfosNotice_en.png
+lSLF07#2@43"Copy Resources/Images/isfInfosNotice_en.png298833619#298833619#0(0"0(0#0#86"/Users/tdo1/Desktop/tdo1-zap.iPhone EN DEV /src/Resources/Images/isfInfosNotice_en.png4300911832#541"    cd "/Users/tdo1/Desktop/tdo1-zap.iPhone EN DEV /src"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -strip-debug-symbols -resolve-src-symlinks "/Users/tdo1/Desktop/tdo1-zap.iPhone EN DEV /src/Resources/Images/isfInfosNotice_en.png" "/Users/tdo1/Desktop/tdo1-zap.iPhone EN DEV /src/build/Release-iphonesimulator/zap quebec.app"0#
+
+CCpResource "build/Release-iphonesimulator/zap quebec.app/isfInfosNotice_fr.png" Resources/Images/isfInfosNotice_fr.png
+s298833619.880273
+e298833619.894813
+r1
+xCpResource
+xbuild/Release-iphonesimulator/zap quebec.app/isfInfosNotice_fr.png
+xResources/Images/isfInfosNotice_fr.png
+lSLF07#2@43"Copy Resources/Images/isfInfosNotice_fr.png298833619#298833619#0(0"0(0#0#86"/Users/tdo1/Desktop/tdo1-zap.iPhone EN DEV /src/Resources/Images/isfInfosNotice_fr.png4300911832#541"    cd "/Users/tdo1/Desktop/tdo1-zap.iPhone EN DEV /src"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -strip-debug-symbols -resolve-src-symlinks "/Users/tdo1/Desktop/tdo1-zap.iPhone EN DEV /src/Resources/Images/isfInfosNotice_fr.png" "/Users/tdo1/Desktop/tdo1-zap.iPhone EN DEV /src/build/Release-iphonesimulator/zap quebec.app"0#
+
+CCpResource "build/Release-iphonesimulator/zap quebec.app/isf_infos_en.png" Resources/Images/isf_infos_en.png
+s298833619.782432
+e298833619.790731
+r1
+xCpResource
+xbuild/Release-iphonesimulator/zap quebec.app/isf_infos_en.png
+xResources/Images/isf_infos_en.png
+lSLF07#2@38"Copy Resources/Images/isf_infos_en.png298833619#298833619#0(0"0(0#0#81"/Users/tdo1/Desktop/tdo1-zap.iPhone EN DEV /src/Resources/Images/isf_infos_en.png4300911832#536"    cd "/Users/tdo1/Desktop/tdo1-zap.iPhone EN DEV /src"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -strip-debug-symbols -resolve-src-symlinks "/Users/tdo1/Desktop/tdo1-zap.iPhone EN DEV /src/Resources/Images/isf_infos_en.png" "/Users/tdo1/Desktop/tdo1-zap.iPhone EN DEV /src/build/Release-iphonesimulator/zap quebec.app"0#
+
+CCpResource "build/Release-iphonesimulator/zap quebec.app/isf_infos_fr.png" Resources/Images/isf_infos_fr.png
+s298833619.791124
+e298833619.817100
+r1
+xCpResource
+xbuild/Release-iphonesimulator/zap quebec.app/isf_infos_fr.png
+xResources/Images/isf_infos_fr.png
+lSLF07#2@38"Copy Resources/Images/isf_infos_fr.png298833619#298833619#0(0"0(0#0#81"/Users/tdo1/Desktop/tdo1-zap.iPhone EN DEV /src/Resources/Images/isf_infos_fr.png4300911832#536"    cd "/Users/tdo1/Desktop/tdo1-zap.iPhone EN DEV /src"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -strip-debug-symbols -resolve-src-symlinks "/Users/tdo1/Desktop/tdo1-zap.iPhone EN DEV /src/Resources/Images/isf_infos_fr.png" "/Users/tdo1/Desktop/tdo1-zap.iPhone EN DEV /src/build/Release-iphonesimulator/zap quebec.app"0#
+
+CCpResource "build/Release-iphonesimulator/zap quebec.app/map.png" Resources/Images/map.png
+s298833619.792028
+e298833619.820886
+r1
+xCpResource
+xbuild/Release-iphonesimulator/zap quebec.app/map.png
+xResources/Images/map.png
+lSLF07#2@29"Copy Resources/Images/map.png298833619#298833619#0(0"0(0#0#72"/Users/tdo1/Desktop/tdo1-zap.iPhone EN DEV /src/Resources/Images/map.png4300911832#527"    cd "/Users/tdo1/Desktop/tdo1-zap.iPhone EN DEV /src"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -strip-debug-symbols -resolve-src-symlinks "/Users/tdo1/Desktop/tdo1-zap.iPhone EN DEV /src/Resources/Images/map.png" "/Users/tdo1/Desktop/tdo1-zap.iPhone EN DEV /src/build/Release-iphonesimulator/zap quebec.app"0#
+
+CCpResource "build/Release-iphonesimulator/zap quebec.app/no-connection.png" Resources/Images/no-connection.png
+s298833619.793308
+e298833619.821025
+r1
+xCpResource
+xbuild/Release-iphonesimulator/zap quebec.app/no-connection.png
+xResources/Images/no-connection.png
+lSLF07#2@39"Copy Resources/Images/no-connection.png298833619#298833619#0(0"0(0#0#82"/Users/tdo1/Desktop/tdo1-zap.iPhone EN DEV /src/Resources/Images/no-connection.png4300911832#537"    cd "/Users/tdo1/Desktop/tdo1-zap.iPhone EN DEV /src"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -strip-debug-symbols -resolve-src-symlinks "/Users/tdo1/Desktop/tdo1-zap.iPhone EN DEV /src/Resources/Images/no-connection.png" "/Users/tdo1/Desktop/tdo1-zap.iPhone EN DEV /src/build/Release-iphonesimulator/zap quebec.app"0#
+
+CCpResource "build/Release-iphonesimulator/zap quebec.app/pin-down-fav.png" Resources/Images/pin-down-fav.png
+s298833619.794305
+e298833619.821142
+r1
+xCpResource
+xbuild/Release-iphonesimulator/zap quebec.app/pin-down-fav.png
+xResources/Images/pin-down-fav.png
+lSLF07#2@38"Copy Resources/Images/pin-down-fav.png298833619#298833619#0(0"0(0#0#81"/Users/tdo1/Desktop/tdo1-zap.iPhone EN DEV /src/Resources/Images/pin-down-fav.png4300911832#536"    cd "/Users/tdo1/Desktop/tdo1-zap.iPhone EN DEV /src"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -strip-debug-symbols -resolve-src-symlinks "/Users/tdo1/Desktop/tdo1-zap.iPhone EN DEV /src/Resources/Images/pin-down-fav.png" "/Users/tdo1/Desktop/tdo1-zap.iPhone EN DEV /src/build/Release-iphonesimulator/zap quebec.app"0#
+
+CCpResource "build/Release-iphonesimulator/zap quebec.app/pin-down.png" Resources/Images/pin-down.png
+s298833619.796881
+e298833619.821261
+r1
+xCpResource
+xbuild/Release-iphonesimulator/zap quebec.app/pin-down.png
+xResources/Images/pin-down.png
+lSLF07#2@34"Copy Resources/Images/pin-down.png298833619#298833619#0(0"0(0#0#77"/Users/tdo1/Desktop/tdo1-zap.iPhone EN DEV /src/Resources/Images/pin-down.png4300911832#532"    cd "/Users/tdo1/Desktop/tdo1-zap.iPhone EN DEV /src"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -strip-debug-symbols -resolve-src-symlinks "/Users/tdo1/Desktop/tdo1-zap.iPhone EN DEV /src/Resources/Images/pin-down.png" "/Users/tdo1/Desktop/tdo1-zap.iPhone EN DEV /src/build/Release-iphonesimulator/zap quebec.app"0#
+
+CCpResource "build/Release-iphonesimulator/zap quebec.app/pin-search.png" Resources/Images/pin-search.png
+s298833619.799175
+e298833619.821377
+r1
+xCpResource
+xbuild/Release-iphonesimulator/zap quebec.app/pin-search.png
+xResources/Images/pin-search.png
+lSLF07#2@36"Copy Resources/Images/pin-search.png298833619#298833619#0(0"0(0#0#79"/Users/tdo1/Desktop/tdo1-zap.iPhone EN DEV /src/Resources/Images/pin-search.png4300911832#534"    cd "/Users/tdo1/Desktop/tdo1-zap.iPhone EN DEV /src"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -strip-debug-symbols -resolve-src-symlinks "/Users/tdo1/Desktop/tdo1-zap.iPhone EN DEV /src/Resources/Images/pin-search.png" "/Users/tdo1/Desktop/tdo1-zap.iPhone EN DEV /src/build/Release-iphonesimulator/zap quebec.app"0#
+
+CCpResource "build/Release-iphonesimulator/zap quebec.app/pin-unknown.png" Resources/Images/pin-unknown.png
+s298833619.803711
+e298833619.849813
+r1
+xCpResource
+xbuild/Release-iphonesimulator/zap quebec.app/pin-unknown.png
+xResources/Images/pin-unknown.png
+lSLF07#2@37"Copy Resources/Images/pin-unknown.png298833619#298833619#0(0"0(0#0#80"/Users/tdo1/Desktop/tdo1-zap.iPhone EN DEV /src/Resources/Images/pin-unknown.png4300911832#535"    cd "/Users/tdo1/Desktop/tdo1-zap.iPhone EN DEV /src"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -strip-debug-symbols -resolve-src-symlinks "/Users/tdo1/Desktop/tdo1-zap.iPhone EN DEV /src/Resources/Images/pin-unknown.png" "/Users/tdo1/Desktop/tdo1-zap.iPhone EN DEV /src/build/Release-iphonesimulator/zap quebec.app"0#
+
+CCpResource "build/Release-iphonesimulator/zap quebec.app/pin-up-fav.png" Resources/Images/pin-up-fav.png
+s298833619.806303
+e298833619.821493
+r1
+xCpResource
+xbuild/Release-iphonesimulator/zap quebec.app/pin-up-fav.png
+xResources/Images/pin-up-fav.png
+lSLF07#2@36"Copy Resources/Images/pin-up-fav.png298833619#298833619#0(0"0(0#0#79"/Users/tdo1/Desktop/tdo1-zap.iPhone EN DEV /src/Resources/Images/pin-up-fav.png4300911832#534"    cd "/Users/tdo1/Desktop/tdo1-zap.iPhone EN DEV /src"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -strip-debug-symbols -resolve-src-symlinks "/Users/tdo1/Desktop/tdo1-zap.iPhone EN DEV /src/Resources/Images/pin-up-fav.png" "/Users/tdo1/Desktop/tdo1-zap.iPhone EN DEV /src/build/Release-iphonesimulator/zap quebec.app"0#
+
+CCpResource "build/Release-iphonesimulator/zap quebec.app/pin-up.png" Resources/Images/pin-up.png
+s298833619.809286
+e298833619.821610
+r1
+xCpResource
+xbuild/Release-iphonesimulator/zap quebec.app/pin-up.png
+xResources/Images/pin-up.png
+lSLF07#2@32"Copy Resources/Images/pin-up.png298833619#298833619#0(0"0(0#0#75"/Users/tdo1/Desktop/tdo1-zap.iPhone EN DEV /src/Resources/Images/pin-up.png4300911832#530"    cd "/Users/tdo1/Desktop/tdo1-zap.iPhone EN DEV /src"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -strip-debug-symbols -resolve-src-symlinks "/Users/tdo1/Desktop/tdo1-zap.iPhone EN DEV /src/Resources/Images/pin-up.png" "/Users/tdo1/Desktop/tdo1-zap.iPhone EN DEV /src/build/Release-iphonesimulator/zap quebec.app"0#
+
+CCpResource "build/Release-iphonesimulator/zap quebec.app/pinstripes-classic.gif" Resources/news_files/pinstripes-classic.gif
+s298833619.656128
+e298833619.687544
+r1
+xCpResource
+xbuild/Release-iphonesimulator/zap quebec.app/pinstripes-classic.gif
+xResources/news_files/pinstripes-classic.gif
+lSLF07#2@48"Copy Resources/news_files/pinstripes-classic.gif298833619#298833619#0(0"0(0#0#91"/Users/tdo1/Desktop/tdo1-zap.iPhone EN DEV /src/Resources/news_files/pinstripes-classic.gif4300911832#546"    cd "/Users/tdo1/Desktop/tdo1-zap.iPhone EN DEV /src"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -strip-debug-symbols -resolve-src-symlinks "/Users/tdo1/Desktop/tdo1-zap.iPhone EN DEV /src/Resources/news_files/pinstripes-classic.gif" "/Users/tdo1/Desktop/tdo1-zap.iPhone EN DEV /src/build/Release-iphonesimulator/zap quebec.app"0#
+
+CCpResource "build/Release-iphonesimulator/zap quebec.app/searching-back.png" Resources/Images/searching-back.png
+s298833619.813817
+e298833619.850506
+r1
+xCpResource
+xbuild/Release-iphonesimulator/zap quebec.app/searching-back.png
+xResources/Images/searching-back.png
+lSLF07#2@40"Copy Resources/Images/searching-back.png298833619#298833619#0(0"0(0#0#83"/Users/tdo1/Desktop/tdo1-zap.iPhone EN DEV /src/Resources/Images/searching-back.png4300911832#538"    cd "/Users/tdo1/Desktop/tdo1-zap.iPhone EN DEV /src"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -strip-debug-symbols -resolve-src-symlinks "/Users/tdo1/Desktop/tdo1-zap.iPhone EN DEV /src/Resources/Images/searching-back.png" "/Users/tdo1/Desktop/tdo1-zap.iPhone EN DEV /src/build/Release-iphonesimulator/zap quebec.app"0#
+
+CCpResource "build/Release-iphonesimulator/zap quebec.app/showmap.png" Resources/Images/showmap.png
+s298833619.833993
+e298833619.850363
+r1
+xCpResource
+xbuild/Release-iphonesimulator/zap quebec.app/showmap.png
+xResources/Images/showmap.png
+lSLF07#2@33"Copy Resources/Images/showmap.png298833619#298833619#0(0"0(0#0#76"/Users/tdo1/Desktop/tdo1-zap.iPhone EN DEV /src/Resources/Images/showmap.png4300911832#531"    cd "/Users/tdo1/Desktop/tdo1-zap.iPhone EN DEV /src"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -strip-debug-symbols -resolve-src-symlinks "/Users/tdo1/Desktop/tdo1-zap.iPhone EN DEV /src/Resources/Images/showmap.png" "/Users/tdo1/Desktop/tdo1-zap.iPhone EN DEV /src/build/Release-iphonesimulator/zap quebec.app"0#
+
+CCpResource "build/Release-iphonesimulator/zap quebec.app/style-compressed.css" Resources/news_files/style-compressed.css
+s298833619.659258
+e298833619.687663
+r1
+xCpResource
+xbuild/Release-iphonesimulator/zap quebec.app/style-compressed.css
+xResources/news_files/style-compressed.css
+lSLF07#2@46"Copy Resources/news_files/style-compressed.css298833619#298833619#0(0"0(0#0#89"/Users/tdo1/Desktop/tdo1-zap.iPhone EN DEV /src/Resources/news_files/style-compressed.css4300911832#544"    cd "/Users/tdo1/Desktop/tdo1-zap.iPhone EN DEV /src"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -strip-debug-symbols -resolve-src-symlinks "/Users/tdo1/Desktop/tdo1-zap.iPhone EN DEV /src/Resources/news_files/style-compressed.css" "/Users/tdo1/Desktop/tdo1-zap.iPhone EN DEV /src/build/Release-iphonesimulator/zap quebec.app"0#
+
+CCpResource "build/Release-iphonesimulator/zap quebec.app/style.css" Resources/news_files/style.css
+s298833619.664981
+e298833619.687301
+r1
+xCpResource
+xbuild/Release-iphonesimulator/zap quebec.app/style.css
+xResources/news_files/style.css
+lSLF07#2@35"Copy Resources/news_files/style.css298833619#298833619#0(0"0(0#0#78"/Users/tdo1/Desktop/tdo1-zap.iPhone EN DEV /src/Resources/news_files/style.css4300911832#533"    cd "/Users/tdo1/Desktop/tdo1-zap.iPhone EN DEV /src"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -strip-debug-symbols -resolve-src-symlinks "/Users/tdo1/Desktop/tdo1-zap.iPhone EN DEV /src/Resources/news_files/style.css" "/Users/tdo1/Desktop/tdo1-zap.iPhone EN DEV /src/build/Release-iphonesimulator/zap quebec.app"0#
+
+CCpResource "build/Release-iphonesimulator/zap quebec.app/tab-info.png" Resources/Images/tab-info.png
+s298833619.817195
+e298833619.848879
+r1
+xCpResource
+xbuild/Release-iphonesimulator/zap quebec.app/tab-info.png
+xResources/Images/tab-info.png
+lSLF07#2@34"Copy Resources/Images/tab-info.png298833619#298833619#0(0"0(0#0#77"/Users/tdo1/Desktop/tdo1-zap.iPhone EN DEV /src/Resources/Images/tab-info.png4300911832#532"    cd "/Users/tdo1/Desktop/tdo1-zap.iPhone EN DEV /src"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -strip-debug-symbols -resolve-src-symlinks "/Users/tdo1/Desktop/tdo1-zap.iPhone EN DEV /src/Resources/Images/tab-info.png" "/Users/tdo1/Desktop/tdo1-zap.iPhone EN DEV /src/build/Release-iphonesimulator/zap quebec.app"0#
+
+CCpResource "build/Release-iphonesimulator/zap quebec.app/tab-list.png" Resources/Images/tab-list.png
+s298833619.822401
+e298833619.849056
+r1
+xCpResource
+xbuild/Release-iphonesimulator/zap quebec.app/tab-list.png
+xResources/Images/tab-list.png
+lSLF07#2@34"Copy Resources/Images/tab-list.png298833619#298833619#0(0"0(0#0#77"/Users/tdo1/Desktop/tdo1-zap.iPhone EN DEV /src/Resources/Images/tab-list.png4300911832#532"    cd "/Users/tdo1/Desktop/tdo1-zap.iPhone EN DEV /src"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -strip-debug-symbols -resolve-src-symlinks "/Users/tdo1/Desktop/tdo1-zap.iPhone EN DEV /src/Resources/Images/tab-list.png" "/Users/tdo1/Desktop/tdo1-zap.iPhone EN DEV /src/build/Release-iphonesimulator/zap quebec.app"0#
+
+CCpResource "build/Release-iphonesimulator/zap quebec.app/tab-list2.png" Resources/Images/tab-list2.png
+s298833619.825692
+e298833619.849201
+r1
+xCpResource
+xbuild/Release-iphonesimulator/zap quebec.app/tab-list2.png
+xResources/Images/tab-list2.png
+lSLF07#2@35"Copy Resources/Images/tab-list2.png298833619#298833619#0(0"0(0#0#78"/Users/tdo1/Desktop/tdo1-zap.iPhone EN DEV /src/Resources/Images/tab-list2.png4300911832#533"    cd "/Users/tdo1/Desktop/tdo1-zap.iPhone EN DEV /src"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -strip-debug-symbols -resolve-src-symlinks "/Users/tdo1/Desktop/tdo1-zap.iPhone EN DEV /src/Resources/Images/tab-list2.png" "/Users/tdo1/Desktop/tdo1-zap.iPhone EN DEV /src/build/Release-iphonesimulator/zap quebec.app"0#
+
+CCpResource "build/Release-iphonesimulator/zap quebec.app/tab-map.png" Resources/Images/tab-map.png
+s298833619.828231
+e298833619.849368
+r1
+xCpResource
+xbuild/Release-iphonesimulator/zap quebec.app/tab-map.png
+xResources/Images/tab-map.png
+lSLF07#2@33"Copy Resources/Images/tab-map.png298833619#298833619#0(0"0(0#0#76"/Users/tdo1/Desktop/tdo1-zap.iPhone EN DEV /src/Resources/Images/tab-map.png4300911832#531"    cd "/Users/tdo1/Desktop/tdo1-zap.iPhone EN DEV /src"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -strip-debug-symbols -resolve-src-symlinks "/Users/tdo1/Desktop/tdo1-zap.iPhone EN DEV /src/Resources/Images/tab-map.png" "/Users/tdo1/Desktop/tdo1-zap.iPhone EN DEV /src/build/Release-iphonesimulator/zap quebec.app"0#
+
+CCpResource "build/Release-iphonesimulator/zap quebec.app/tab-rss.png" Resources/Images/tab-rss.png
+s298833619.831885
+e298833619.849507
+r1
+xCpResource
+xbuild/Release-iphonesimulator/zap quebec.app/tab-rss.png
+xResources/Images/tab-rss.png
+lSLF07#2@33"Copy Resources/Images/tab-rss.png298833619#298833619#0(0"0(0#0#76"/Users/tdo1/Desktop/tdo1-zap.iPhone EN DEV /src/Resources/Images/tab-rss.png4300911832#531"    cd "/Users/tdo1/Desktop/tdo1-zap.iPhone EN DEV /src"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -strip-debug-symbols -resolve-src-symlinks "/Users/tdo1/Desktop/tdo1-zap.iPhone EN DEV /src/Resources/Images/tab-rss.png" "/Users/tdo1/Desktop/tdo1-zap.iPhone EN DEV /src/build/Release-iphonesimulator/zap quebec.app"0#
+
+CCpResource "build/Release-iphonesimulator/zap quebec.app/whiteArrow.png" Resources/Images/whiteArrow.png
+s298833619.862928
+e298833619.883619
+r1
+xCpResource
+xbuild/Release-iphonesimulator/zap quebec.app/whiteArrow.png
+xResources/Images/whiteArrow.png
+lSLF07#2@36"Copy Resources/Images/whiteArrow.png298833619#298833619#0(0"0(0#0#79"/Users/tdo1/Desktop/tdo1-zap.iPhone EN DEV /src/Resources/Images/whiteArrow.png4300911832#534"    cd "/Users/tdo1/Desktop/tdo1-zap.iPhone EN DEV /src"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -strip-debug-symbols -resolve-src-symlinks "/Users/tdo1/Desktop/tdo1-zap.iPhone EN DEV /src/Resources/Images/whiteArrow.png" "/Users/tdo1/Desktop/tdo1-zap.iPhone EN DEV /src/build/Release-iphonesimulator/zap quebec.app"0#
+
+CDataModelVersionCompile "/Users/tdo1/Desktop/tdo1-zap.iPhone EN DEV /src/build/Release-iphonesimulator/zap quebec.app/Hotspots.momd" "/Users/tdo1/Desktop/tdo1-zap.iPhone EN DEV /src/Resources/Hotspots.xcdatamodeld"
+s298833622.033458
+e298833622.316218
+r1
+xDataModelVersionCompile
+x/Users/tdo1/Desktop/tdo1-zap.iPhone EN DEV /src/build/Release-iphonesimulator/zap quebec.app/Hotspots.momd
+x/Users/tdo1/Desktop/tdo1-zap.iPhone EN DEV /src/Resources/Hotspots.xcdatamodeld
+lSLF07#2@116"DataModelVersionCompile "build/Release-iphonesimulator/zap quebec.app/Hotspots.momd" Resources/Hotspots.xcdatamodeld298833622#298833622#0(0"0(0#0#79"/Users/tdo1/Desktop/tdo1-zap.iPhone EN DEV /src/Resources/Hotspots.xcdatamodeld4300911832#436"    cd "/Users/tdo1/Desktop/tdo1-zap.iPhone EN DEV /src"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/momc -XD_MOMC_TARGET_VERSION=10.5 "/Users/tdo1/Desktop/tdo1-zap.iPhone EN DEV /src/Resources/Hotspots.xcdatamodeld" "/Users/tdo1/Desktop/tdo1-zap.iPhone EN DEV /src/build/Release-iphonesimulator/zap quebec.app/Hotspots.momd"0#
+
+CGenerateDSYMFile "/Users/tdo1/Desktop/tdo1-zap.iPhone EN DEV /src/build/Release-iphonesimulator/zap quebec.app.dSYM" "/Users/tdo1/Desktop/tdo1-zap.iPhone EN DEV /src/build/Release-iphonesimulator/zap quebec.app/zap quebec"
+s298833626.322499
+e298833626.448543
+r1
+xGenerateDSYMFile
+x/Users/tdo1/Desktop/tdo1-zap.iPhone EN DEV /src/build/Release-iphonesimulator/zap quebec.app.dSYM
+x/Users/tdo1/Desktop/tdo1-zap.iPhone EN DEV /src/build/Release-iphonesimulator/zap quebec.app/zap quebec
+lSLF07#2@126"GenerateDSYMFile "build/Release-iphonesimulator/zap quebec.app.dSYM" "build/Release-iphonesimulator/zap quebec.app/zap quebec"298833626#298833626#0(0"0(0#0#103"/Users/tdo1/Desktop/tdo1-zap.iPhone EN DEV /src/build/Release-iphonesimulator/zap quebec.app/zap quebec4300911832#429"    cd "/Users/tdo1/Desktop/tdo1-zap.iPhone EN DEV /src"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/dsymutil "/Users/tdo1/Desktop/tdo1-zap.iPhone EN DEV /src/build/Release-iphonesimulator/zap quebec.app/zap quebec" -o "/Users/tdo1/Desktop/tdo1-zap.iPhone EN DEV /src/build/Release-iphonesimulator/zap quebec.app.dSYM"0#
+
+CLd "/Users/tdo1/Desktop/tdo1-zap.iPhone EN DEV /src/build/Release-iphonesimulator/zap quebec.app/zap quebec" normal i386
+s298833625.132391
+e298833626.322293
+r1
+xLd
+x/Users/tdo1/Desktop/tdo1-zap.iPhone EN DEV /src/build/Release-iphonesimulator/zap quebec.app/zap quebec
+xnormal
+xi386
+lSLF07#2@108"Link /Users/tdo1/Desktop/tdo1-zap.iPhone EN DEV /src/build/Release-iphonesimulator/zap quebec.app/zap quebec298833625#298833626#0(0"0(0#0#0"4300911832#1141"    cd "/Users/tdo1/Desktop/tdo1-zap.iPhone EN DEV /src"    setenv MACOSX_DEPLOYMENT_TARGET 10.5    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -arch i386 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.3.sdk "-L/Users/tdo1/Desktop/tdo1-zap.iPhone EN DEV /src/build/Release-iphonesimulator" "-L/Users/tdo1/Desktop/tdo1-zap.iPhone EN DEV /src/Librairies" "-F/Users/tdo1/Desktop/tdo1-zap.iPhone EN DEV /src/build/Release-iphonesimulator" -filelist "/Users/tdo1/Desktop/tdo1-zap.iPhone EN DEV /src/build/zap quebec.build/Release-iphonesimulator/zap quebec.build/Objects-normal/i386/zap quebec.LinkFileList" -mmacosx-version-min=10.5 -framework Foundation -framework UIKit -framework CoreGraphics -framework CoreLocation -framework MapKit -framework SystemConfiguration -framework CoreData -lFlurryWithLocation -framework QuartzCore -o "/Users/tdo1/Desktop/tdo1-zap.iPhone EN DEV /src/build/Release-iphonesimulator/zap quebec.app/zap quebec"0#
+
+CProcessInfoPlistFile "/Users/tdo1/Desktop/tdo1-zap.iPhone EN DEV /src/build/Release-iphonesimulator/zap quebec.app/Info.plist" Ile_sans_fil-Info.plist
+s298833609.577941
+e298833609.581934
+r1
+xProcessInfoPlistFile
+x/Users/tdo1/Desktop/tdo1-zap.iPhone EN DEV /src/build/Release-iphonesimulator/zap quebec.app/Info.plist
+xIle_sans_fil-Info.plist
+lSLF07#2@31"Process Ile_sans_fil-Info.plist298833609#298833609#0(0"0(0#0#71"/Users/tdo1/Desktop/tdo1-zap.iPhone EN DEV /src/Ile_sans_fil-Info.plist4300911832#527"    cd "/Users/tdo1/Desktop/tdo1-zap.iPhone EN DEV /src"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-infoPlistUtility Ile_sans_fil-Info.plist -genpkginfo "/Users/tdo1/Desktop/tdo1-zap.iPhone EN DEV /src/build/Release-iphonesimulator/zap quebec.app/PkgInfo" -expandbuildsettings -format binary -platform iphonesimulator -o "/Users/tdo1/Desktop/tdo1-zap.iPhone EN DEV /src/build/Release-iphonesimulator/zap quebec.app/Info.plist"0#
+
+CProcessPCH /var/folders/DA/DAXmSl1oEJK1f5ld+ybexk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Ile_sans_fil_Prefix-bifnegjfctejnzacmowtmqnerjid/Ile_sans_fil_Prefix.pch.gch Ile_sans_fil_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+s298824939.777461
+e298824939.783099
+r0
+xProcessPCH
+x/var/folders/DA/DAXmSl1oEJK1f5ld+ybexk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Ile_sans_fil_Prefix-bifnegjfctejnzacmowtmqnerjid/Ile_sans_fil_Prefix.pch.gch
+xIle_sans_fil_Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+oi686-apple-darwin10-gcc-4.2.1: /Users/tdo1/Desktop/tdo1-zap.iPhone EN DEV /src/Ile_sans_fil_Prefix.pch: No such file or directory
+oi686-apple-darwin10-gcc-4.2.1: warning: '-x objective-c-header' after last input file has no effect
+oi686-apple-darwin10-gcc-4.2.1: no input files
+lSLF07#2@34"Precompile Ile_sans_fil_Prefix.pch298824939#298824939#0(380"i686-apple-darwin10-gcc-4.2.1: /Users/tdo1/Desktop/tdo1-zap.iPhone EN DEV /src/Ile_sans_fil_Prefix.pch: No such file or directoryi686-apple-darwin10-gcc-4.2.1: warning: '-x objective-c-header' after last input file has no effecti686-apple-darwin10-gcc-4.2.1: no input filesCommand /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 failed with exit code 11(4@103"Command /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 failed with exit code 1298824939#18446744073709551615#0#0(1@0"0(0#0#71"/Users/tdo1/Desktop/tdo1-zap.iPhone EN DEV /src/Ile_sans_fil_Prefix.pch4300911832#1957"    cd "/Users/tdo1/Desktop/tdo1-zap.iPhone EN DEV /src"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c-header -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -Os -mdynamic-no-pic -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.3.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote "/Users/tdo1/Desktop/tdo1-zap.iPhone EN DEV /src/build/zap quebec.build/Release-iphonesimulator/zap quebec.build/zap quebec-generated-files.hmap" "-I/Users/tdo1/Desktop/tdo1-zap.iPhone EN DEV /src/build/zap quebec.build/Release-iphonesimulator/zap quebec.build/zap quebec-own-target-headers.hmap" "-I/Users/tdo1/Desktop/tdo1-zap.iPhone EN DEV /src/build/zap quebec.build/Release-iphonesimulator/zap quebec.build/zap quebec-all-target-headers.hmap" -iquote "/Users/tdo1/Desktop/tdo1-zap.iPhone EN DEV /src/build/zap quebec.build/Release-iphonesimulator/zap quebec.build/zap quebec-project-headers.hmap" "-F/Users/tdo1/Desktop/tdo1-zap.iPhone EN DEV /src/build/Release-iphonesimulator" "-I/Users/tdo1/Desktop/tdo1-zap.iPhone EN DEV /src/build/Release-iphonesimulator/include" "-I/Users/tdo1/Desktop/tdo1-zap.iPhone EN DEV /src/build/zap quebec.build/Release-iphonesimulator/zap quebec.build/DerivedSources/i386" "-I/Users/tdo1/Desktop/tdo1-zap.iPhone EN DEV /src/build/zap quebec.build/Release-iphonesimulator/zap quebec.build/DerivedSources" -c "/Users/tdo1/Desktop/tdo1-zap.iPhone EN DEV /src/Ile_sans_fil_Prefix.pch" -o /var/folders/DA/DAXmSl1oEJK1f5ld+ybexk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Ile_sans_fil_Prefix-bifnegjfctejnzacmowtmqnerjid/Ile_sans_fil_Prefix.pch.gch1#
+
+CProcessPCH /var/folders/DA/DAXmSl1oEJK1f5ld+ybexk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/zap_quebec-eidyoglsljzttodgxltmngsffijy/zap_quebec.pch.gch zap_quebec.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+s298833619.894982
+e298833622.033164
+r1
+xProcessPCH
+x/var/folders/DA/DAXmSl1oEJK1f5ld+ybexk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/zap_quebec-eidyoglsljzttodgxltmngsffijy/zap_quebec.pch.gch
+xzap_quebec.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@25"Precompile zap_quebec.pch298833619#298833622#0(0"0(0#0#62"/Users/tdo1/Desktop/tdo1-zap.iPhone EN DEV /src/zap_quebec.pch4300911832#1930"    cd "/Users/tdo1/Desktop/tdo1-zap.iPhone EN DEV /src"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c-header -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -Os -mdynamic-no-pic -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.3.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote "/Users/tdo1/Desktop/tdo1-zap.iPhone EN DEV /src/build/zap quebec.build/Release-iphonesimulator/zap quebec.build/zap quebec-generated-files.hmap" "-I/Users/tdo1/Desktop/tdo1-zap.iPhone EN DEV /src/build/zap quebec.build/Release-iphonesimulator/zap quebec.build/zap quebec-own-target-headers.hmap" "-I/Users/tdo1/Desktop/tdo1-zap.iPhone EN DEV /src/build/zap quebec.build/Release-iphonesimulator/zap quebec.build/zap quebec-all-target-headers.hmap" -iquote "/Users/tdo1/Desktop/tdo1-zap.iPhone EN DEV /src/build/zap quebec.build/Release-iphonesimulator/zap quebec.build/zap quebec-project-headers.hmap" "-F/Users/tdo1/Desktop/tdo1-zap.iPhone EN DEV /src/build/Release-iphonesimulator" "-I/Users/tdo1/Desktop/tdo1-zap.iPhone EN DEV /src/build/Release-iphonesimulator/include" "-I/Users/tdo1/Desktop/tdo1-zap.iPhone EN DEV /src/build/zap quebec.build/Release-iphonesimulator/zap quebec.build/DerivedSources/i386" "-I/Users/tdo1/Desktop/tdo1-zap.iPhone EN DEV /src/build/zap quebec.build/Release-iphonesimulator/zap quebec.build/DerivedSources" -c "/Users/tdo1/Desktop/tdo1-zap.iPhone EN DEV /src/zap_quebec.pch" -o /var/folders/DA/DAXmSl1oEJK1f5ld+ybexk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/zap_quebec-eidyoglsljzttodgxltmngsffijy/zap_quebec.pch.gch0#
+
+CTouch "/Users/tdo1/Desktop/tdo1-zap.iPhone EN DEV /src/build/Release-iphonesimulator/zap quebec.app"
+s298833626.448649
+e298833626.474428
+r1
+xTouch
+x/Users/tdo1/Desktop/tdo1-zap.iPhone EN DEV /src/build/Release-iphonesimulator/zap quebec.app
+lSLF07#2@98"Touch /Users/tdo1/Desktop/tdo1-zap.iPhone EN DEV /src/build/Release-iphonesimulator/zap quebec.app298833626#298833626#0(0"0(0#0#0"4300911832#305"    cd "/Users/tdo1/Desktop/tdo1-zap.iPhone EN DEV /src"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/touch -c "/Users/tdo1/Desktop/tdo1-zap.iPhone EN DEV /src/build/Release-iphonesimulator/zap quebec.app"0#
+

@@ -1,0 +1,69 @@
+/* 
+   Localizable.strings
+   Ile sans fil
+
+   Created by Oli Kenobi on 09-10-19.
+   Copyright 2009 Kenobi Studios. All rights reserved.
+ */
+ 
+"Map" = "Map";
+"Hotspots" = "Hotspots";
+"News" = "News";
+"Informations" = "Informations";
+"Favorites" = "Favorites";
+// Connection View
+"Cannot connect to the Internet" = "Cannot connect to the Internet";
+"You must connect to a Wi-Fi or cellular data network to view the map." = "You must connect to a Wi-Fi or cellular data network to view the map.";
+"To take advantage of offline mode, you need to connect once to Internet to create the database of hotspots." = "To take advantage of OFFLINE MODE, you need to connect once to Internet to create the database of hotspots.";
+"To take advantage of offline mode, you need to connect once to Internet to create the database of news." = "To take advantage of OFFLINE MODE, you need to connect once to Internet to create the database of news.";
+
+"Loading..." = "Loading...";
+"Release to refresh..." = "Release to refresh...";
+"Pull down to refresh..." = "Pull down to refresh...";
+"Last Updated: %@" = "Last Updated: %@";
+"Locating..." = "Locating";
+"You are here" = "You are here";
+"There are no location in the area" = "There are no location in the area";
+"Could not find the address" = "Could not find the address";
+
+"btn-back-map" = "btn-back-map-en.png";
+"btn-retour" = "btn-retour-en.png";
+"btn-back-favorites" = "btn-back-favorites-en.png";
+"btn-back-list" = "btn-back-list-en.png"; 
+"Address" = "Address";
+"Phone" = "Phone";
+"Email" = "Email";
+"Directions To Here" = "Directions To Here";
+"Show it on the map" = "Show it on the map";
+"Add to Favorites" = "Add to Favorites";
+"Remove to Favorites" = "Remove to Favorites";
+"Open in Google Maps?" = "Open in Google Maps?";
+"Call the phone number?" = "Call the phone number?";
+"Send an email?" = "Send an email?";
+"This hotspot has been removed!" = "This hotspot has been removed!";
+
+"site apache"= "http://www.ilesansfil.org/welcome/about/app-license/";
+
+"ISF News" = "ZAP Québec News";
+
+"Yes" = "Yes";
+"No" = "No";
+"Visit the ZAP Quebec website?" = "Visit the ZAP Quebec website?";
+"Visit the Île sans fil website?" = "Visit the Île sans fil website?";
+"Visit the iWeb website?" = "Visit the iWeb website?";
+"Visit the Thomas Dobranowski website?" = "Visit the Thomas Dobranowski website?";
+"Visit the Laurent Maisonnave website?" = "Visit the Laurent Maisonnave website?";
+"Visit the Patrick Boucher website?" = "Visit the Patrick Boucher website?";
+"Visit the ZAP Quebec website Apache 2.0 license?" = "Visit the ZAP Quebec website Apache 2.0 license?";
+"Call ZAP Quebec?" = "Call ZAP Quebec?";
+"Send an email to ZAP Quebec?" = "Send an email to ZAP Quebec?";
+"infosImage" = "infos_en.png";
+"isfButton" = "btn_isf_en.png";
+"backButton" = "btn_isf_infos_back_en.png";
+"isfInfosImage" = "isf_infos_en.png";
+"isfInfosNotice" = "isfInfosNotice_en.png";
+"isfCreditsImage" ="btn_credits_en.png";
+"btn_notice" = "btn_notice_en.png";
+
+
+"textinfo" = "This application allows you to find hotspots free wireless network ZAP Québec, a body nonprofit working on the whole territory of the Capitale-Nationale, Levis along the Côte-de-Beaupre.";

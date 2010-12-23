@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>NSManagedObjectModel_CurrentVersionName</key>
+	<string>Hotspots 3</string>
+	<key>NSManagedObjectModel_VersionHashes</key>
+	<dict>
+		<key>Hotspots</key>
+		<dict>
+			<key>Hotspot</key>
+			<data>
+			JobCaPxMjnBrSbYDdfyATnyECVtXdoqYtRpOpV4SG68=
+			</data>
+			<key>Node</key>
+			<data>
+			V5RJiWvr4ZHBkdrXd6RCHOTLeFaaEONOJEj/o8XoNGs=
+			</data>
+		</dict>
+		<key>Hotspots 2</key>
+		<dict>
+			<key>Favorite</key>
+			<data>
+			apNQ43MzhMJNtSDXlw4yYgjEWtZYA7hphSk+uX11AU0=
+			</data>
+			<key>Hotspot</key>
+			<data>
+			JobCaPxMjnBrSbYDdfyATnyECVtXdoqYtRpOpV4SG68=
+			</data>
+			<key>Node</key>
+			<data>
+			V5RJiWvr4ZHBkdrXd6RCHOTLeFaaEONOJEj/o8XoNGs=
+			</data>
+		</dict>
+		<key>Hotspots 3</key>
+		<dict>
+			<key>Favorite</key>
+			<data>
+			apNQ43MzhMJNtSDXlw4yYgjEWtZYA7hphSk+uX11AU0=
+			</data>
+			<key>Hotspot</key>
+			<data>
+			JobCaPxMjnBrSbYDdfyATnyECVtXdoqYtRpOpV4SG68=
+			</data>
+			<key>News</key>
+			<data>
+			QSXn5+p5OVondA5gWhN+3eiArLQqBYJI4zTtS0OMYcc=
+			</data>
+			<key>Node</key>
+			<data>
+			V5RJiWvr4ZHBkdrXd6RCHOTLeFaaEONOJEj/o8XoNGs=
+			</data>
+		</dict>
+	</dict>
+</dict>
+</plist>
