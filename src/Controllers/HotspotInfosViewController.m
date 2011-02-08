@@ -166,7 +166,7 @@ static NSString* kAppId = @"147253168659531";
 	CGSize size = [hotspot.name sizeWithFont:[UIFont boldSystemFontOfSize:17] constrainedToSize:CGSizeMake(280, 80) lineBreakMode:UILineBreakModeWordWrap];
 	UIView *headerView = [[[UIView alloc] initWithFrame:CGRectMake(0, 0, 320, size.height+40.0f)] autorelease];
 //	UILabel *nameLabel = [[[UILabel alloc] initWithFrame:CGRectMake(20, 20, 280, size.height+10)] autorelease];
-	UILabel *nameLabel = [[[UILabel alloc] initWithFrame:CGRectMake(45, 20, 255, size.height+10)] autorelease];
+	UILabel *nameLabel = [[[UILabel alloc] initWithFrame:CGRectMake(45, 20, 210, size.height+10)] autorelease];
 	nameLabel.backgroundColor = [UIColor clearColor];
 	nameLabel.text = hotspot.name;
 	nameLabel.font = [UIFont boldSystemFontOfSize:17];
@@ -210,7 +210,7 @@ static NSString* kAppId = @"147253168659531";
 	NSString *texte=[[NSString alloc] init];
 	
 	
-	texte=[[NSLocalizedString(@"@ ",@"") stringByAppendingString:hotspot.name] stringByAppendingString:@" #ZAPqc"];
+	texte=[[NSLocalizedString(@"@ ",@"") stringByAppendingString:hotspot.name] stringByAppendingString:@" #zapqc"];
 	  
 	[twitterviewcontroller setmessage:texte];
 	

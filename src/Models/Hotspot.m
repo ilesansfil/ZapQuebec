@@ -41,7 +41,7 @@
 + (NSArray *)findAll {
 	return [[Model shared] fetchObjectsForEntityForName:@"Hotspot" 
 															predicate:nil 
-															 sortedBy:@"createdAt"
+															 sortedBy:@"name"
 																ascending:YES
 																 limit:0];
 }

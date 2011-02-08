@@ -106,6 +106,7 @@
 		C6F64EAA11C6AB16002A32DB /* infos_en.png in Resources */ = {isa = PBXBuildFile; fileRef = C6F64EA811C6AB16002A32DB /* infos_en.png */; };
 		C6F64EAB11C6AB16002A32DB /* infos_fr.png in Resources */ = {isa = PBXBuildFile; fileRef = C6F64EA911C6AB16002A32DB /* infos_fr.png */; };
 		C6F7EBA5118FC4860085A2C5 /* Hotspots.xcdatamodeld in Sources */ = {isa = PBXBuildFile; fileRef = C6F7EBA4118FC4860085A2C5 /* Hotspots.xcdatamodeld */; };
+		EC25DAB212CBFC1100F3D809 /* fondtwitter.png in Resources */ = {isa = PBXBuildFile; fileRef = EC25DAB112CBFC1100F3D809 /* fondtwitter.png */; };
 		ECC713ED12B83EF500F1FD37 /* build-state.dat in Resources */ = {isa = PBXBuildFile; fileRef = ECC7138F12B83EF500F1FD37 /* build-state.dat */; };
 		ECC713EE12B83EF500F1FD37 /* build-state~.dat in Resources */ = {isa = PBXBuildFile; fileRef = ECC7139012B83EF500F1FD37 /* build-state~.dat */; };
 		ECC713EF12B83EF500F1FD37 /* facebook-ios-sdk.dep in Resources */ = {isa = PBXBuildFile; fileRef = ECC7139112B83EF500F1FD37 /* facebook-ios-sdk.dep */; };
@@ -294,6 +295,7 @@
 		C6F64EA911C6AB16002A32DB /* infos_fr.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = infos_fr.png; sourceTree = "<group>"; };
 		C6F7EBA0118FC46F0085A2C5 /* Hotspots.xcdatamodel */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = wrapper.xcdatamodel; path = Hotspots.xcdatamodel; sourceTree = "<group>"; };
 		C6F7EBA6118FC4860085A2C5 /* Hotspots 2.xcdatamodel */ = {isa = PBXFileReference; lastKnownFileType = wrapper.xcdatamodel; path = "Hotspots 2.xcdatamodel"; sourceTree = "<group>"; };
+		EC25DAB112CBFC1100F3D809 /* fondtwitter.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = fondtwitter.png; sourceTree = "<group>"; };
 		ECC7138F12B83EF500F1FD37 /* build-state.dat */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = "build-state.dat"; sourceTree = "<group>"; };
 		ECC7139012B83EF500F1FD37 /* build-state~.dat */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = "build-state~.dat"; sourceTree = "<group>"; };
 		ECC7139112B83EF500F1FD37 /* facebook-ios-sdk.dep */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = "facebook-ios-sdk.dep"; sourceTree = "<group>"; };
@@ -540,6 +542,7 @@
 		4F091E3F1077BDA900794F0E /* Images */ = {
 			isa = PBXGroup;
 			children = (
+				EC25DAB112CBFC1100F3D809 /* fondtwitter.png */,
 				ECC7147F12B852D900F1FD37 /* logo_facebook.png */,
 				ECC7148012B852D900F1FD37 /* logo_twitter.png */,
 				ECC7148112B852D900F1FD37 /* settings_fr.png */,
@@ -1040,6 +1043,7 @@
 				ECC7148812B852D900F1FD37 /* settings_en.png in Resources */,
 				ECC7148912B852D900F1FD37 /* bttwitter.png in Resources */,
 				ECC7148A12B852D900F1FD37 /* twitter.png in Resources */,
+				EC25DAB212CBFC1100F3D809 /* fondtwitter.png in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
